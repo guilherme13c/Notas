@@ -1,6 +1,6 @@
 # Ponteiros e alocação
 Ponteiros são variáveis que armazenam endereços de [[Armazenamento e manipulação de dados|memória]], ou seja, _"apontam"_ para outras variáveis.
->***Obs.:*** Endereços de [[Armazenamento e manipulação de dados|memória]] normalmente são descritos por números em [[Representação de inteiros|hexadecimal(base 16)]]
+>***Obs.:*** Endereços de [[Armazenamento e manipulação de dados|memória]] normalmente são descritos por números em [[Bases Numéricas|hexadecimal(base 16)]]
 
 Ponteiros são armazenados na [[Armazenamento e manipulação de dados#Stack|Pilha]] e normalmente apontam para endereços na [[Armazenamento e manipulação de dados#Heap|Heap]], mas podem também apontar para endereços na [[Armazenamento e manipulação de dados#Stack|Pilha]].
 
