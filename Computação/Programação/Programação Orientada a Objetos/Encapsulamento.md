@@ -8,7 +8,7 @@ Encapsulamento é o mecanismo que coloca juntos os dados e suas funções associ
 + Protected
 + Private
 
-```C++
+```Cpp
 #include <string>
 
 class Classe {

@@ -19,7 +19,7 @@ $$\text{Pilha} \longrightarrow \text{Pilha}$$
 ## Ponteiro para Ponteiro
 Nada mais é do que um ponteiro que aponte para um espaço de [[Armazenamento e manipulação de dados|memória]] referente a outro ponteiro, e.g.:
 
-```C/C++
+```C
 int main() {
 	int *p1, **p2, x=1;
 	
@@ -63,7 +63,7 @@ int main() {
 >Liberação: **delete**
 
 Exemplo em C++:
-~~~C++
+~~~Cpp
 int main() {
 	int *a = nullptr;
 	int b = 10;
@@ -82,7 +82,7 @@ int main() {
 }
 ~~~
 ou para vetores:
-~~~C++
+~~~Cpp
 int main() {
 	int *p = new int[10];
 
@@ -95,7 +95,7 @@ int main() {
 ~~~
 ---
 ## Ponteiros para estruturas (structs)
-```C++
+```Cpp
 int main() {
 	struct data {
 		int dia;

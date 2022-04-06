@@ -86,7 +86,7 @@ void BST::insertNode(int data) {
 
 ---
 
-```cpp
+```Cpp
 //main.cpp
 
 #include "BST.hpp"
@@ -105,7 +105,7 @@ int main() {
 ---
 ## Caminhamento Central
 
-```cpp
+```Cpp
 void inorder(NodeT* n) {
 	if (n == nullptr) {
 		return;

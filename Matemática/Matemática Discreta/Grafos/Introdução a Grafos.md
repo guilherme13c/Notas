@@ -31,7 +31,7 @@ Nota: A letra $K$ representa a letra inicial da palavra _komplett_, "completo" e
 
 ---
 ## Quantidade de Grafos Distintos com $n$ Vértices
-$$2^{n^2-n\over2}=2^{(\vert V\vert^2-\vert V\vert)\over 2}$$
+$$\Large{2^{n^2-n\over2}=2^{(\vert V\vert^2-\vert V\vert)\over 2}}$$
 
 ---
 # Grafo Ciclo ($C_n$)

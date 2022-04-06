@@ -25,7 +25,7 @@ O compilador "sabe" qual função invocar checando o tipo dos parâmetros. No c�
 ---
 # Sobrecarga de Operadores
 ## Leitura de Streams
-```cpp
+```Cpp
 // fraction.h
 #ifndef DATA_H
 #define DATA_H
@@ -38,7 +38,7 @@ std::istream& operator >> (std::istream& is, Fraction& dt);
 #endif
 ```
 
-```cpp
+```Cpp
 // fraction.cpp
 #include <iostream>
 #include "fraction.h"
@@ -49,7 +49,7 @@ std::istream& operator >> (std::istream& is, Fraction& dt) {
 }
 ```
 
-```cpp
+```Cpp
 // main.cpp
 #include <iostream>
 #include "fraction.h"
@@ -61,7 +61,7 @@ int main() {
 ```
 
 ## Escrita de Streams
-```cpp
+```Cpp
 // fraction.h
 #ifndef DATA_H
 #define DATA_H
@@ -75,7 +75,7 @@ std::istream& operator << (std::istream &out, Fraction const &dt);
 #endif
 ```
 
-```cpp
+```Cpp
 // fraction.cpp
 #include <iostream>
 #include "fraction.h"
@@ -89,7 +89,7 @@ std::istream& operator << (std::istream &out, Fraction const &f) {
 }
 ```
 
-```cpp
+```Cpp
 // main.cpp
 #include <iostream>
 #include "fraction.h"
@@ -102,7 +102,7 @@ int main() {
 ```
 
 ## Operação de Comparação
-```cpp
+```Cpp
 // fraction.h
 #ifndef DATA_H
 #define DATA_H

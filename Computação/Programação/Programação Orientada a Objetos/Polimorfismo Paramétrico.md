@@ -4,7 +4,7 @@
 ---
 # [[Biblioteca STL#Standard Template Library - STL|Templates (C++)]]
 
-```C++
+```Cpp
 template <class T>
 T get_max(T a, T b) {
 	return (a > b ? a : b);

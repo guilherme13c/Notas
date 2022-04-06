@@ -34,5 +34,4 @@ Neste caso não vamos achar a forma fechada da [[Recursão|recorrência]], mas s
 >>> $$af(\frac{n}{b})\leq cf(n)\text{, para } c<1.$$ 
 
 ---
-# Links
-[[Comportamento Asintótico das funções]];[[Funções]];
+[[Comportamento Asintótico das funções|]][[Funções|]]

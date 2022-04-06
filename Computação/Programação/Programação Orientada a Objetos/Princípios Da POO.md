@@ -21,7 +21,7 @@ Um sistema orientado a objetos baseia-se no **contrato** e não na implementaç�
 
 Proteção da estrutura interna (integridade)
 > Modificadores de acesso (C++):
-> ```C++
+> ```Cpp
 > public, protected, private
 > ```
 

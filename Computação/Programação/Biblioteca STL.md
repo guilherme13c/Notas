@@ -7,14 +7,14 @@ Bibliotecas são conjuntos de implementações em uma determinada linguagem. Ela
 
 Funcionalidades são utilizadas a partir do método `#include`:
 
-```C++
+```Cpp
 #include <string>
 #include <iostream>
 ```
 
 A Biblioteca Padrão do C++ é definida em um espaço de nomes (namespace) chamado `std`.
 
-```C++
+```Cpp
 #include <iostream>
 
 int main() {
@@ -25,7 +25,7 @@ int main() {
 
 Também podemos fazer a importação de todos os componentes do namespace:
 
-```C++
+```Cpp
 #include <iostream>
 
 using namespace std;	// importando os componentes do namespace
@@ -52,7 +52,7 @@ int main() {
 
 Templates (C++), Genérics(Java).
 
-```C++
+```Cpp
 template <typename T> class NodeG {
 	T data;
 	NodeG* next;
@@ -77,7 +77,7 @@ Os containers sequenciais são aqueles que mantém a ordem dos elementos de acor
 ###### Vector
 É um array genérico e dinamicamente redimensionável. Possiblita o acesso individual aos elementos a partir de índices e a adição e remoção de itens ao final de forma eficiente, além de poder ser percorrido em uma ordem específica.
 
-```C++
+```Cpp
 #include <vector>
 #include <iostream>
 
@@ -97,7 +97,7 @@ int main() {
 ###### List
 É uma lista duplamente encadeada, e por isso não possibilita acessar elementos usando índices. A adicão e remoção de elementos com posição conhecida é mais eficiente, já que não é precisso mover os demais elementos.
 
-```C++
+```Cpp
 #include <iostream>
 #include <list>
 
@@ -123,7 +123,7 @@ Os containers associativos mantém uma organização interna, que independe da s
 ###### Set
 Semelhante ao conceito matemático, guarda uma coleção de elementos distintos. Esses elementos devem ser comparáveis de acordo com algum critério.
 
-```C++
+```Cpp
 #include <iostream>
 #include <set>
 
@@ -152,7 +152,7 @@ int main() {
 ###### Map
 Array associativo ou dicionário, onde cada elemento possui uma chave única. Assim, o Map é formado por cunjuntos de pares <chave, valor>.
 
-```C++
+```Cpp
 #include <iostream>
 #include <string>
 #include <map>
@@ -196,7 +196,7 @@ int main() {
 
 São semelhantes aos ponteiros, sendo usados para acessar os elementos armazenados. Iteradores apontam para itens que estão em um container. Podemos iterar sobre os elementos, isto é, percorrê-los.
 
-```C++
+```Cpp
 #include <iostream>
 #include <vector>
 
@@ -223,7 +223,7 @@ São [[Algoritmos|algoritmos]] a serem usados em intervalos (Range) de elementos
 
 ***Atenção:*** em containers, o `begin()` aponta para o primeiro elemento, e o `end()` para a posição após o último. 
 
-```C++
+```Cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>

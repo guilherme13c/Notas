@@ -59,7 +59,6 @@ $$\lim_{x\to \infty}\frac{f(x)}{g(x)}=\infty$$
 >$$1\prec \log{\log{n}} \prec \log{n} \prec n^{\epsilon} \prec n^{c} \prec n^{\log{n}} \prec c^n \prec n^n \prec c^{c^n}$$onde $\epsilon$ e $c$ são constantes arbitrárias com $0 < \epsilon < 1 < c$.
 ---
 ### Obs.:
-Se $f(x)\in\Theta (g(x))$, então $ $f(x)\not\in o(g(x)) e f(x)\not\in\omega(g(x))$.
+Se $f(x)\in\Theta (g(x))$, então $f(x)\not\in o(g(x)) e f(x)\not\in\omega(g(x))$.
 
-# Links
-[[Funções]];
+[[Funções|]]

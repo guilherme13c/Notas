@@ -23,8 +23,17 @@ $$a_1,a_2,a_3,a_4,\ldots,a_n,\ldots$$
 >Se existe uma [[Funções|função]] $f(x), x\in\mathbb{R}$ tal que $a_n=f(n)$ então:
 >$$\lim_{n\to\infty}a_n=\lim_{x\to\infty}f(x),n\in\mathbb{N},x\in\mathbb{R}$$
 
+> #### Definição 3
+> Uma sequência $a_n$ é chamada **crescente** se $a_n<a_{n+1}$ para todo $n\geq1$, isso é,$a_1<a_2<a_3<\cdots$. É chamado **decrescente** se $a_n>a_{n+1}$ para todo $n\geq1$. Uma sequência é **monótona** se for crescente ou decrescente.
+
 > ###### Teorema 2
 > Se $a_n$ é uma sequência crescente e existe $M$ tal que $a_n<M,\forall n\in\mathbb{N}$, então:
 > $$\lim_{n\to\infty}a_n\leq M$$
+> e dizemos que $a_n$ é **limitada superiormente**.
 > Análogo para sequências descrescentes limitadas inferiormente por $N$:
 > $$\lim_{n\to\infty}a_n\geq N$$
+> e dizemos que $a_n$ é **limitada inferiormente**.
+> Se a sequência for limitada inferior e superiormente, então é uma **sequência limitada**.
+
+> ###### Teorema da Sequência Monotona
+> Toda sequência monótona limitada é convergente.

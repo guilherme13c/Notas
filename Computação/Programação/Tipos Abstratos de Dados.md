@@ -35,7 +35,7 @@
 # TAD's em C++
 Em C++, utilizamos estruturas (structs) para implementar os tipos abstratos de dados.
 
-```C++
+```Cpp
 #include <iostream>
 #include <cmath>
 

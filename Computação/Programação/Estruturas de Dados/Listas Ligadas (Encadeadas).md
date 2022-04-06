@@ -3,7 +3,7 @@
 São um tipo de [[Tipos Abstratos de Dados#Estruturas de dados|estrutura de dados]] parecido com vetores.
 Funcionam como uma corrente, onde cada elemento aponta para o próximo/anterior. Dessa forma, é possível alocar apenas a quantidade de memória necessária e inserir elementos no meio da lista se torna mais simples do que em vetores.
 
-```C++
+```Cpp
 struct Node {
 	int value;
 	int *nextNode;
