@@ -8,5 +8,32 @@ $\begin{cases}{\large S_n={c(1-r^n)\over 1-r}, \mbox{ se } r\not=1}\\{\large S_n
 
 $r^n\begin{cases}=1, \mbox{ se } r=1\\=\pm1, \mbox{ se } r=-1\\ \to0, \mbox{ se } r\in(-1,1)\\\to\infty, \mbox{ se } r>1\\\mbox{diverge}, \mbox{ se } r< -1\\\end{cases}$
 
-> A sequência $r^n$ converge se, e somente se, $r\in(-1,1)$:
+>### Soma de Série Geométrica
+>  A sequência $r^n$ converge se, e somente se, $r\in(-1,1)$:
 > $${\color{white}\sum_{k=1}^\infty{c\cdot r^{n-1}}={c\over 1-r}, \mbox{ se } r\in(-1,1)}$$
+
+>#### Definição
+>Dada uma série $\sum_{n=1}^\infty a_n=a_1+a_2+a_3+\cdots$, denote por $S_n$ sua $n$-ésima soma parcial:
+>$$S_n=\sum_{i=1}^n a_i=a_1+a_2+\cdots+a_n$$
+>Se a sequência $\set{S_n}$ for convergente e $\lim_{n\to\infty}S_n=S$ existir como um número real, então a série $\sum a_n$ é chamada **convergente**, e escrevemos
+>$$a_1+a_2+\cdots+a_n+\cdots=S \mbox{ ou } \sum_{n=1}^\infty a_n=S$$
+>O número $s$ é chamado a soma da série. Se a sequência $\set{S_n}$ é divergente, então a série é chamada **divergente**.
+
+>###### Teorema
+>Se a série $\sum_{n=1}^\infty a_n$ for convergente, então $\lim_{n\to\infty}a_n=0$.
+
+># Teste de Divergência
+>Se $\lim_{n\to\infty}a_n$ não existir ou se $\lim{n\to\infty}\not=0$, então a série $\sum_{n=1}^\infty a_n$ é divergente.
+
+# Teste da Integral
+>Suponha que $f$ seja uma função contínua, positiva e decrescente em $[1,\infty)$ e seja $a_n=f(n)$. Então a série $\sum_{n=1}^\infty$ é convergente se, e somente se, a integral imprópria $\int_1^\infty f(x)\;dx$ for convergente. Em outras palavras: 
+>
+>+ (i) Se $\int_1^\infty f(x) \;dx$ for convergente, então $\sum_{n=1}^\infty a_n$ é convergente.
+>+ (ii) Se $\int_1^\infty f(x) \;dx$ for divergente, então $\sum_{n=1}^\infty a_n$ é divergente.
+
+## Estimativa de Resto para o [[#Teste da Integral]]
+Suponha que $f(k)=a_k$, onde $f$ é uma função contínua, positiva, decrescente para $x\geq n$ e $\sum a_n$ é convergente. Se $R_n=s-s_n$, então
+$$\int_{n+1}^\infty f(x)\;dx\leq R_n\leq\int_n^\infty f(x)\;dx$$
+
+> ### $p$-séries
+> A série $p$ $\sum_{n=1}^\infty {1\over n^p}$ é convergente se $p>1$ e divergente se $p\leq1$.
