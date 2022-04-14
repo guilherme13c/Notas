@@ -26,14 +26,28 @@ $r^n\begin{cases}=1, \mbox{ se } r=1\\=\pm1, \mbox{ se } r=-1\\ \to0, \mbox{ se 
 >Se $\lim_{n\to\infty}a_n$ não existir ou se $\lim{n\to\infty}\not=0$, então a série $\sum_{n=1}^\infty a_n$ é divergente.
 
 # Teste da Integral
->Suponha que $f$ seja uma função contínua, positiva e decrescente em $[1,\infty)$ e seja $a_n=f(n)$. Então a série $\sum_{n=1}^\infty$ é convergente se, e somente se, a integral imprópria $\int_1^\infty f(x)\;dx$ for convergente. Em outras palavras: 
->
->+ (i) Se $\int_1^\infty f(x) \;dx$ for convergente, então $\sum_{n=1}^\infty a_n$ é convergente.
->+ (ii) Se $\int_1^\infty f(x) \;dx$ for divergente, então $\sum_{n=1}^\infty a_n$ é divergente.
+Suponha que $f$ seja uma função contínua, positiva e decrescente em $[1,\infty)$ e seja $a_n=f(n)$. Então a série $\sum_{n=1}^\infty$ é convergente se, e somente se, a integral imprópria $\int_1^\infty f(x)\;dx$ for convergente. Em outras palavras: 
+
++ (i) Se $\int_1^\infty f(x) \;dx$ for convergente, então $\sum_{n=1}^\infty a_n$ é convergente.
++ (ii) Se $\int_1^\infty f(x) \;dx$ for divergente, então $\sum_{n=1}^\infty a_n$ é divergente.
 
 ## Estimativa de Resto para o [[#Teste da Integral]]
-Suponha que $f(k)=a_k$, onde $f$ é uma função contínua, positiva, decrescente para $x\geq n$ e $\sum a_n$ é convergente. Se $R_n=s-s_n$, então
+Suponha que $f(k)=a_k$, onde $f$ é uma função contínua, positiva, decrescente para $x\geq n$ e $\sum a_n$ é convergente. Se $R_n=S-S_n$, então
 $$\int_{n+1}^\infty f(x)\;dx\leq R_n\leq\int_n^\infty f(x)\;dx$$
+Dessa forma é possível estimar a precisão da soma parcial $S_n$ como aproximação para $S$. Isso pode ser utilizado em computadores para reduzir a necessidade de computação sem grande perda de precisão.
 
 > ### $p$-séries
 > A série $p$ $\sum_{n=1}^\infty {1\over n^p}$ é convergente se $p>1$ e divergente se $p\leq1$.
+
+# Teste da Comparação
+Sejam $a_k,b_k,k=1,2,3,\ldots$, sequências de termos não negativos tais que$a_k\leq b_k\;\forall k\in\mathbb{N}$:
+1. Caso $\sum_{k=1}^\infty b_k$ convirja, $\sum_{k=1}^\infty a_k$ converge também.
+2. Caso $\sum_{k=1}^\infty a_k$ divirja, $\sum_{k=1}^\infty b_k$ diverge também.
+
+# Teste da Comparação no Limite
+Sejam $a_k,b_k,k\in\mathbb{N}$ sequências de termos positivos. Suponha que existe $\lim_{k\to\infty}{a_k\over b_k}$ ou que $\lim_{k\to\infty}{a_k\over b_k}=\infty$:
+
+Seja $\rho = \lim_{k\to\infty}{a_k\over b_k}, \rho\geq0$ ou $\rho=\infty$.
+1. Se $\rho>0$ e finito, então ou ambas $\sum_{k=1}^\infty a_k$ e $\sum_{k=1}^\infty b_k$ convergem, ou ambas divergem.
+2. Se $\rho=0$ e $\sum_{k=1}^\infty b_k$ converge, então $\sum_{k=1}^\infty a_k$ converge.
+3. Se $\rho=\infty$ e $\sum_{k=1}^\infty b_k$ diverge, então $\sum_{k=1}^\infty a_k$ diverge.
