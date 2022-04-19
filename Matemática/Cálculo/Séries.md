@@ -1,8 +1,9 @@
+# Séries
 #### Definição
 
 Uma **série** é a soma de todos os elementos de uma [[Sequências Infinitas|sequência infinita]].
 
-# Soma de Progressão Geométrica (PG):
+## Soma de Progressão Geométrica (PG):
 
 $\begin{cases}{\large S_n={c(1-r^n)\over 1-r}, \mbox{ se } r\not=1}\\{\large S_n={c\cdot n}, \mbox{ se } r=1}\end{cases}$
 
@@ -25,7 +26,7 @@ $r^n\begin{cases}=1, \mbox{ se } r=1\\=\pm1, \mbox{ se } r=-1\\ \to0, \mbox{ se 
 ># Teste de Divergência
 >Se $\lim_{n\to\infty}a_n$ não existir ou se $\lim{n\to\infty}\not=0$, então a série $\sum_{n=1}^\infty a_n$ é divergente.
 
-# Teste da Integral
+## Teste da Integral
 Suponha que $f$ seja uma função contínua, positiva e decrescente em $[1,\infty)$ e seja $a_n=f(n)$. Então a série $\sum_{n=1}^\infty$ é convergente se, e somente se, a integral imprópria $\int_1^\infty f(x)\;dx$ for convergente. Em outras palavras: 
 
 + (i) Se $\int_1^\infty f(x) \;dx$ for convergente, então $\sum_{n=1}^\infty a_n$ é convergente.
@@ -39,15 +40,24 @@ Dessa forma é possível estimar a precisão da soma parcial $S_n$ como aproxima
 > ### $p$-séries
 > A série $p$ $\sum_{n=1}^\infty {1\over n^p}$ é convergente se $p>1$ e divergente se $p\leq1$.
 
-# Teste da Comparação
+## Teste da Comparação
 Sejam $a_k,b_k,k=1,2,3,\ldots$, sequências de termos não negativos tais que$a_k\leq b_k\;\forall k\in\mathbb{N}$:
 1. Caso $\sum_{k=1}^\infty b_k$ convirja, $\sum_{k=1}^\infty a_k$ converge também.
 2. Caso $\sum_{k=1}^\infty a_k$ divirja, $\sum_{k=1}^\infty b_k$ diverge também.
 
-# Teste da Comparação no Limite
+## Teste da Comparação no Limite
 Sejam $a_k,b_k,k\in\mathbb{N}$ sequências de termos positivos. Suponha que existe $\lim_{k\to\infty}{a_k\over b_k}$ ou que $\lim_{k\to\infty}{a_k\over b_k}=\infty$:
 
 Seja $\rho = \lim_{k\to\infty}{a_k\over b_k}, \rho\geq0$ ou $\rho=\infty$.
 1. Se $\rho>0$ e finito, então ou ambas $\sum_{k=1}^\infty a_k$ e $\sum_{k=1}^\infty b_k$ convergem, ou ambas divergem.
 2. Se $\rho=0$ e $\sum_{k=1}^\infty b_k$ converge, então $\sum_{k=1}^\infty a_k$ converge.
 3. Se $\rho=\infty$ e $\sum_{k=1}^\infty b_k$ diverge, então $\sum_{k=1}^\infty a_k$ diverge.
+
+---
+# Séries Alternadas
+$b_k>0:$
+$\sum^\infty_{k=1}(-1)^{k-1}b_k$ ou $\sum^\infty_{k=1}(-1)^k b_k$
+$b_1-b_2+b_3-\ldots$ ou $-b_1+b_2-b_3+\ldots$
+
+## Teorema (Teste das [[#Séries Alternadas]])
+Seja ${b_k}$ uma sequência de termos positivos, decrescente e com $\lim_{n\to\infty}b_n=0$. Então, as séries alternadas $\sum^\infty_{k=1}(-1)^{k-1}b_k$ e $\sum^\infty_{k=1}(-1)^k b_k$ são convergentes.
