@@ -24,7 +24,7 @@ $r^n\begin{cases}=1, \mbox{ se } r=1\\=\pm1, \mbox{ se } r=-1\\ \to0, \mbox{ se 
 >Se a série $\sum_{n=1}^\infty a_n$ for convergente, então $\lim_{n\to\infty}a_n=0$.
 
 ># Teste de Divergência
->Se $\lim_{n\to\infty}a_n$ não existir ou se $\lim{n\to\infty}\not=0$, então a série $\sum_{n=1}^\infty a_n$ é divergente.
+>Se $\lim_{n\to\infty}a_n$ não existir ou se $\lim_{n\to\infty}a_n\not=0$, então a série $\sum_{n=1}^\infty a_n$ é divergente.
 
 ## Teste da Integral
 Suponha que $f$ seja uma função contínua, positiva e decrescente em $[1,\infty)$ e seja $a_n=f(n)$. Então a série $\sum_{n=1}^\infty$ é convergente se, e somente se, a integral imprópria $\int_1^\infty f(x)\;dx$ for convergente. Em outras palavras: 
@@ -41,7 +41,7 @@ Dessa forma é possível estimar a precisão da soma parcial $S_n$ como aproxima
 > A série $p$ $\sum_{n=1}^\infty {1\over n^p}$ é convergente se $p>1$ e divergente se $p\leq1$.
 
 ## Teste da Comparação
-Sejam $a_k,b_k,k=1,2,3,\ldots$, sequências de termos não negativos tais que$a_k\leq b_k\;\forall k\in\mathbb{N}$:
+Sejam $a_k,b_k,k=1,2,3,\ldots$, sequências de termos não negativos tais que $a_k\leq b_k\;\forall k\in\mathbb{N}$:
 1. Caso $\sum_{k=1}^\infty b_k$ convirja, $\sum_{k=1}^\infty a_k$ converge também.
 2. Caso $\sum_{k=1}^\infty a_k$ divirja, $\sum_{k=1}^\infty b_k$ diverge também.
 
