@@ -11,7 +11,7 @@ $r^n\begin{cases}=1, \mbox{ se } r=1\\=\pm1, \mbox{ se } r=-1\\ \to0, \mbox{ se 
 
 >### Soma de Série Geométrica
 >  A sequência $r^n$ converge se, e somente se, $r\in(-1,1)$:
-> $${\color{white}\sum_{k=1}^\infty{c\cdot r^{n-1}}={c\over 1-r}, \mbox{ se } r\in(-1,1)}$$
+> $${\color{white}\sum_{n=1}^\infty{c\cdot r^{n-1}}={c\over 1-r}, \mbox{ se } r\in(-1,1)}$$
 
 >#### Definição
 >Dada uma série $\sum_{n=1}^\infty a_n=a_1+a_2+a_3+\cdots$, denote por $S_n$ sua $n$-ésima soma parcial:
@@ -61,3 +61,35 @@ $b_1-b_2+b_3-\ldots$ ou $-b_1+b_2-b_3+\ldots$
 
 ## Teorema (Teste das [[#Séries Alternadas]])
 Seja ${b_k}$ uma sequência de termos positivos, decrescente e com $\lim_{n\to\infty}b_n=0$. Então, as séries alternadas $\sum^\infty_{k=1}(-1)^{k-1}b_k$ e $\sum^\infty_{k=1}(-1)^k b_k$ são convergentes.
+
+
+ ## Teste da Razão
+>$(i)$ Se ${\lim_{n\to\infty}\vert {a_{n+1}\over a_n}\vert=L<1}$, então a série $\sum_{n=1}^{\infty}a_n$ é absolutamente convergente.
+>$(ii)$ Se ${\lim_{n\to\infty}\vert {a_{n+1}\over a_n}\vert=L>1}$ ou se ${\lim_{n\to\infty}\vert {a_{n+1}\over a_n}\vert=\infty}$, então a série $\sum_{n=1}^{\infty}a_n$ é divergente.
+>$(iii)$ Se ${\lim_{n\to\infty}\vert {a_{n+1}\over a_n}\vert=1}$, o [[#Teste da Razão]] é inconclusivo.
+
+## Teste da Raiz
+>$(i)$ Se ${\lim_{n\to\infty}\sqrt[n]{\vert a_n\vert}=L<1}$, então a série $\sum_{n=1}^{\infty}a_n$ é absolutamente convergente.
+>$(ii)$ Se ${\lim_{n\to\infty}\sqrt[n]{\vert a_n\vert}=L>1}$ ou se ${\lim_{n\to\infty}\sqrt[n]{\vert a_n\vert}=\infty}$, então a série $\sum_{n=1}^{\infty}a_n$ é divergente.
+>$(iii)$ Se ${\lim_{n\to\infty}\sqrt[n]{\vert a_n\vert}=1}$, o [[#Teste da Raiz]] é inconclusivo.
+
+---
+
+# Séries de Potências
+Uma **série de potências** é uma série da forma
+$$\sum_{n=0}^{\infty}c_n x^n=c_0+c_1x+c_2x^2+c_3x^3+\ldots+c_nx^n+\ldots$$
+onde $x$ é uma variável e $c_n$'s são constantes chamadas **coeficientes** da série. A soma da série é uma função
+$$f(x)=c_0+c_1x+c_2x^2+c_3x^3+\ldots+c_nx^n+\ldots$$
+cujo domínio é p conjunto de todos os $x$ para os quais a série converge. Observe que $f$ se assemelha a um polinômio.
+
+Em geral, a série da forma
+$$\sum_{n=0}^\infty c_n(x-a)^n=c_0+c_1(x-a)+c_2(x-a)^2+\ldots$$
+é denominada **série de potências em $(x-a)$** ou **série de potências centrada em $a$** ou **série de potências em torno de $a$.**
+
+>## Teorema
+>Para uma dada série de potências $\sum_{n=0}^{\infty}c_n (x-a)^n$, existem apenas três possibilidades:
+>$(i)$ A série converge apenas quando $x=a$
+>$(ii)$ A série converge para todo $x$
+>$(iii)$ Existe um número positivo $R$ tal que a série converge se $\vert x-a \vert<R$ e diverge se $\vert x-a \vert>R$
+>
+>Esse número $R$ no caso $(iii)$ é chamado de **Raio de Convergência**.
