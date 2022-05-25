@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2a484328f2c0c8fd",
+        "id": "9c0bffb6ef24dd21",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -125,7 +125,7 @@
     "direction": "horizontal",
     "width": 269.9530944824219
   },
-  "active": "2a484328f2c0c8fd",
+  "active": "9c0bffb6ef24dd21",
   "lastOpenFiles": [
     "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
     "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
