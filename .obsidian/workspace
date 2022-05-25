@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+            "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
             "mode": "preview",
             "backlinks": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+                "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+                "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md"
+                "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md"
               }
             }
           },
@@ -123,10 +123,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 269.9530944824219
   },
   "active": "2a484328f2c0c8fd",
   "lastOpenFiles": [
+    "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
     "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
     "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md",
     "Notas/Matemática/Sistemas Lógicos/Formas Canônicas de Funções Booleanas.md",
@@ -135,7 +136,6 @@
     "Notas/Matemática/Matemática Discreta/Probabilidade/Conceitos Básicos de Probabilidade.md",
     "Notas/Matemática/Matemática Discreta/Complexidade Assintótica das Funções/Algoritmos.md",
     "Notas/Matemática/Cálculo/Séries.md",
-    "Notas/Matemática/Variância e Covariância.md",
-    "Notas/Matemática/Cálculo/Derivadas.md"
+    "Notas/Matemática/Variância e Covariância.md"
   ]
 }
