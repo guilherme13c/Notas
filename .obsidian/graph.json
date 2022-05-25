@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Notas/Matemática",
+      "color": {
+        "a": 1,
+        "rgb": 15374347
+      }
+    },
+    {
+      "query": "path:Notas/Computação",
+      "color": {
+        "a": 1,
+        "rgb": 3387903
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.00192307692308,
+  "lineSizeMultiplier": 2.50961538461538,
+  "collapse-forces": true,
+  "centerStrength": 0.601648351648352,
+  "repelStrength": 10.0549450549451,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.7132754626224513,
+  "close": true
+}

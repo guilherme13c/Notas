@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "9f75aa6e980df63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a484328f2c0c8fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc53f090ac5a5ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb411adaaec9db40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e192e8e698a47173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f53a52ab9c05725b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.0036334991455
+  },
+  "right": {
+    "id": "997577dceb575ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6af903169439e88b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3768c22e3d18c1fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27a0c90324f7a1f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f226b5618405e338",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md"
+              }
+            }
+          },
+          {
+            "id": "24ed9dd117ff5b6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ad0b49af6add68c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "active": "2a484328f2c0c8fd",
+  "lastOpenFiles": [
+    "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
+    "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md",
+    "Notas/Matemática/Sistemas Lógicos/Formas Canônicas de Funções Booleanas.md",
+    "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
+    "Notas/Matemática/Matemática Discreta/Probabilidade/Testes de Bernoulli.md",
+    "Notas/Matemática/Matemática Discreta/Probabilidade/Conceitos Básicos de Probabilidade.md",
+    "Notas/Matemática/Matemática Discreta/Complexidade Assintótica das Funções/Algoritmos.md",
+    "Notas/Matemática/Cálculo/Séries.md",
+    "Notas/Matemática/Variância e Covariância.md",
+    "Notas/Matemática/Cálculo/Derivadas.md"
+  ]
+}

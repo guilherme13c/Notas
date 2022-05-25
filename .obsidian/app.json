@@ -1,0 +1,13 @@
+{
+  "legacyEditor": true,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Notas/arquivos",
+  "showLineNumber": true,
+  "spellcheck": false,
+  "trashOption": "none",
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "promptDelete": false
+}
