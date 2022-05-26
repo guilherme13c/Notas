@@ -9,23 +9,23 @@ O primeiro passo do algoritmo é listar todos os elementos que compõe o *on-set
 
 Como exemplo, vamos utlizar a função $F=\sum m(4,5,6,8,9,,10,13)+d(0,7,15)$:
 
-|     coluna 1     |     coluna 2     |coluna 3     | 
-|:----------------:|:----------------:| :---: |
-| 0000$\checkmark$ |     0-00$*$      | 01--$*$    |
-|                  |     -000$*$      |     |
-| 0100$\checkmark$ |                  |-1-1$*$     |
-| 1000$\checkmark$ | 010-$\checkmark$ |     |
-|                  | 01-0$\checkmark$ |     |
-| 0101$\checkmark$ |     100-$*$      |     |
-| 0110$\checkmark$ |     10-0$*$      |     |
-| 1001$\checkmark$ |                  |     |
-| 1010$\checkmark$ | 01-1$\checkmark$ |     |
-|                  | -101$\checkmark$ |     |
-| 0111$\checkmark$ | 011-$\checkmark$ |     |
-| 1101$\checkmark$ |     1-01$*$      |     |
-|                  |     $\space$     |     |
-| 1111$\checkmark$ | -111$\checkmark$ |     |
-|                  | 11-1$\checkmark$ |     |
+|     coluna 1     |     coluna 2     | coluna 3 |
+|:----------------:|:----------------:|:--------:|
+| 0000$\checkmark$ |     0-00$*$      | 01--$*$  |
+|                  |     -000$*$      |          |
+| 0100$\checkmark$ |                  | -1-1$*$  |
+| 1000$\checkmark$ | 010-$\checkmark$ |          |
+|                  | 01-0$\checkmark$ |          |
+| 0101$\checkmark$ |     100-$*$      |          |
+| 0110$\checkmark$ |     10-0$*$      |          |
+| 1001$\checkmark$ |                  |          |
+| 1010$\checkmark$ | 01-1$\checkmark$ |          |
+|                  | -101$\checkmark$ |          |
+| 0111$\checkmark$ | 011-$\checkmark$ |          |
+| 1101$\checkmark$ |     1-01$*$      |          |
+|                  |     $\space$     |          |
+| 1111$\checkmark$ | -111$\checkmark$ |          |
+|                  | 11-1$\checkmark$ |          |
 $\checkmark$ Implicante
 $*$ Primo Implicante
 

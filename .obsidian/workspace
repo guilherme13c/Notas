@@ -7,8 +7,12 @@
         "id": "9c0bffb6ef24dd21",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
+            "mode": "preview",
+            "backlinks": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -91,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md"
+              }
             }
           },
           {
@@ -111,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -119,11 +127,11 @@
   },
   "active": "9c0bffb6ef24dd21",
   "lastOpenFiles": [
+    "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
     "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
     "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
     "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md",
     "Notas/Matemática/Sistemas Lógicos/Formas Canônicas de Funções Booleanas.md",
-    "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
     "Notas/Matemática/Matemática Discreta/Probabilidade/Testes de Bernoulli.md",
     "Notas/Matemática/Matemática Discreta/Probabilidade/Conceitos Básicos de Probabilidade.md",
     "Notas/Matemática/Matemática Discreta/Complexidade Assintótica das Funções/Algoritmos.md",
