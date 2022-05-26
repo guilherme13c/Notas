@@ -61,4 +61,7 @@ $$\lim_{x\to \infty}\frac{f(x)}{g(x)}=\infty$$
 ### Obs.:
 Se $f(x)\in\Theta (g(x))$, então $f(x)\not\in o(g(x)) e f(x)\not\in\omega(g(x))$.
 
+---
+
 [[Funções|]]
+[Vídeo sobre o assunto](https://www.youtube.com/watch?v=Q_1M2JaijjQ)
