@@ -7,12 +7,8 @@
         "id": "9c0bffb6ef24dd21",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
-            "mode": "preview",
-            "backlinks": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md"
-              }
+              "state": {}
             }
           },
           {
