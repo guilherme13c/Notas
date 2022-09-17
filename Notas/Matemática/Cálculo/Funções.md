@@ -1,7 +1,7 @@
 # Notações de intervalo
 
 #### Intervalo aberto
-$a$ e $b$ não são incluídos no conjunto:
+$a$ e $b$ não são incluídos no [[Conjuntos|conjunto]]:
 $]a, b[$ ou $(a,b)$
 Em notação de conjuntos: $\{x\in\mathbb{R}\mid a<x<b\}$.
 

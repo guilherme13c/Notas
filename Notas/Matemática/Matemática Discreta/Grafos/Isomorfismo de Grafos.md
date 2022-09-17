@@ -1,7 +1,7 @@
 [[Introdução a Grafos|]]
 # Isomorfismo
 #### Definição
-Sejam os grafo $G$ e $G^\prime$ com conjuntos de vértices $V(G)$ e $V(G^\prime)$ e com conjuntos de arestas $E(G)$ e $E(G^`),$ respectivamente. O grafo $G$ é isomorfo ao grafo $G^`$ se e somente se existem correspondências um-para-um
+Sejam os grafo $G$ e $G^\prime$ com [[conjuntos]] de vértices $V(G)$ e $V(G^\prime)$ e com conjuntos de arestas $E(G)$ e $E(G^`),$ respectivamente. O grafo $G$ é isomorfo ao grafo $G^`$ se e somente se existem correspondências um-para-um
 $$g:V(G)\to V(G^`)$$
 $$h:E(G)\to E(G^`)$$
 que preservam as funções aresta-vértice de $G$ e $G^`$ no sentido que

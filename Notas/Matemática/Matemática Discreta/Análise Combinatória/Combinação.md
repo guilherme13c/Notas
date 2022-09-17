@@ -1,4 +1,4 @@
-Suponha que desejamos selecionar $r$ objetos distintos de um conjunto de $n$ elementos mas a ordem não é importante.
+Suponha que desejamos selecionar $r$ objetos distintos de um [[Conjuntos|conjunto]] de $n$ elementos mas a ordem não é importante.
 Neste caso, estamos contando o número de combinações de $r\;\;(r\le n)$ objetos distintos escolhidos de um conjunto de $n\;\;(n\ge1)$ elementos onde a ordem não é importante.
 
 # Definição

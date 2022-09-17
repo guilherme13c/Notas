@@ -40,7 +40,7 @@ Dizer que o vetor $\mbox{x}_\mbox{w}$ é o vetor mais próximo a $\mbox{x}$ em $
 >Onde $\mbox{x}$ é o vetor mais próximo a $\mbox{x}$ em $\mbox{W}$ e $\mbox{x}_{\mbox{w}^\bot}$ está em $\mbox{W}^\bot$.
 
 >#### Definição
->Equação $(1)$ é chamada decomposição ortogonal de $\mbox{x}$ com relação à $\mbox{W}$; vetor $\mbox{x}_\mbox{w}$ é a projeção ortogonala de $\mbox{x}$ em $\mbox{W}$.
+>Equação $(1)$ é chamada decomposição ortogonal de $\mbox{x}$ com relação à $\mbox{W}$; vetor $\mbox{x}_\mbox{w}$ é a projeção ortogonal de $\mbox{x}$ em $\mbox{W}$.
 
 ---
 # Projeção em plano ou hiperplano

@@ -1,4 +1,4 @@
-[[Introdução a Grafos|]]
+[[Introdução a Grafos|]][[Conjuntos|]]
 # Conectividade
 Informalmente um grafo é **_conexo_** (conectado) se for possível [[Caminhamentos em Grafos#Caminho|caminhar]] de qualquer vértice para qualquer outro vértice através de uma sequência de arestas adjacentes.
 

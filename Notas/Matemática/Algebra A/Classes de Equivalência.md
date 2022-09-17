@@ -1,5 +1,5 @@
 # Definição
-Dada uma [[Relações de Equivalência|relação de equivalência]] $\sim$ num conjunto $A$, a classe de equivalência de um $a\in A$ é o conjunto $\bar a=\{x\in A:x\sim a\}$
+Dada uma [[Relações de Equivalência|relação de equivalência]] $\sim$ num [[Conjuntos|conjunto]] $A$, a classe de equivalência de um $a\in A$ é o conjunto $\bar a=\{x\in A:x\sim a\}$
 
 >## Proposição
 >Seja $\sim$ uma relação de equivalência em $A$ e $a,b\in A$. Então ou $\bar a=\bar b$ ou $\bar a\cap \bar b = \emptyset$.

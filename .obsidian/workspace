@@ -4,13 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c0bffb6ef24dd21",
+        "id": "223c6564f188d815",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -51,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5036334991455
+    "width": 257.0036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "997577dceb575ecb",
@@ -67,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md"
+              }
             }
           },
           {
@@ -119,17 +127,17 @@
     "direction": "horizontal",
     "width": 269.9530944824219
   },
-  "active": "9c0bffb6ef24dd21",
+  "active": "0ad0b49af6add68c",
   "lastOpenFiles": [
-    "Notas/Matemática/Matemática Discreta/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
-    "Notas/Matemática/Matemática Discreta/Complexidade Assintótica das Funções/Algoritmos.md",
-    "Notas/Matemática/Matemática Discreta/Complexidade Assintótica das Funções/Teorema Mestre.md",
-    "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
-    "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md",
-    "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md",
-    "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md",
-    "Notas/Matemática/Sistemas Lógicos/Formas Canônicas de Funções Booleanas.md",
-    "Notas/Matemática/Matemática Discreta/Probabilidade/Testes de Bernoulli.md",
-    "Notas/Matemática/Matemática Discreta/Probabilidade/Conceitos Básicos de Probabilidade.md"
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Conjuntos.md",
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Formais.md",
+    "Notas/Matemática/Algebra A/Primos e o lema de Euclides.md",
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
+    "Notas/Computação/Programação/Tipos Abstratos de Dados.md",
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Adição.md",
+    "Notas/Matemática/Matemática Discreta/Grafos/Isomorfismo de Grafos.md",
+    "Notas/Matemática/Matemática Discreta/Relações/Introdução a Relações.md",
+    "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md",
+    "Notas/Matemática/Cálculo/Funções.md"
   ]
 }

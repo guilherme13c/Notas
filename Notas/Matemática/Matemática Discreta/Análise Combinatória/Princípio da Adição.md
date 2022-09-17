@@ -12,7 +12,7 @@ formas diferentes.
 - $n(A-B)=n(a)-n(B)$
 - $B\,\cup(A-B)=A$
 
-# Elementos na União de Conjuntos
+# Elementos na União de [[Conjuntos]]
 ## Dois Conjuntos
 $\mid A \cup B\mid\;=\;\mid A\mid+\mid B\mid-\mid A\,\cap B\mid$
 

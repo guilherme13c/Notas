@@ -1,5 +1,6 @@
-# Definição
-Um grafo $G$ consiste de dois conjuntos finitos:
+# Grafo
+#### Definição
+Um grafo $G$ consiste de dois [[conjuntos]] finitos:
 1. Vértices $V(G)$
 2. Arestas $E(G)$
 
