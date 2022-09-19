@@ -3,13 +3,13 @@
 
 # Autômato Finito Determinístico (AFD)
 #### Definição
-Um autômatos finito (determinístico) é uma 5-tupla $(Q, Σ, δ, q_0, F)$, onde:
+Um autômatos finito (determinístico) é uma 5-tupla $(Q, \Sigma, \delta, q_0, F)$, onde:
 
 - $Q$ é um conjunto finito de estados,
-- $Σ$ é um conjunto finito chamado de alfabeto,
-- $δ : Q × Σ → Q$ é uma função de transição,
-- $q_0 ∈ Q$ é o estado inicial, e
-- $F ⊆ Q$ é o conjunto de estados de aceitação (ou estados finais).
+- $\Sigma$ é um conjunto finito chamado de alfabeto,
+- $\delta : Q \times \Sigma \to Q$ é uma função de transição,
+- $q_0 \in Q$ é o estado inicial, e
+- $F \subseteq Q$ é o conjunto de estados de aceitação (ou estados finais).
 
 ---
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
-            "mode": "preview",
+            "file": "Notas/Computação/Representação de Dados/Representação de Reais.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
+                "file": "Notas/Computação/Representação de Dados/Representação de Reais.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
+                "file": "Notas/Computação/Representação de Dados/Representação de Reais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md"
+                "file": "Notas/Computação/Representação de Dados/Representação de Reais.md"
               }
             }
           },
@@ -127,12 +127,12 @@
     "direction": "horizontal",
     "width": 269.9530944824219
   },
-  "active": "0ad0b49af6add68c",
+  "active": "223c6564f188d815",
   "lastOpenFiles": [
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
     "Notas/Matemática/Fundamentos da Teoria da Computação/Conjuntos.md",
     "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Formais.md",
     "Notas/Matemática/Algebra A/Primos e o lema de Euclides.md",
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
     "Notas/Computação/Programação/Tipos Abstratos de Dados.md",
     "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Adição.md",
     "Notas/Matemática/Matemática Discreta/Grafos/Isomorfismo de Grafos.md",

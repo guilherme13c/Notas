@@ -32,3 +32,11 @@ O padrão IEEE 754 determina que o viés deve ser:$$2^{n-1}-1$$
 onde $n$ é o número de bits do expoente.
 
 **_Obs._**: o víes também é o número de possíveis expoentes negativos, ou o valor absoluto do expoente negativo de maior magnitude.
+
+---
+## Links úteis
+- https://www.h-schmidt.net/FloatConverter/IEEE754.html
+- https://www.rapidtables.com/convert/number/decimal-to-binary.html
+---
+### Conversão de Número Fracionário para Binário
+Para converter um número que contém um parte fracionária, devemos multiplicar esse número por $2$ repetidamente, até que ele seja um inteiro, ou até que a iteração $n$, sendo $n$ o número de bits do expoente na representação. Fazemos isso para obter a representação de maior precisão possível. Depois disso, arredondamos o número e convertomos para binário normalmente. Por fim, dividimos o resultado por dois $n$ vezes, ou seja, movemos o ponto (ou vírgula) para a esquerda $n$ casas.
