@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "9f75aa6e980df63d",
+    "id": "2c691b485fbc14fc",
     "type": "split",
     "children": [
       {
-        "id": "223c6564f188d815",
+        "id": "02beec2529504fc1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas/Computação/Representação de Dados/Representação de Reais.md",
+            "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -20,15 +20,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dc53f090ac5a5ed1",
+    "id": "860f1ff38fb12b76",
     "type": "split",
     "children": [
       {
-        "id": "cb411adaaec9db40",
+        "id": "da8cbf941494e84a",
         "type": "tabs",
         "children": [
           {
-            "id": "e192e8e698a47173",
+            "id": "f1c15f0373cb9644",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "f53a52ab9c05725b",
+            "id": "14a74aff565c41bb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,25 +54,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.0036334991455,
-    "collapsed": true
+    "width": 341.5036334991455
   },
   "right": {
-    "id": "997577dceb575ecb",
+    "id": "ea56197e955d855a",
     "type": "split",
     "children": [
       {
-        "id": "6af903169439e88b",
+        "id": "e879915952eac5f9",
         "type": "tabs",
         "children": [
           {
-            "id": "3768c22e3d18c1fc",
+            "id": "d613dcfbebf10e06",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Representação de Dados/Representação de Reais.md",
-                "collapseAll": true,
+                "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -83,37 +82,40 @@
             }
           },
           {
-            "id": "27a0c90324f7a1f6",
+            "id": "0154ac3e30151f0a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Representação de Dados/Representação de Reais.md",
+                "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f226b5618405e338",
+            "id": "9ec428c704fbb42b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Representação de Dados/Representação de Reais.md"
+                "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md"
               }
             }
           },
           {
-            "id": "24ed9dd117ff5b6b",
+            "id": "7184e5c0ecba1e88",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Notas/arquivos/Pasted image 20220922111358.png",
+                "staged": false
+              }
             }
           },
           {
-            "id": "0ad0b49af6add68c",
+            "id": "0ad546724bb50d0b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -125,19 +127,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.9530944824219
+    "width": 538.9530639648438
   },
-  "active": "223c6564f188d815",
+  "active": "7184e5c0ecba1e88",
   "lastOpenFiles": [
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Conjuntos.md",
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Formais.md",
-    "Notas/Matemática/Algebra A/Primos e o lema de Euclides.md",
-    "Notas/Computação/Programação/Tipos Abstratos de Dados.md",
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Adição.md",
-    "Notas/Matemática/Matemática Discreta/Grafos/Isomorfismo de Grafos.md",
-    "Notas/Matemática/Matemática Discreta/Relações/Introdução a Relações.md",
-    "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md",
-    "Notas/Matemática/Cálculo/Funções.md"
+    "Notas/Computação/Representação de Dados/Representação de Reais.md",
+    "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
+    "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md"
   ]
 }

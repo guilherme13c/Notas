@@ -110,3 +110,37 @@ Para fazer a matemática funcional, podemos nos livrar do $(-0)$ e subtrair uma 
 Na notação de complemento de dois, a matemática passa a funcionar da forma correta e o $0$ só possui uma representação. Contudo, para obtermos o inverso aditivo de um número precisamos, além de inverter o bit de sinal, subtrair uma unidade, o que torna essa inversão mais cara.
 
 ---
+
+# Operações em [[#Twos Complement]]
+## Negação
+Para negar um número em complemento de dois: inverter todos os bits e somar 1
+ ![[Pasted image 20220922110110.png]]
+
+## Mudança de representação
+ Converter números de $n$ bit em números com mais de $n$ bits: copiar o mais significante bit (o bit de sinal) nos outros bit
+ ![[Pasted image 20220922110147.png]]
+
+## Adição
+![[Pasted image 20220922110800.png]]
+
+Pode ocorrer **overflow** (resultado maior que palavra do computador).
+[[Condições de Overflow ou Underflow|Sobre implementação de exceções no caso de overflow/underflow.]]
+
+## Multiplicação
+Existem diferentes algoritmos para multiplicar dois número no hardware, sendo a mais básica:
+
+![[Pasted image 20220922111100.png]]
+
+Existe também uma forma mais otimizada:
+
+![[Pasted image 20220922111231.png]]
+
+## Divisão
+Para a divisão de dois números, também existe mais de um algorimo:
+
+![[Pasted image 20220922111328.png]]
+
+Ou uma versão mais otimizada, que pode utilizar o mesmo hardware da multiplicação otimizada:
+![[Pasted image 20220922111358.png]]
+
+---

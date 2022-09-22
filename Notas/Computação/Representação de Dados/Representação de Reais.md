@@ -16,10 +16,10 @@ O número de bits alocados para cada parte (mantissa e expoente) e a ordem em qu
 
 ![[Pasted image 20220402163858.png]]
 
-| Arquitetura | Sinal | Expoente | Mantissa |
-| ----------- | ----- | -------- | -------- |
-| 32 bits     | 1 bit | 8 bits   | 23 bits  |
-| 64 bits     | 1 bit | 11 bits  | 52 bits  | 
+|   Precision  | Arquitetura | Sinal | Expoente | Mantissa |
+| --- | ----------- | ----- | -------- | -------- |
+|    Single | 32 bits     | 1 bit | 8 bits   | 23 bits  |
+|   Double  | 64 bits     | 1 bit | 11 bits  | 52 bits  |
 
 **_Obs._**: A mantissa tem a precisão de um bit a mais que seu tamanho (24 | 53 bits). Isso ocorre pois seu primeiro bit sempre será 1 (devido às regras de notação científica), então não precisamos armazená-lo.
 
@@ -34,9 +34,48 @@ onde $n$ é o número de bits do expoente.
 **_Obs._**: o víes também é o número de possíveis expoentes negativos, ou o valor absoluto do expoente negativo de maior magnitude.
 
 ---
-## Links úteis
-- https://www.h-schmidt.net/FloatConverter/IEEE754.html
-- https://www.rapidtables.com/convert/number/decimal-to-binary.html
----
 ### Conversão de Número Fracionário para Binário
 Para converter um número que contém um parte fracionária, devemos multiplicar esse número por $2$ repetidamente, até que ele seja um inteiro, ou até que a iteração $n$, sendo $n$ o número de bits do expoente na representação. Fazemos isso para obter a representação de maior precisão possível. Depois disso, arredondamos o número e convertomos para binário normalmente. Por fim, dividimos o resultado por dois $n$ vezes, ou seja, movemos o ponto (ou vírgula) para a esquerda $n$ casas.
+
+---
+## Overflow e Underflow
+Assim como na aritmética de números inteiros, pode ser que o resultado de uma operação possua mais bits do que o disponível para representá-lo. A novidade da aritmética de ponto flutuante é que isso também pode ocorrer quando o valor absoluto do número é pequeno demais. Quando isso ocorre, chamamos de **underflow**.
+
+Para conferir se houve overflow ou underflow em uma operação, podemos verificar se o expoente do resultado está dentro do intervalo válido, ou seja:
+$$b > E > -b+1$$ onde $b$ é o viés.
+
+## Double Precision
+Para minimizar as ocorrências de *overflow* e *underflow* podemos utilizar o padrão de precisão dupla, ou seja, 64 bits em arquiteturas de 32 bits. Esse padrão funciona da mesma forma, o que muda é a quantidade de bits que representa cada parte do número.
+
+[[Condições de Overflow ou Underflow|Sobre implementação de exceções no caso de overflow/underflow.]]
+
+# Aritmética
+## Adição
+![[Pasted image 20220922104945.png]]
+
+Para somar dois *floats* devemos seguir os seguintes passos:
+1. Transformamos o número com menor expoente até que seu expoente seja igual ao do outro número,
+2. Somamos os significados normalmente,
+3. Normalizamos à notação científica no resultado e verificamos *overflow* e *underflow*,
+4. Arredondamos a soma caso seja necessário.
+
+![[Pasted image 20220922104825.png]]![[Pasted image 20220922104901.png]]
+
+## Multiplicação
+A multiplicação de *floats* também leva 4 passos:
+1. Somamos os expoentes do multiplicando e do multiplicador para obter o expoente do produto,
+2. Multiplicamos os significados do multiplicando e do multiplicador,
+3. Normalizamos à notação científica e verificamos se houve *overflow* ou *underflow*,
+4. Arredondamos o produto caso seja necessário.
+
+![[Pasted image 20220922105115.png]]![[Pasted image 20220922105130.png]]
+
+# Valores Especiais
+![[Pasted image 20220922105726.png]]
+
+---
+# Links úteis
+- [Float Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Binary-decimal Converter](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
+- [Aritmética em FP](http://weitz.de/ieee/)
+---
