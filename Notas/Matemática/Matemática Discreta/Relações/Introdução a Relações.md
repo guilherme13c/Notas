@@ -1,7 +1,7 @@
 [[Relações de Equivalência|]]
 # Relações em Conjuntos
 ## Relação Binária
-- Sejam os [[conjuntos]] $A$ e $B$.
+- Sejam os [[Conjuntos]] $A$ e $B$.
 - Uma relação binária de $A$ para $B$ é um subconjunto de $A\times B$.
 - Dado um par ordenado $(x, y)$ em $A\times B$, $x$ está relacionado com $y$ por $R$ , escrito $xRy$, se, e somente se, $(x,y)\in R$.
 - O termo _binário_ é usado para indicar uma relação entre dois conjuntos.

@@ -8,7 +8,7 @@ Um autômatos finito (determinístico) é uma 5-tupla $(Q, \Sigma, \delta, q_0, 
 
 - $Q$ é um conjunto finito de estados,
 - $\Sigma$ é um conjunto finito chamado de alfabeto,
-- $\delta : Q \times \Sigma \to Q$ é uma função de transição,
+- $\delta : Q \times \Sigma \to Q$ é uma [[Funções|função]] de transição,
 - $q_0 \in Q$ é o estado inicial, e
 - $F \subseteq Q$ é o conjunto de estados de aceitação (ou estados finais).
 

@@ -1,0 +1,1 @@
+![[Algorithm-Design.pdf#page=151]][[Algoritmos Gulosos|]][[Algoritmos|]]

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
-            "mode": "source",
+            "file": "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
+                "file": "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
+                "file": "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Representação de Dados/Representação de Inteiros.md"
+                "file": "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md"
               }
             }
           },
@@ -127,12 +127,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.9530639648438
+    "width": 538.9530639648438,
+    "collapsed": true
   },
-  "active": "7184e5c0ecba1e88",
+  "active": "02beec2529504fc1",
   "lastOpenFiles": [
-    "Notas/Computação/Representação de Dados/Representação de Reais.md",
+    "Notas/Matemática/Conjuntos.md",
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
     "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
+    "Notas/Computação/Representação de Dados/Representação de Reais.md",
     "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md"
   ]
 }

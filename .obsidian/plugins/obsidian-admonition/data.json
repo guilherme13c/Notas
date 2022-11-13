@@ -1,0 +1,93 @@
+{
+  "userAdmonitions": {
+    "teo": {
+      "type": "teo",
+      "color": "57, 254, 133",
+      "icon": {
+        "type": "rpg",
+        "name": "scroll-unfurled"
+      },
+      "command": false,
+      "title": "Teorema",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "def": {
+      "type": "def",
+      "color": "255, 174, 0",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definição",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "corol": {
+      "type": "corol",
+      "color": "0, 255, 251",
+      "icon": {
+        "name": "line",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Corolário",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "prep": {
+      "type": "prep",
+      "color": "254, 159, 159",
+      "icon": {
+        "name": "pen",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Preposição",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "nota": {
+      "type": "nota",
+      "color": "128, 217, 255",
+      "icon": {
+        "name": "anchor",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Notação",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.5",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": true,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.ae57eb"
+}

@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "2c691b485fbc14fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b470b76f41e237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddf292ce3fd74f93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "860f1ff38fb12b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "da8cbf941494e84a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c15f0373cb9644",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14a74aff565c41bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.01103591918945
+  },
+  "right": {
+    "id": "ea56197e955d855a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e879915952eac5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d613dcfbebf10e06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0154ac3e30151f0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ec428c704fbb42b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "76a6bf3c856c542c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "649ff039ce50e2c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 587
+  },
+  "active": "ddf292ce3fd74f93",
+  "lastOpenFiles": [
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
+    "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Prim's Algorithm for Minimum Spaning Tree.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Minimum-Cost Arborescences.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md"
+  ]
+}
