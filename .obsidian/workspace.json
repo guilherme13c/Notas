@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "75b470b76f41e237",
+        "id": "93927cad8d0a87b1",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf292ce3fd74f93",
+            "id": "ee31c3ed0a4b9c67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -125,8 +128,9 @@
     "direction": "horizontal",
     "width": 587
   },
-  "active": "ddf292ce3fd74f93",
+  "active": "ee31c3ed0a4b9c67",
   "lastOpenFiles": [
+    "Chave para push.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
     "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
@@ -135,7 +139,6 @@
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md"
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md"
   ]
 }
