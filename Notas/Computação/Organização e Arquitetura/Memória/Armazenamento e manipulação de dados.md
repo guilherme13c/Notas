@@ -1,23 +1,4 @@
-# Hierarquia de memória
- Quanto mais "próxima" da CPU, menor o tempo para acessá-la e maior o seu custo. Então, memória de nível superior ("distante" da CPU), possui mais espaço, mas é mais lenta quando comparada com a memória de nível inferior ("próxima da CPU").
-
- ### Princípio da localidade
-> ###### Temporal
-> + Dados ascessados recentemente têm mais chance de serem usados novamente do que dados usados há mais tempo.
-> + Manter os dados e instruções usados recentemente no topo da Hirarquia, onde o ascesso é mais veloz.
-
->  ###### Espacial
-> + Probabilidade de ascesso maior para dados e instruções em ***endereços próximos***  àqueles acessados recentemente.
-> + Variáveis são armazenadas próximas umas às outras
-> + Vetores e matrizes armazenados em sequência
-
-### Memória Virtual
-A maior demanda por memória principal levou ao uso de parte da memória secundária para armazenar dados quando a memória principal está cheia.
-Tal processo é realizado automaticamente pela Unidade de Gerência de Memória (UGM) presente nos processadores. Assim, todo dado que é acessado é antes buscado pela UGM na memória principal. Se esse dado não estiver lá, a UGM vai buscar na memória secundária. Ao encontrar, faz-se uma cópia do dado na memória principal e libera-se o acesso ao dado.
-Tal processo tem impacto no custo de acesso, tornando o acesso ao dado mais lento.
-
----
-# Alocação de Memória
+# Alocação de [[Hierarquia de Memória|Memória]]
 
 ### Segmentos da memória
 >##### Código/Globais

@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "03cac29b65ac106c",
+        "id": "06350d3c26ec7eb6",
         "type": "tabs",
         "children": [
           {
-            "id": "e54747384b7dda9d",
+            "id": "5bccd1730a9eb941",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 695.0110359191895
+    "width": 361.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -123,20 +123,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 620
   },
-  "active": "e54747384b7dda9d",
+  "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
+    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md",
-    "Chave para push.md",
-    "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Prim's Algorithm for Minimum Spaning Tree.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Minimum-Cost Arborescences.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md"
+    "Chave para push.md"
   ]
 }
