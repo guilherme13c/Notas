@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93927cad8d0a87b1",
+        "id": "03cac29b65ac106c",
         "type": "tabs",
         "children": [
           {
-            "id": "ee31c3ed0a4b9c67",
+            "id": "e54747384b7dda9d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -60,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.01103591918945
+    "width": 695.0110359191895
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -126,19 +123,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587
+    "width": 200,
+    "collapsed": true
   },
-  "active": "ee31c3ed0a4b9c67",
+  "active": "e54747384b7dda9d",
   "lastOpenFiles": [
-    "Chave para push.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md",
+    "Chave para push.md",
     "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Prim's Algorithm for Minimum Spaning Tree.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Minimum-Cost Arborescences.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md"
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md"
   ]
 }
