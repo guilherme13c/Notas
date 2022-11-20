@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "06350d3c26ec7eb6",
+        "id": "460ea329821c46f6",
         "type": "tabs",
         "children": [
           {
-            "id": "5bccd1730a9eb941",
+            "id": "cae0cfb699a963cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -123,9 +123,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620
+    "width": 232
   },
-  "active": "f1c15f0373cb9644",
+  "active": "649ff039ce50e2c4",
   "lastOpenFiles": [
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
