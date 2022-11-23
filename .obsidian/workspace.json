@@ -11,8 +11,13 @@
             "id": "cae0cfb699a963cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md"
+              }
             }
           },
           {
@@ -125,10 +134,10 @@
     "direction": "horizontal",
     "width": 232
   },
-  "active": "649ff039ce50e2c4",
+  "active": "cae0cfb699a963cf",
   "lastOpenFiles": [
-    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
