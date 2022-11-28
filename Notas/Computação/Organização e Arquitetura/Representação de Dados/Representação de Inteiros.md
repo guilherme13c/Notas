@@ -83,7 +83,7 @@ O método de complemento de um consiste em inverter todos os bits dos números n
 
 Como podemos ver, os resultados aritméticos utilizando o complemento de um resultam em uma unidade a menos que o valor correto (e.g.  $6+(-2)=3$).
 
-Para fazer a matemática funcional, podemos nos livrar do $(-0)$ e subtrair uma unidade do valor de cada representação (e.g.  $(1000)_2 \mbox{ representava }(-7)_{10},\mbox{ mas agora passa a representar }(-8)_{10}$). Essa mudança origina o método de [[#Twos Complement|complemento de dois (twos complement)]].
+Para fazer a matemática funcional, podemos nos livrar do $(-0)$ e subtrair uma unidade do valor de cada representação (e.g.  $(1000)_2 \mbox{ representava }(-7)_{10},\mbox{ mas agora passa a representar }(-8)_{10}$. Essa mudança origina o método de [[#Twos Complement|complemento de dois (twos complement)]].
 
 ---
 # Twos Complement
