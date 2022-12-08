@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md"
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "cae0cfb699a963cf",
   "lastOpenFiles": [
+    "Notas/Matemática/Algebra Linear/Regressão Linear.md",
+    "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
+    "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md",
+    "Notas/Matemática/Algebra Linear/Decomposição por Valores Singulares - SVD.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md",
-    "Chave para push.md"
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
   ]
 }
