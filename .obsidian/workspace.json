@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "active": "cae0cfb699a963cf",
   "lastOpenFiles": [
