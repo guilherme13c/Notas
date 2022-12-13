@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cc3c9c575a7ef35a",
+        "id": "1768d1e340d636a1",
         "type": "tabs",
         "children": [
           {
-            "id": "26f7f52168202588",
+            "id": "ec6a1adf1e1678f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3923446cbe1e6733",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +28,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.51103591918945
+    "width": 335.01103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -132,19 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 557
   },
-  "active": "26f7f52168202588",
+  "active": "3923446cbe1e6733",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
+    "conflict-files-obsidian-git.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md"
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
   ]
 }

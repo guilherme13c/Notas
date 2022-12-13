@@ -36,3 +36,6 @@ $\mathbf{P}\neq\mathbf{EXP}\implies$ ou $\mathbf{P}\neq\mathbf{NP}$, ou $\mathbf
 # $\mathbf{P}=\mathbf{NP}$?
 Problemas de decisão são tão fáceis quanto problemas de certificação?
 
+![[Pasted image 20221213170525.png]]
+
+
