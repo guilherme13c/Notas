@@ -549,21 +549,26 @@
       "tags": 0,
       "links": 0
     },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md": {
+      "size": 1583,
+      "tags": 0,
+      "links": 6
+    },
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md": {
-      "size": 0,
+      "size": 503,
       "tags": 0,
       "links": 3
     },
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md": {
-      "size": 0,
+      "size": 968,
       "tags": 0,
       "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4,
-      "Create": 4,
+      "Refactor": 2,
+      "Create": 5,
       "Link": 4,
       "Expand": 0
     }
@@ -583,9 +588,9 @@
       "10": 0,
       "11": 0,
       "12": 0,
-      "13": 7,
-      "14": 3,
-      "15": 2,
+      "13": 0,
+      "14": 11,
+      "15": 0,
       "16": 0,
       "17": 0,
       "18": 0,
@@ -599,7 +604,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 12,
+      "Tue": 11,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -611,15 +616,13 @@
     "/": {
       "Expanded": [],
       "Created": [
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md\"> Subistituição de Liskov </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
-      "Renamed": [
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
-      ],
+      "Renamed": [],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [
@@ -627,9 +630,9 @@
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Linked": [
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md\"> Subistituição de Liskov </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
       ],
       "Removed Tags from": [],
