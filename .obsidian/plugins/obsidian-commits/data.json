@@ -557,14 +557,19 @@
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md": {
       "size": 0,
       "tags": 0,
-      "links": 3
+      "links": 4
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 7
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 4,
-      "Create": 4,
-      "Link": 4,
+      "Refactor": 7,
+      "Create": 5,
+      "Link": 7,
       "Expand": 0
     }
   },
@@ -586,7 +591,7 @@
       "13": 7,
       "14": 3,
       "15": 2,
-      "16": 0,
+      "16": 7,
       "17": 0,
       "18": 0,
       "19": 0,
@@ -599,7 +604,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 12,
+      "Tue": 19,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -614,11 +619,15 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>"
       ],
       "Tagged": [],
       "Refactored": [],
@@ -630,7 +639,10 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
