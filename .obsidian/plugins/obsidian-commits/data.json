@@ -567,14 +567,14 @@
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md": {
       "size": 1972,
       "tags": 0,
-      "links": 7
+      "links": 8
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 2,
       "Create": 6,
-      "Link": 6,
+      "Link": 7,
       "Expand": 0
     }
   },
@@ -597,7 +597,7 @@
       "14": 11,
       "15": 0,
       "16": 0,
-      "17": 3,
+      "17": 4,
       "18": 0,
       "19": 0,
       "20": 0,
@@ -609,7 +609,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 14,
+      "Tue": 15,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -641,7 +641,8 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
