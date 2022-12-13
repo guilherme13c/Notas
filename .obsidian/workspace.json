@@ -11,8 +11,13 @@
             "id": "8b14585b91c1c617",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md"
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md"
               }
             }
           },
@@ -127,9 +132,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 268.5
   },
-  "active": "649ff039ce50e2c4",
+  "active": "8b14585b91c1c617",
   "lastOpenFiles": [
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
