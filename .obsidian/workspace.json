@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9f4f52b02554eb8f",
+        "id": "1768d1e340d636a1",
         "type": "tabs",
         "children": [
           {
-            "id": "b80a423bbe059f9e",
+            "id": "ec6a1adf1e1678f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,19 +123,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 557
   },
   "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md",
-    "Chave para push.md"
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md"
   ]
 }
