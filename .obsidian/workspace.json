@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1768d1e340d636a1",
+        "id": "691217a0388e0560",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6a1adf1e1678f5",
+            "id": "a71369090b7dac45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,12 +125,12 @@
     "direction": "horizontal",
     "width": 557
   },
-  "active": "ec6a1adf1e1678f5",
+  "active": "a71369090b7dac45",
   "lastOpenFiles": [
-    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "conflict-files-obsidian-git.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
