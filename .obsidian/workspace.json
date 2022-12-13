@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c875ccd28afdd41",
+        "id": "019a4178e23efbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd0b57632f13c8e",
+            "id": "35ab698f3d5c1a20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,12 +123,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "dfd0b57632f13c8e",
+  "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+    "conflict-files-obsidian-git.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
@@ -145,7 +136,6 @@
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
-    "Notas/Matemática/Algebra Linear/Regressão Linear.md",
-    "Notas/Matemática/Algebra Linear/Normas de Vetores.md"
+    "Notas/Matemática/Algebra Linear/Regressão Linear.md"
   ]
 }

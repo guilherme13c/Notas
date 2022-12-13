@@ -13,4 +13,8 @@ Podemos utilizar reduções para construir algoritmos. Dessa forma podemos trans
 ![[Pasted image 20221213141522.png]]
 ---
 
+# Transitividade
+É importante ressaltar que a redução por mapeamento é transitiva. Podemos observar isso de forma intuitiva:
+Se existe um algoritmo que transforma instâncias de um problema $A$ em instâncias de um problema $B$ em tempo polinomial, e existe também um algoritmo que transforma instâncias de $B$ em instâncias de um problema $C$ em tempo polinomial, então podemos utilizar a composição desses algoritmos para transformar instâncias de $A$ em instâncias de $C$. Essa transformação será polinomial pois sua complexidade será o produto das complexidades dos algoritmos anteriores, que são polinomiais, e o produto de dois polinômios é também um polinômio.
 
+---
