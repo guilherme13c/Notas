@@ -11,8 +11,13 @@
             "id": "3f90a6eabf7943f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.51103591918945
+    "width": 236.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md"
+              }
             }
           },
           {
@@ -123,10 +133,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "active": "3f90a6eabf7943f4",
   "lastOpenFiles": [
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Matemática/Algebra Linear/Regressão Linear.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
@@ -134,7 +146,6 @@
     "Notas/Matemática/Algebra Linear/Decomposição por Valores Singulares - SVD.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
   ]
