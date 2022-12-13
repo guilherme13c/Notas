@@ -132,15 +132,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "active": "26f7f52168202588",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
-    "conflict-files-obsidian-git.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",

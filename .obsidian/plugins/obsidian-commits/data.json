@@ -567,8 +567,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 7,
-      "Create": 5,
+      "Refactor": 8,
+      "Create": 6,
       "Link": 7,
       "Expand": 0
     }
@@ -591,7 +591,7 @@
       "13": 7,
       "14": 3,
       "15": 2,
-      "16": 7,
+      "16": 9,
       "17": 0,
       "18": 0,
       "19": 0,
@@ -604,7 +604,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 19,
+      "Tue": 21,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -620,7 +620,8 @@
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
@@ -632,6 +633,7 @@
       "Tagged": [],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
