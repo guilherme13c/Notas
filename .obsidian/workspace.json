@@ -11,25 +11,16 @@
             "id": "ec6a1adf1e1678f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3923446cbe1e6733",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
-                "mode": "source",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -143,17 +134,17 @@
     "direction": "horizontal",
     "width": 557
   },
-  "active": "3923446cbe1e6733",
+  "active": "ec6a1adf1e1678f5",
   "lastOpenFiles": [
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "conflict-files-obsidian-git.md",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md"
   ]
 }
