@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7362b7883f324efe",
+        "id": "985cce28d12b3493",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd805a20e971177",
+            "id": "bc2fb7057d6e9c3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md"
+              }
             }
           },
           {
@@ -126,17 +135,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "2cd805a20e971177",
+  "active": "bc2fb7057d6e9c3d",
   "lastOpenFiles": [
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Matemática/Algebra Linear/Regressão Linear.md",
-    "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
-    "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md",
-    "Notas/Matemática/Algebra Linear/Decomposição por Valores Singulares - SVD.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md"
+    "Notas/Matemática/Algebra Linear/Normas de Vetores.md"
   ]
 }

@@ -548,13 +548,23 @@
       "size": 1424,
       "tags": 0,
       "links": 0
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 0,
-      "Create": 0,
-      "Link": 0,
+      "Refactor": 2,
+      "Create": 2,
+      "Link": 3,
       "Expand": 0
     }
   },
@@ -573,7 +583,7 @@
       "10": 0,
       "11": 0,
       "12": 0,
-      "13": 0,
+      "13": 7,
       "14": 0,
       "15": 0,
       "16": 0,
@@ -589,7 +599,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 0,
+      "Tue": 7,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -600,12 +610,22 @@
   "recentCommits": {
     "/": {
       "Expanded": [],
-      "Created": [],
-      "Renamed": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
+      ],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [],
-      "Linked": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>"
+      ],
       "Removed Tags from": [],
       "Removed Links from": []
     }
