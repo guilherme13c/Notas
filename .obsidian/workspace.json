@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01a24959fd72796b",
+        "id": "7362b7883f324efe",
         "type": "tabs",
         "children": [
           {
-            "id": "3f90a6eabf7943f4",
+            "id": "2cd805a20e971177",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -62,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.51103591918945,
-    "collapsed": true
+    "width": 236.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -79,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,17 +126,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "3f90a6eabf7943f4",
+  "active": "2cd805a20e971177",
   "lastOpenFiles": [
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Matemática/Algebra Linear/Regressão Linear.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
     "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md",
     "Notas/Matemática/Algebra Linear/Decomposição por Valores Singulares - SVD.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md"
   ]
 }
