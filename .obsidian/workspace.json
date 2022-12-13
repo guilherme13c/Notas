@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1768d1e340d636a1",
+        "id": "5c875ccd28afdd41",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6a1adf1e1678f5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3923446cbe1e6733",
+            "id": "dfd0b57632f13c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.01103591918945
+    "width": 236.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -141,19 +132,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557
+    "width": 200,
+    "collapsed": true
   },
-  "active": "3923446cbe1e6733",
+  "active": "dfd0b57632f13c8e",
   "lastOpenFiles": [
-    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-    "conflict-files-obsidian-git.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
+    "Notas/Matemática/Algebra Linear/Regressão Linear.md",
+    "Notas/Matemática/Algebra Linear/Normas de Vetores.md"
   ]
 }
