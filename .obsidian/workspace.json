@@ -11,11 +11,30 @@
             "id": "35f2ad5dea0fa3be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fd39e18e5817615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md"
+              }
             }
           },
           {
@@ -125,17 +148,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "35f2ad5dea0fa3be",
+  "active": "5fd39e18e5817615",
   "lastOpenFiles": [
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
-    "conflict-files-obsidian-git.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+    "conflict-files-obsidian-git.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md"
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md"
   ]
 }
