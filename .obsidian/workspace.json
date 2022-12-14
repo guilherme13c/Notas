@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "691217a0388e0560",
+        "id": "5bcd2ec2e2baf021",
         "type": "tabs",
         "children": [
           {
-            "id": "a71369090b7dac45",
+            "id": "a195b13b37104a77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -57,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.01103591918945
+    "width": 341.5036334991455
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,19 +106,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md"
+              }
             }
           },
           {
-            "id": "76a6bf3c856c542c",
+            "id": "7184e5c0ecba1e88",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "Notas/arquivos/Pasted image 20220922111358.png",
+                "staged": false
+              }
             }
           },
           {
-            "id": "649ff039ce50e2c4",
+            "id": "0ad546724bb50d0b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -123,19 +135,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557
+    "width": 538.9530639648438
   },
-  "active": "a71369090b7dac45",
+  "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
-    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
     "conflict-files-obsidian-git.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
-    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md"
+    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+    "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md",
+    "Notas/Matemática/Conjuntos.md",
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos.md",
+    "Notas/Computação/Representação de Dados/Representação de Inteiros.md",
+    "Notas/Computação/Representação de Dados/Representação de Reais.md"
   ]
 }
