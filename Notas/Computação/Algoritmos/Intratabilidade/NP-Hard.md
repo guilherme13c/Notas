@@ -5,3 +5,5 @@ Um problema é dito $\mathbf{NP}\text{-hard}$ se todo problema em $\mathbf{NP}\t
 ---
 
 Informalmente, um problema é $\mathbf{NP}\text{-hard}$ se ele é pelo menos tão difícil quanto os problemas $\mathbf{NP}\text{-completo}$. Vale ressaltar que para um problema ser $\mathbf{NP}\text{-hard}$ ele não precisa ser um [[Decidibilidade|problema de decisão]].
+
+---
