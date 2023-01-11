@@ -8,5 +8,7 @@
   "obsidian-codemirror-options",
   "obsidian-embedded-code-title",
   "obsidian-admonition",
-  "obsidian-commits"
+  "obsidian-commits",
+  "better-pdf-plugin",
+  "cm-typewriter-scroll-obsidian"
 ]

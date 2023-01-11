@@ -4,328 +4,133 @@
     "/"
   ],
   "filesCheckpoint": {
-    "Notas/Computação/Programação/Tipos Abstratos de Dados.md": {
-      "size": 1964,
-      "tags": 0,
-      "links": 2
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/S.O.L.I.D./Subistituição de Liskov.md": {
-      "size": 1583,
-      "tags": 0,
-      "links": 6
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Princípios Da POO.md": {
-      "size": 2170,
-      "tags": 0,
-      "links": 8
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Polimorfismo.md": {
-      "size": 2325,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Polimorfismo Paramétrico.md": {
-      "size": 634,
-      "tags": 0,
-      "links": 4
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Polimorfismo de Sobrecarga.md": {
-      "size": 2662,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Objetos e Classes.md": {
-      "size": 1066,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Introdução a POO.md": {
-      "size": 1454,
-      "tags": 0,
-      "links": 2
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Herança.md": {
-      "size": 4385,
-      "tags": 0,
-      "links": 9
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Encapsulamento.md": {
-      "size": 1490,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Classes e seus Métodos.md": {
-      "size": 1137,
-      "tags": 0,
-      "links": 6
-    },
-    "Notas/Computação/Programação/Programação Orientada a Objetos/Classes e seus Atributos.md": {
-      "size": 1260,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Programação/Ponteiros em C e Cpp.md": {
-      "size": 2796,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Programação/Estruturas de Dados/Árvores.md": {
-      "size": 2298,
-      "tags": 0,
-      "links": 6
-    },
-    "Notas/Computação/Programação/Estruturas de Dados/Listas Ligadas (Encadeadas).md": {
-      "size": 1341,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Programação/Biblioteca STL.md": {
-      "size": 6365,
-      "tags": 0,
-      "links": 7
-    },
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md": {
-      "size": 5339,
-      "tags": 0,
-      "links": 10
-    },
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md": {
-      "size": 4517,
-      "tags": 0,
-      "links": 12
-    },
-    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md": {
-      "size": 5250,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md": {
-      "size": 3740,
-      "tags": 0,
-      "links": 2
-    },
-    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md": {
-      "size": 1605,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Corretude de Programas/Introdução à Programação Defensiva.md": {
-      "size": 1422,
-      "tags": 0,
-      "links": 5
-    },
-    "Notas/Computação/Corretude de Programas/Introdução ao Teste de Software.md": {
-      "size": 2060,
-      "tags": 0,
-      "links": 2
-    },
-    "Notas/Computação/Corretude de Programas/Depuração de software.md": {
-      "size": 1394,
-      "tags": 0,
-      "links": 0
-    },
-    "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md": {
-      "size": 252,
-      "tags": 0,
-      "links": 6
-    },
-    "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md": {
-      "size": 957,
-      "tags": 0,
-      "links": 4
-    },
-    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md": {
-      "size": 2251,
-      "tags": 0,
-      "links": 8
-    },
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md": {
-      "size": 1909,
-      "tags": 0,
-      "links": 4
-    },
-    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md": {
-      "size": 499,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md": {
-      "size": 2177,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md": {
-      "size": 1174,
-      "tags": 0,
-      "links": 2
-    },
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md": {
-      "size": 3925,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md": {
-      "size": 273,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Outros Algoritmos/Algoritmo Ingênuo da Fatoração.md": {
-      "size": 1294,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md": {
-      "size": 34,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md": {
-      "size": 73,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Clustering.md": {
-      "size": 73,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md": {
-      "size": 620,
-      "tags": 0,
-      "links": 11
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Prim's Algorithm for Minimum Spaning Tree.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md": {
-      "size": 76,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Minimum-Cost Arborescences.md": {
-      "size": 77,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md": {
-      "size": 76,
-      "tags": 0,
-      "links": 3
-    },
     "Notas/Matemática/Sistemas Lógicos/Método de Quine-McCluskey Para Simplificação.md": {
-      "size": 3102,
+      "size": 3139,
       "tags": 0,
       "links": 5
     },
     "Notas/Matemática/Sistemas Lógicos/Formas Canônicas de Funções Booleanas.md": {
-      "size": 2511,
+      "size": 2563,
       "tags": 0,
       "links": 1
     },
     "Notas/Matemática/Sistemas Lógicos/Condições de Overflow ou Underflow.md": {
-      "size": 1127,
+      "size": 1148,
       "tags": 0,
       "links": 2
     },
     "Notas/Matemática/Sistemas Lógicos/Algebra Booleana.md": {
-      "size": 3570,
+      "size": 3631,
       "tags": 0,
       "links": 4
     },
+    "Notas/Matemática/Probabilidade/Testes de Bernoulli.md": {
+      "size": 414,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Matemática/Probabilidade/Probabilidade Condicional.md": {
+      "size": 412,
+      "tags": 0,
+      "links": 2
+    },
     "Notas/Matemática/Probabilidade/Variância e Covariância.md": {
-      "size": 649,
+      "size": 662,
       "tags": 0,
       "links": 1
     },
-    "Notas/Matemática/Probabilidade/Testes de Bernoulli.md": {
-      "size": 406,
-      "tags": 0,
-      "links": 2
-    },
     "Notas/Matemática/Probabilidade/Teorema de Bayes.md": {
-      "size": 471,
+      "size": 484,
       "tags": 0,
       "links": 6
     },
-    "Notas/Matemática/Probabilidade/Probabilidade Condicional.md": {
-      "size": 401,
-      "tags": 0,
-      "links": 2
-    },
     "Notas/Matemática/Probabilidade/O problema de Monty Hall.md": {
-      "size": 106,
+      "size": 109,
       "tags": 0,
       "links": 2
     },
     "Notas/Matemática/Probabilidade/Distribuição de Probabilidades.md": {
-      "size": 1445,
+      "size": 1472,
       "tags": 0,
       "links": 2
     },
     "Notas/Matemática/Probabilidade/Conceitos Básicos de Probabilidade.md": {
-      "size": 1195,
+      "size": 1229,
       "tags": 0,
       "links": 2
     },
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Não-Livres-do-Contexto.md": {
-      "size": 965,
+    "Notas/Matemática/Cálculo/Séries.md": {
+      "size": 5885,
       "tags": 0,
-      "links": 3
+      "links": 5
     },
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Não-Regulares.md": {
-      "size": 827,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Formais.md": {
-      "size": 777,
+    "Notas/Matemática/Cálculo/Funções.md": {
+      "size": 1451,
       "tags": 0,
       "links": 1
     },
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Livres-do-Contexto e Autômatos com Pilha.md": {
-      "size": 5110,
+    "Notas/Matemática/Cálculo/Sequências Infinitas.md": {
+      "size": 2126,
       "tags": 0,
-      "links": 11
+      "links": 2
     },
-    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos e Linguagens Regulares.md": {
-      "size": 6718,
+    "Notas/Matemática/Cálculo/Derivadas.md": {
+      "size": 3655,
       "tags": 0,
-      "links": 5
+      "links": 1
     },
-    "Notas/Matemática/Fundamentos da Teoria da Computação/A tese de Church-Turing e Máquinas de Turing.md": {
-      "size": 8807,
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Introdução à Análise Combinatória.md": {
+      "size": 1362,
       "tags": 0,
-      "links": 6
+      "links": 9
     },
-    "Notas/Matemática/Matemática Discreta/Relações/Relação de Ordem Parcial.md": {
-      "size": 4811,
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Adição.md": {
+      "size": 1632,
       "tags": 0,
-      "links": 5
+      "links": 1
     },
-    "Notas/Matemática/Matemática Discreta/Relações/Propriedades de Relações.md": {
-      "size": 3068,
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Multiplicação.md": {
+      "size": 921,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Casa de Pombo.md": {
+      "size": 552,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Permutação.md": {
+      "size": 1178,
       "tags": 0,
       "links": 4
     },
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Funções Geradoras.md": {
+      "size": 1896,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Combinação.md": {
+      "size": 2575,
+      "tags": 0,
+      "links": 6
+    },
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Coeficientes Binomiais e Identidades.md": {
+      "size": 759,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Matemática/Matemática Discreta/Relações/Propriedades de Relações.md": {
+      "size": 3114,
+      "tags": 0,
+      "links": 4
+    },
+    "Notas/Matemática/Matemática Discreta/Relações/Relação de Ordem Parcial.md": {
+      "size": 4899,
+      "tags": 0,
+      "links": 5
+    },
     "Notas/Matemática/Matemática Discreta/Relações/Introdução a Relações.md": {
-      "size": 2647,
+      "size": 2704,
       "tags": 0,
       "links": 5
     },
@@ -334,13 +139,8 @@
       "tags": 0,
       "links": 2
     },
-    "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md": {
-      "size": 8020,
-      "tags": 0,
-      "links": 8
-    },
     "Notas/Matemática/Matemática Discreta/Grafos/Isomorfismo de Grafos.md": {
-      "size": 2744,
+      "size": 2785,
       "tags": 0,
       "links": 12
     },
@@ -348,6 +148,11 @@
       "size": 1613,
       "tags": 0,
       "links": 2
+    },
+    "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md": {
+      "size": 8179,
+      "tags": 0,
+      "links": 8
     },
     "Notas/Matemática/Matemática Discreta/Grafos/Grafos de Coloração.md": {
       "size": 1170,
@@ -365,227 +170,417 @@
       "links": 4
     },
     "Notas/Matemática/Matemática Discreta/Grafos/Conectividade.md": {
-      "size": 2133,
+      "size": 2169,
       "tags": 0,
       "links": 4
     },
     "Notas/Matemática/Matemática Discreta/Grafos/Caminhamentos em Grafos.md": {
-      "size": 2288,
+      "size": 2342,
       "tags": 0,
       "links": 4
     },
     "Notas/Matemática/Matemática Discreta/Conjuntos.md": {
-      "size": 478,
+      "size": 483,
       "tags": 0,
       "links": 1
     },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Multiplicação.md": {
-      "size": 921,
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Não-Regulares.md": {
+      "size": 836,
       "tags": 0,
       "links": 3
     },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Casa de Pombo.md": {
-      "size": 552,
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Livres-do-Contexto e Autômatos com Pilha.md": {
+      "size": 5200,
+      "tags": 0,
+      "links": 11
+    },
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Não-Livres-do-Contexto.md": {
+      "size": 972,
       "tags": 0,
       "links": 3
     },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Princípio da Adição.md": {
-      "size": 1605,
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Formais.md": {
+      "size": 797,
       "tags": 0,
       "links": 1
     },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Permutação.md": {
-      "size": 1178,
-      "tags": 0,
-      "links": 4
-    },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Introdução à Análise Combinatória.md": {
-      "size": 1334,
-      "tags": 0,
-      "links": 9
-    },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Funções Geradoras.md": {
-      "size": 1896,
-      "tags": 0,
-      "links": 2
-    },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Combinação.md": {
-      "size": 2528,
-      "tags": 0,
-      "links": 6
-    },
-    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Coeficientes Binomiais e Identidades.md": {
-      "size": 743,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Matemática/Cálculo/Séries.md": {
-      "size": 5791,
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Autômatos Finitos e Linguagens Regulares.md": {
+      "size": 6848,
       "tags": 0,
       "links": 5
     },
-    "Notas/Matemática/Cálculo/Sequências Infinitas.md": {
-      "size": 2088,
+    "Notas/Matemática/Fundamentos da Teoria da Computação/A tese de Church-Turing e Máquinas de Turing.md": {
+      "size": 8933,
       "tags": 0,
-      "links": 2
-    },
-    "Notas/Matemática/Cálculo/Funções.md": {
-      "size": 1410,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Matemática/Cálculo/Derivadas.md": {
-      "size": 3530,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Matemática/Algebra Linear/Regressão Linear.md": {
-      "size": 4468,
-      "tags": 0,
-      "links": 3
+      "links": 6
     },
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md": {
-      "size": 2397,
+      "size": 2473,
       "tags": 0,
       "links": 4
     },
+    "Notas/Matemática/Algebra Linear/Regressão Linear.md": {
+      "size": 4563,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Matemática/Algebra Linear/Autovalores e Autovetores.md": {
+      "size": 4458,
+      "tags": 0,
+      "links": 2
+    },
     "Notas/Matemática/Algebra Linear/Normas de Matrizes.md": {
-      "size": 2514,
+      "size": 2572,
       "tags": 0,
       "links": 4
     },
     "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md": {
-      "size": 2003,
+      "size": 2056,
       "tags": 0,
       "links": 4
     },
     "Notas/Matemática/Algebra Linear/Decomposição por Valores Singulares - SVD.md": {
-      "size": 2962,
+      "size": 3029,
       "tags": 0,
       "links": 5
     },
-    "Notas/Matemática/Algebra Linear/Autovalores e Autovetores.md": {
-      "size": 4359,
-      "tags": 0,
-      "links": 2
-    },
     "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md": {
-      "size": 2748,
+      "size": 2804,
       "tags": 0,
       "links": 2
     },
     "Notas/Matemática/Algebra A/Testes de Primalidade e Números de Carmichael.md": {
-      "size": 1878,
+      "size": 1933,
       "tags": 0,
       "links": 3
     },
+    "Notas/Matemática/Algebra A/Teorema Chinês do Resto.md": {
+      "size": 1449,
+      "tags": 0,
+      "links": 7
+    },
+    "Notas/Matemática/Algebra A/Relações de Equivalência.md": {
+      "size": 1162,
+      "tags": 0,
+      "links": 4
+    },
+    "Notas/Matemática/Algebra A/Primos e o lema de Euclides.md": {
+      "size": 1167,
+      "tags": 0,
+      "links": 0
+    },
     "Notas/Matemática/Algebra A/Teorema Fundamental da Aritmética.md": {
-      "size": 733,
+      "size": 743,
       "tags": 0,
       "links": 4
     },
     "Notas/Matemática/Algebra A/Teorema de Euler.md": {
-      "size": 972,
+      "size": 991,
       "tags": 0,
       "links": 5
     },
-    "Notas/Matemática/Algebra A/Relações de Equivalência.md": {
-      "size": 1138,
-      "tags": 0,
-      "links": 4
-    },
-    "Notas/Matemática/Algebra A/Teorema Chinês do Resto.md": {
-      "size": 1428,
-      "tags": 0,
-      "links": 7
-    },
-    "Notas/Matemática/Algebra A/Primos e o lema de Euclides.md": {
-      "size": 1133,
-      "tags": 0,
-      "links": 0
-    },
     "Notas/Matemática/Algebra A/Máximo Divisor Comum - MDC e Mínimo Múltiplo Comum - MMC.md": {
-      "size": 2323,
+      "size": 2391,
       "tags": 0,
       "links": 3
     },
     "Notas/Matemática/Algebra A/Irracionalidade da Raiz de Primos.md": {
-      "size": 785,
+      "size": 795,
       "tags": 0,
       "links": 2
     },
     "Notas/Matemática/Algebra A/Inversos Modulares.md": {
-      "size": 351,
+      "size": 360,
       "tags": 0,
       "links": 2
     },
     "Notas/Matemática/Algebra A/Introdução a Grupos.md": {
-      "size": 1947,
+      "size": 1990,
       "tags": 0,
       "links": 4
     },
-    "Notas/Matemática/Algebra A/Gerando Números Primos.md": {
-      "size": 949,
-      "tags": 0,
-      "links": 3
-    },
     "Notas/Matemática/Algebra A/Funções Multiplictivas.md": {
-      "size": 2124,
+      "size": 2159,
       "tags": 0,
       "links": 3
     },
-    "Notas/Matemática/Algebra A/Exponenciação Binária.md": {
-      "size": 1097,
+    "Notas/Matemática/Algebra A/Gerando Números Primos.md": {
+      "size": 962,
       "tags": 0,
-      "links": 6
+      "links": 3
     },
     "Notas/Matemática/Algebra A/Função phi de Euler.md": {
-      "size": 2721,
+      "size": 2757,
       "tags": 0,
       "links": 5
     },
-    "Notas/Matemática/Algebra A/Critérios de Divisibilidade.md": {
-      "size": 195,
+    "Notas/Matemática/Algebra A/Exponenciação Binária.md": {
+      "size": 1132,
       "tags": 0,
-      "links": 4
+      "links": 6
     },
     "Notas/Matemática/Algebra A/Crivo de Eratóstenes.md": {
-      "size": 1391,
+      "size": 1419,
       "tags": 0,
       "links": 3
     },
-    "Notas/Matemática/Algebra A/Criptografia RSA.md": {
-      "size": 156,
+    "Notas/Matemática/Algebra A/Critérios de Divisibilidade.md": {
+      "size": 199,
       "tags": 0,
       "links": 4
     },
     "Notas/Matemática/Algebra A/Congruências e Aritmética Modular.md": {
-      "size": 501,
+      "size": 512,
       "tags": 0,
       "links": 0
     },
+    "Notas/Matemática/Algebra A/Criptografia RSA.md": {
+      "size": 161,
+      "tags": 0,
+      "links": 4
+    },
     "Notas/Matemática/Algebra A/Classes de Equivalência.md": {
-      "size": 1390,
+      "size": 1421,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Matemática/Algebra A/Ciclos e o Pequeno Teorema de Fermat.md": {
+      "size": 516,
       "tags": 0,
       "links": 3
     },
     "Notas/Matemática/Algebra A/Bases Numéricas.md": {
-      "size": 793,
+      "size": 809,
       "tags": 0,
       "links": 2
     },
-    "Notas/Matemática/Algebra A/Ciclos e o Pequeno Teorema de Fermat.md": {
-      "size": 505,
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md": {
+      "size": 2177,
       "tags": 0,
       "links": 3
+    },
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md": {
+      "size": 1195,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md": {
+      "size": 3925,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md": {
+      "size": 273,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Outros Algoritmos/Algoritmo Ingênuo da Fatoração.md": {
+      "size": 1322,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md": {
+      "size": 72,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md": {
+      "size": 72,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md": {
+      "size": 72,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Clustering.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md": {
+      "size": 34,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md": {
+      "size": 637,
+      "tags": 0,
+      "links": 11
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md": {
+      "size": 77,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Prim's Algorithm for Minimum Spaning Tree.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md": {
+      "size": 77,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Minimum-Cost Arborescences.md": {
+      "size": 79,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Programação/Ponteiros em C e Cpp.md": {
+      "size": 2920,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Programação/Estruturas de Dados/Árvores.md": {
+      "size": 2420,
+      "tags": 0,
+      "links": 6
+    },
+    "Notas/Computação/Programação/Estruturas de Dados/Listas Ligadas (Encadeadas).md": {
+      "size": 1407,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Programação/Tipos Abstratos de Dados.md": {
+      "size": 2043,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Princípios Da POO.md": {
+      "size": 2236,
+      "tags": 0,
+      "links": 8
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Polimorfismo.md": {
+      "size": 2414,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Polimorfismo Paramétrico.md": {
+      "size": 663,
+      "tags": 0,
+      "links": 4
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Polimorfismo de Sobrecarga.md": {
+      "size": 2793,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Objetos e Classes.md": {
+      "size": 1088,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Herança.md": {
+      "size": 4538,
+      "tags": 0,
+      "links": 9
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Introdução a POO.md": {
+      "size": 1488,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Encapsulamento.md": {
+      "size": 1539,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Classes e seus Métodos.md": {
+      "size": 1170,
+      "tags": 0,
+      "links": 6
+    },
+    "Notas/Computação/Programação/Programação Orientada a Objetos/Classes e seus Atributos.md": {
+      "size": 1305,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Programação/Biblioteca STL.md": {
+      "size": 6611,
+      "tags": 0,
+      "links": 7
+    },
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md": {
+      "size": 5419,
+      "tags": 0,
+      "links": 10
+    },
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md": {
+      "size": 4662,
+      "tags": 0,
+      "links": 12
+    },
+    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md": {
+      "size": 5266,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md": {
+      "size": 1643,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md": {
+      "size": 3767,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Computação/Corretude de Programas/Introdução à Programação Defensiva.md": {
+      "size": 1461,
+      "tags": 0,
+      "links": 5
+    },
+    "Notas/Computação/Corretude de Programas/Introdução ao Teste de Software.md": {
+      "size": 2126,
+      "tags": 0,
+      "links": 2
+    },
+    "Notas/Computação/Corretude de Programas/Depuração de software.md": {
+      "size": 1424,
+      "tags": 0,
+      "links": 0
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 4
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md": {
+      "size": 2248,
+      "tags": 0,
+      "links": 8
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 4
+    },
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 6
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2,
-      "Create": 2,
-      "Link": 1,
-      "Expand": 0
+      "Refactor": 11,
+      "Create": 9,
+      "Link": 12,
+      "Expand": 1
     }
   },
   "dailyCommits": {
@@ -601,13 +596,13 @@
       "8": 0,
       "9": 0,
       "10": 0,
-      "11": 0,
-      "12": 0,
-      "13": 0,
-      "14": 0,
-      "15": 5,
-      "16": 0,
-      "17": 0,
+      "11": 2,
+      "12": 1,
+      "13": 7,
+      "14": 3,
+      "15": 2,
+      "16": 9,
+      "17": 9,
       "18": 0,
       "19": 0,
       "20": 0,
@@ -619,29 +614,59 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 0,
-      "Wed": 5,
+      "Tue": 30,
+      "Wed": 0,
       "Thu": 0,
-      "Fri": 0,
+      "Fri": 3,
       "Sat": 0,
       "Sun": 0
     }
   },
   "recentCommits": {
     "/": {
-      "Expanded": [],
-      "Created": [
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+      "Expanded": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>"
       ],
-      "Renamed": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md\"> NP-Completude </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md\"> NP-Hard </a>"
+      ],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
-        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"Pessoal/Crença e ambiente.md\"> Crença e ambiente </a>"
       ],
       "Linked": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md\"> Intodução a Intratabilidade </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md\"> Reduções de Tempo Polinomial </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md\"> NP-Completude </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md\"> NP-Completude </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md\"> NP-Hard </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md\"> NP-Hard </a>"
       ],
       "Removed Tags from": [],
