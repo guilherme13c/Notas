@@ -7,7 +7,7 @@
   "editModeHideTokens": false,
   "editModeClickHandler": false,
   "showLineNums": true,
-  "copyButton": false,
+  "copyButton": true,
   "copyButtonOnPRE": false,
   "enableOpenMD": false,
   "cursorBlinkRate": 530,

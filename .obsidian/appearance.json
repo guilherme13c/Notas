@@ -2,5 +2,9 @@
   "baseFontSize": 20,
   "translucency": false,
   "cssTheme": "Things",
-  "accentColor": ""
+  "accentColor": "#7e5dea",
+  "interfaceFontFamily": "FiraCode NF Retina",
+  "textFontFamily": "FiraCode Nerd Font Mono Retina",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono Retina",
+  "nativeMenus": false
 }

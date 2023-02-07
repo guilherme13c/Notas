@@ -9,5 +9,10 @@
   "trashOption": "none",
   "showUnsupportedFiles": true,
   "showFrontmatter": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "newFileLocation": "root"
 }
