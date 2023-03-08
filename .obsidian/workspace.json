@@ -11,17 +11,22 @@
             "id": "eae1d862351bd507",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
-            "id": "7f5d4d6e3c10dfa8",
+            "id": "9285bd80f801bc56",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.8"
+                "currentVersion": "1.1.9"
               }
             }
           }
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md"
+              }
             }
           },
           {
@@ -147,17 +156,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7f5d4d6e3c10dfa8",
+  "active": "9285bd80f801bc56",
   "lastOpenFiles": [
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Clustering.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Outros Algoritmos/Algoritmo Ingênuo da Fatoração.md",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-    "conflict-files-obsidian-git.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Algoritmos.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Comportamento Asintótico das funções.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Recursão.md",
-    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md"
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md"
   ]
 }

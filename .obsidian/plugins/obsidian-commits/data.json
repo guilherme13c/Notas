@@ -379,41 +379,6 @@
       "tags": 0,
       "links": 3
     },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md": {
-      "size": 72,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Clustering.md": {
-      "size": 74,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md": {
-      "size": 34,
-      "tags": 0,
-      "links": 1
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md": {
-      "size": 74,
-      "tags": 0,
-      "links": 3
-    },
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md": {
-      "size": 637,
-      "tags": 0,
-      "links": 11
-    },
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md": {
       "size": 77,
       "tags": 0,
@@ -573,11 +538,46 @@
       "size": 0,
       "tags": 0,
       "links": 6
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Clustering.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md": {
+      "size": 637,
+      "tags": 0,
+      "links": 11
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md": {
+      "size": 72,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md": {
+      "size": 74,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md": {
+      "size": 34,
+      "tags": 0,
+      "links": 1
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md": {
+      "size": 72,
+      "tags": 0,
+      "links": 3
+    },
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md": {
+      "size": 72,
+      "tags": 0,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 11,
+      "Refactor": 25,
       "Create": 9,
       "Link": 12,
       "Expand": 1
@@ -594,7 +594,7 @@
       "6": 0,
       "7": 0,
       "8": 0,
-      "9": 0,
+      "9": 14,
       "10": 0,
       "11": 2,
       "12": 1,
@@ -615,7 +615,7 @@
     "/": {
       "Mon": 0,
       "Tue": 30,
-      "Wed": 0,
+      "Wed": 14,
       "Thu": 0,
       "Fri": 3,
       "Sat": 0,
@@ -645,7 +645,21 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/Conjunto de Problemas Polinomiais (P).md\"> Conjunto de Problemas Polinomiais (P) </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md\"> P vs. NP </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md\"> NP-Completude </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md\"> NP-Hard </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md\"> NP-Hard </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Clustering.md\"> Clustering </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md\"> Algoritmos Gulosos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md\"> Huffman Codes and Data Compression </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Interval Scheduling.md\"> Interval Scheduling </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Optimal Caching.md\"> Optimal Caching </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md\"> Scheduling All Intervals </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md\"> Scheduling to Minimize Lateness </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Clustering.md\"> Clustering </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Algoritmos Gulosos.md\"> Algoritmos Gulosos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Huffman Codes and Data Compression.md\"> Huffman Codes and Data Compression </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Interval Scheduling.md\"> Interval Scheduling </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md\"> Optimal Caching </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling All Intervals.md\"> Scheduling All Intervals </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Scheduling to Minimize Lateness.md\"> Scheduling to Minimize Lateness </a>"
       ],
       "Tagged": [],
       "Refactored": [],
