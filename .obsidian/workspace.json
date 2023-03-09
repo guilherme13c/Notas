@@ -16,11 +16,22 @@
                 "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df4d3ebe2df000f6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,15 +151,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "markdown-importer:Open format converter": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1fc8d549ea999f28",
+  "active": "df4d3ebe2df000f6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",

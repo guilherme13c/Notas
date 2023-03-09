@@ -17,3 +17,5 @@ $$\frac{dx}{dt}=kx,\tag{3}$$
 onde a constante de proporcionalidade, $k$, é positiva, o que nos conduz a uma ODE linear de primeira ordem homogênea.
 
 No estudo do decaimento de massa de materiais radioativos, onde $x(t)$ é a massa do material no instante $t$, temos uma equação do tipo $(3)$, onde substituímos $k$ por $-k$.
+
+
