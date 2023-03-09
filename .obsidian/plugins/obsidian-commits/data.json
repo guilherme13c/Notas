@@ -582,8 +582,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 2,
-      "Create": 2,
+      "Refactor": 3,
+      "Create": 3,
       "Link": 1,
       "Expand": 0
     }
@@ -601,7 +601,7 @@
       "8": 0,
       "9": 0,
       "10": 0,
-      "11": 0,
+      "11": 2,
       "12": 0,
       "13": 0,
       "14": 0,
@@ -619,7 +619,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 0,
-      "Tue": 0,
+      "Tue": 2,
       "Wed": 5,
       "Thu": 0,
       "Fri": 0,
@@ -632,12 +632,14 @@
       "Expanded": [],
       "Created": [
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
       "Renamed": [],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>",
         "<a class=\"internal-link\" href=\"conflict-files-obsidian-git.md\"> conflict-files-obsidian-git </a>"
       ],
