@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "40408fb018276ed9",
+        "id": "4c28c10a038cfd1c",
         "type": "tabs",
         "children": [
           {
-            "id": "e55b7f7b47997bf7",
+            "id": "1fc8d549ea999f28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md"
+              }
             }
           },
           {
@@ -126,30 +135,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.9530639648438,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1c15f0373cb9644",
+  "active": "1fc8d549ea999f28",
   "lastOpenFiles": [
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Kruskal's Algorithm for Minimum Spaning Tree.md",
-    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos em Grafos/Dijkstra's Algoritm for Shortest Path in a Graph.md",
-    "Untitled.canvas",
-    "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
     "conflict-files-obsidian-git.md",
-    "Notas/Matemática/Algebra Linear/Análise de Componentes Principais - PCA.md"
+    "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
+    "Notas/Matemática/Algebra Abstrata/Teorema Chinês do Resto.md",
+    "Notas/Matemática/Algebra Abstrata/Teorema Fundamental da Aritmética.md",
+    "Notas/Matemática/Algebra Abstrata/Testes de Primalidade e Números de Carmichael.md",
+    "Notas/Matemática/Algebra Abstrata/Teorema de Euler.md",
+    "Notas/Matemática/Algebra Abstrata/Relações de Equivalência.md",
+    "Notas/Matemática/Algebra Abstrata/Primos e o lema de Euclides.md",
+    "Notas/Matemática/Algebra Abstrata/Máximo Divisor Comum - MDC e Mínimo Múltiplo Comum - MMC.md",
+    "Notas/Matemática/Algebra Abstrata/Irracionalidade da Raiz de Primos.md",
+    "Notas/Matemática/Algebra Abstrata/Inversos Modulares.md",
+    "Notas/Matemática/Algebra Abstrata/Introdução a Grupos.md",
+    "Notas/Matemática/Algebra Abstrata/Funções Multiplictivas.md",
+    "Notas/Matemática/Algebra Abstrata/Gerando Números Primos.md",
+    "Notas/Matemática/Algebra Abstrata/Função phi de Euler.md",
+    "Notas/Matemática/Algebra Abstrata/Exponenciação Binária.md",
+    "Notas/Matemática/Algebra Abstrata/Crivo de Eratóstenes.md",
+    "Notas/Matemática/Algebra Abstrata/Critérios de Divisibilidade.md",
+    "Notas/Matemática/Algebra Abstrata/Criptografia RSA.md",
+    "Notas/Matemática/Algebra Abstrata/Congruências e Aritmética Modular.md",
+    "Notas/Matemática/Algebra Abstrata/Classes de Equivalência.md",
+    "Notas/Matemática/Algebra Abstrata/Ciclos e o Pequeno Teorema de Fermat.md",
+    "Notas/Matemática/Algebra Abstrata/Bases Numéricas.md",
+    "Notas/Matemática/Algebra Abstrata",
+    "Notas/Matemática/Fundamentos da Teoria da Computação/A tese de Church-Turing e Máquinas de Turing.md",
+    "Notas/Matemática/Fundamentos da Teoria da Computação/Linguagens Formais.md",
+    "Notas/Matemática/Matemática Discreta/Análise Combinatória/Combinação.md"
   ]
 }

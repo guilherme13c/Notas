@@ -1,13 +1,13 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
-  "code-block-copy",
-  "better-word-count",
   "obsidian-git",
-  "obsidian-style-settings",
-  "table-editor-obsidian",
-  "obsidian-codemirror-options",
-  "obsidian-embedded-code-title",
   "obsidian-admonition",
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "cm-typewriter-scroll-obsidian",
+  "symbols-prettifier",
+  "code-block-copy",
   "obsidian-commits",
-  "better-pdf-plugin"
+  "obsidian-codemirror-options",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-embedded-code-title"
 ]
