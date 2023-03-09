@@ -9,5 +9,11 @@
   "obsidian-commits",
   "obsidian-codemirror-options",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-embedded-code-title"
+  "obsidian-embedded-code-title",
+  "obsidian-latex",
+  "obsidian-mathjax-wikilinks",
+  "obsidian-linter",
+  "obsidian-citation-plugin",
+  "cmenu-plugin",
+  "highlightr-plugin"
 ]

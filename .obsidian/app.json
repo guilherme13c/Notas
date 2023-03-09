@@ -1,11 +1,11 @@
 {
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Notas/arquivos",
   "showLineNumber": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "trashOption": "none",
   "showUnsupportedFiles": true,
   "showFrontmatter": true,
@@ -14,5 +14,8 @@
     "en-US",
     "pt-BR"
   ],
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "readableLineLength": true
 }
