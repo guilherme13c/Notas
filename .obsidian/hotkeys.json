@@ -25,5 +25,13 @@
       ],
       "key": "F5"
     }
+  ],
+  "cmenu-plugin:hide-show-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "CapsLock"
+    }
   ]
 }

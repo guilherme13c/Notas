@@ -6,5 +6,8 @@
   "interfaceFontFamily": "FiraCode NF Retina",
   "textFontFamily": "FiraCode Nerd Font Mono Retina",
   "monospaceFontFamily": "FiraCode Nerd Font Mono Retina",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "latex"
+  ]
 }
