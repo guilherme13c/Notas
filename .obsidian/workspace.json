@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cfa0a14f4035755",
+        "id": "b2fcdcf029e12aca",
         "type": "tabs",
         "children": [
           {
-            "id": "14a25dc696a4c816",
+            "id": "4ebaa03c48a6e67b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Matemática/Algebra Linear/Regressão Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Matemática/Algebra Linear/Regressão Linear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Matemática/Algebra Linear/Regressão Linear.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,8 +139,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1c15f0373cb9644",
+  "active": "4ebaa03c48a6e67b",
   "lastOpenFiles": [
+    "Notas/Matemática/Cálculo/Derivadas.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
     "Notas/Matemática/Algebra Linear/Normas de Matrizes.md",
     "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md",
@@ -152,7 +149,6 @@
     "Notas/Matemática/Cálculo/Sequências Infinitas.md",
     "Notas/Matemática/Cálculo/Funções.md",
     "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
-    "Notas/Matemática/Cálculo/Derivadas.md",
     "conflict-files-obsidian-git.md",
     "Notas/Matemática/Algebra Abstrata/Teorema Chinês do Resto.md",
     "Notas/Matemática/Algebra Abstrata/Teorema Fundamental da Aritmética.md",
