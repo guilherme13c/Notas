@@ -11,11 +11,27 @@
             "id": "4ebaa03c48a6e67b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a495b49e69ee6e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,12 +68,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "59c2cc5cd7f090c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 495.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -73,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md"
+              }
             }
           },
           {
@@ -139,8 +167,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ebaa03c48a6e67b",
+  "active": "3a495b49e69ee6e8",
   "lastOpenFiles": [
+    "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Matemática/Cálculo/Derivadas.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
     "Notas/Matemática/Algebra Linear/Normas de Matrizes.md",
@@ -162,11 +195,6 @@
     "Notas/Matemática/Algebra Abstrata/Introdução a Grupos.md",
     "Notas/Matemática/Algebra Abstrata/Funções Multiplictivas.md",
     "Notas/Matemática/Algebra Abstrata/Gerando Números Primos.md",
-    "Notas/Matemática/Algebra Abstrata/Função phi de Euler.md",
-    "Notas/Matemática/Algebra Abstrata/Exponenciação Binária.md",
-    "Notas/Matemática/Algebra Abstrata/Crivo de Eratóstenes.md",
-    "Notas/Matemática/Algebra Abstrata/Critérios de Divisibilidade.md",
-    "Notas/Matemática/Algebra Abstrata/Criptografia RSA.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }
