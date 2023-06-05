@@ -8,30 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ebaa03c48a6e67b",
+            "id": "cd9adb8950fd02a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
-                "mode": "preview",
+                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3a495b49e69ee6e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.51103591918945
+    "width": 344.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md"
+                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md"
               }
             }
           },
@@ -167,13 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a495b49e69ee6e8",
+  "active": "cd9adb8950fd02a4",
   "lastOpenFiles": [
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+    "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
+    "Notas/Computação/Organização e Arquitetura/GPU",
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Matemática/Cálculo/Derivadas.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
     "Notas/Matemática/Algebra Linear/Normas de Matrizes.md",
@@ -193,8 +184,6 @@
     "Notas/Matemática/Algebra Abstrata/Irracionalidade da Raiz de Primos.md",
     "Notas/Matemática/Algebra Abstrata/Inversos Modulares.md",
     "Notas/Matemática/Algebra Abstrata/Introdução a Grupos.md",
-    "Notas/Matemática/Algebra Abstrata/Funções Multiplictivas.md",
-    "Notas/Matemática/Algebra Abstrata/Gerando Números Primos.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }

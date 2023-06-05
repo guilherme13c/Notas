@@ -583,13 +583,18 @@
       "size": 76,
       "tags": 0,
       "links": 3
+    },
+    "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 0,
-      "Create": 0,
-      "Link": 0,
+      "Refactor": 3,
+      "Create": 1,
+      "Link": 1,
       "Expand": 2
     }
   },
@@ -613,7 +618,7 @@
       "15": 0,
       "16": 2,
       "17": 0,
-      "18": 0,
+      "18": 5,
       "19": 0,
       "20": 0,
       "21": 0,
@@ -623,7 +628,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 0,
+      "Mon": 5,
       "Tue": 0,
       "Wed": 0,
       "Thu": 2,
@@ -638,12 +643,20 @@
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>"
       ],
-      "Created": [],
-      "Renamed": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/GPU.md\"> GPU </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/GPU x CPU.md\"> GPU x CPU </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>"
+      ],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [],
-      "Linked": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>"
+      ],
       "Removed Tags from": [],
       "Removed Links from": []
     }
