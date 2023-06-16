@@ -359,16 +359,6 @@
       "tags": 0,
       "links": 2
     },
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Reais.md": {
-      "size": 5339,
-      "tags": 0,
-      "links": 10
-    },
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Representação de Inteiros.md": {
-      "size": 4517,
-      "tags": 0,
-      "links": 12
-    },
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md": {
       "size": 5250,
       "tags": 0,
@@ -588,12 +578,27 @@
       "size": 0,
       "tags": 0,
       "links": 3
+    },
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md": {
+      "size": 4517,
+      "tags": 0,
+      "links": 12
+    },
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md": {
+      "size": 5339,
+      "tags": 0,
+      "links": 10
+    },
+    "RISC x CISC.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 3,
-      "Create": 1,
+      "Refactor": 5,
+      "Create": 2,
       "Link": 1,
       "Expand": 2
     }
@@ -616,7 +621,7 @@
       "13": 0,
       "14": 0,
       "15": 0,
-      "16": 2,
+      "16": 5,
       "17": 0,
       "18": 5,
       "19": 0,
@@ -632,7 +637,7 @@
       "Tue": 0,
       "Wed": 0,
       "Thu": 2,
-      "Fri": 0,
+      "Fri": 3,
       "Sat": 0,
       "Sun": 0
     }
@@ -644,12 +649,15 @@
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/GPU.md\"> GPU </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/GPU x CPU.md\"> GPU x CPU </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md\"> Inteiros </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md\"> Reais </a>"
       ],
       "Tagged": [],
       "Refactored": [],

@@ -4,29 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b2fcdcf029e12aca",
+        "id": "719a4db29827e746",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9adb8950fd02a4",
+            "id": "bbf38d6da4e07065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
-                "mode": "source",
+                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "f37051963fb43da1",
+            "id": "2fbb65681f8da374",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Notas/Matemática/Cálculo/Derivadas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -81,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.51103591918945
+    "width": 281.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
+                "file": "Notas/Matemática/Cálculo/Derivadas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
+                "file": "Notas/Matemática/Cálculo/Derivadas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md"
+                "file": "Notas/Matemática/Cálculo/Derivadas.md"
               }
             }
           },
@@ -167,10 +170,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f37051963fb43da1",
+  "active": "2fbb65681f8da374",
   "lastOpenFiles": [
-    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
+    "RISC x CISC.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
+    "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
     "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
+    "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Organização e Arquitetura/GPU",
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
@@ -190,11 +199,6 @@
     "Notas/Matemática/Algebra Abstrata/Testes de Primalidade e Números de Carmichael.md",
     "Notas/Matemática/Algebra Abstrata/Teorema de Euler.md",
     "Notas/Matemática/Algebra Abstrata/Relações de Equivalência.md",
-    "Notas/Matemática/Algebra Abstrata/Primos e o lema de Euclides.md",
-    "Notas/Matemática/Algebra Abstrata/Máximo Divisor Comum - MDC e Mínimo Múltiplo Comum - MMC.md",
-    "Notas/Matemática/Algebra Abstrata/Irracionalidade da Raiz de Primos.md",
-    "Notas/Matemática/Algebra Abstrata/Inversos Modulares.md",
-    "Notas/Matemática/Algebra Abstrata/Introdução a Grupos.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }

@@ -1,4 +1,4 @@
-[[Representação de Inteiros|]]
+[[Inteiros]]
 
 # Soma de um bit
 A estrutura do somador de um bit completo (_full bit adder_) é a seguinte:
@@ -15,7 +15,7 @@ $$\begin{equation}
 	\end{array}
   }
 \end{equation}$$
-Sendo $a$, $b$ e $s$ números representados usando o [[Representação de Inteiros#Twos Complement|método do complemento de dois]], sabemos que houve overflow ou underflow quando ${\color{cyan}\mbox{C}_\mbox{in}}$ é diferente de ${\color{cyan}\mbox{C}_\mbox{out}}$.
+Sendo $a$, $b$ e $s$ números representados usando o [[Inteiros#Twos Complement|método do complemento de dois]], sabemos que houve overflow ou underflow quando ${\color{cyan}\mbox{C}_\mbox{in}}$ é diferente de ${\color{cyan}\mbox{C}_\mbox{out}}$.
 
 Vale lembrar que ${\color{orange}s}=(a\oplus b)\oplus {\color{cyan}\mbox{C}_\mbox{in}}$ e ${\color{cyan}\mbox{C}_\mbox{out}}=(a\cdot b)+(a\cdot {\color{cyan}\mbox{C}_\mbox{in}})+(b\cdot {\color{cyan}\mbox{C}_\mbox{in}})$.
 

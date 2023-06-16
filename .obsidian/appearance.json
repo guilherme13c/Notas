@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 22,
   "translucency": false,
   "cssTheme": "Things",
-  "accentColor": "#7e5dea",
+  "accentColor": "#8e5dea",
   "interfaceFontFamily": "FiraCode NF Retina",
   "textFontFamily": "FiraCode Nerd Font Mono Retina",
   "monospaceFontFamily": "FiraCode Nerd Font Mono Retina",
