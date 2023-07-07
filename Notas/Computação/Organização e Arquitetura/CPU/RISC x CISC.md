@@ -1,5 +1,6 @@
-## CISC
-### Complex Instruction Set Computer
+## RISC x CISC
+### CISC
+#### Complex Instruction Set Computer
 
 - Conjunto de instruções alargado
 - Instruções complexas
@@ -8,7 +9,7 @@
 - Suporte de vários modos de endereçamento
 - Suporte para operandos em memória
 - Baseado na [[#microprogramação]]
-##### Exemplos:
+##### Exemplos
 - Intel 80x86
 - Motorola 680x0
 
@@ -45,14 +46,14 @@
 Ótimo para os primeiros computadores, quando a memória e os registradores eram caros, mas é menos aplicável aos computadores atuais, pois a memória é barata e nossa preferência passou a ser velocidade.
 
 ---
-## RISC
-### Reduced Instruction Set Computer
+### RISC
+#### Reduced Instruction Set Computer
 
 • Menor quantidade de instruções
 • Instruções mais simples
 • Largura fixa de cada instrução
 • Cada instrução demora um ciclo de clock (ou menos)
-##### Exemplos: 
+##### Exemplos:
 - MIPS
 - SPARC
 - Apple iPhone (Samsung ARM1176JZF)
@@ -77,13 +78,13 @@ complicado
 • Código mais complexo / maior
 
 ---
-## RISC x CISC
+### RISC x CISC
 
-### CISC:
+#### CISC
 • Redução do número de instruções por programa
 • Aumento do número de ciclos por instrução
 
-### RISC:
+#### RISC
 • Redução do número de ciclos por instrução
 • Aumento de número de instruções por programa
 

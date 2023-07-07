@@ -16,5 +16,6 @@
   "obsidian-citation-plugin",
   "cmenu-plugin",
   "highlightr-plugin",
-  "better-word-count"
+  "better-word-count",
+  "markdown-prettifier"
 ]

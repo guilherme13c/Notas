@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ed36242a42e01ee1",
+        "id": "38ac0cf197e6a205",
         "type": "tabs",
         "children": [
           {
-            "id": "9425ffed91895195",
+            "id": "8f9151edad0564b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -138,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,11 +155,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1c15f0373cb9644",
+  "active": "8f9151edad0564b8",
   "lastOpenFiles": [
+    "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
     "Notas/arquivos/Pasted image 20230616165546.png",
     "Notas/Matemática/Cálculo/Derivadas.md",
-    "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
