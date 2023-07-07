@@ -589,18 +589,18 @@
       "tags": 0,
       "links": 10
     },
-    "RISC x CISC.md": {
-      "size": 0,
+    "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md": {
+      "size": 2159,
       "tags": 0,
-      "links": 0
+      "links": 3
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 5,
+      "Refactor": 6,
       "Create": 2,
-      "Link": 1,
-      "Expand": 2
+      "Link": 2,
+      "Expand": 3
     }
   },
   "dailyCommits": {
@@ -621,8 +621,8 @@
       "13": 0,
       "14": 0,
       "15": 0,
-      "16": 5,
-      "17": 0,
+      "16": 6,
+      "17": 2,
       "18": 5,
       "19": 0,
       "20": 0,
@@ -637,7 +637,7 @@
       "Tue": 0,
       "Wed": 0,
       "Thu": 2,
-      "Fri": 3,
+      "Fri": 6,
       "Sat": 0,
       "Sun": 0
     }
@@ -646,7 +646,8 @@
     "/": {
       "Expanded": [
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
-        "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>"
+        "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
+        "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -657,13 +658,15 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/GPU x CPU.md\"> GPU x CPU </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md\"> Inteiros </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md\"> Reais </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md\"> Reais </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md\"> RISC x CISC </a>"
       ],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [],
       "Linked": [
-        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>",
+        "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

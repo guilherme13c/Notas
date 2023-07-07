@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "719a4db29827e746",
+        "id": "ed36242a42e01ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "bbf38d6da4e07065",
+            "id": "9425ffed91895195",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fbb65681f8da374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Matemática/Cálculo/Derivadas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Matemática/Cálculo/Derivadas.md",
+                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Matemática/Cálculo/Derivadas.md",
+                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Matemática/Cálculo/Derivadas.md"
+                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md"
               }
             }
           },
@@ -170,9 +151,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2fbb65681f8da374",
+  "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
-    "RISC x CISC.md",
+    "Notas/arquivos/Pasted image 20230616165546.png",
+    "Notas/Matemática/Cálculo/Derivadas.md",
+    "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
@@ -185,7 +168,6 @@
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Matemática/Cálculo/Derivadas.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
     "Notas/Matemática/Algebra Linear/Normas de Matrizes.md",
     "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md",
@@ -198,7 +180,6 @@
     "Notas/Matemática/Algebra Abstrata/Teorema Fundamental da Aritmética.md",
     "Notas/Matemática/Algebra Abstrata/Testes de Primalidade e Números de Carmichael.md",
     "Notas/Matemática/Algebra Abstrata/Teorema de Euler.md",
-    "Notas/Matemática/Algebra Abstrata/Relações de Equivalência.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }
