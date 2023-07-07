@@ -35,3 +35,6 @@ $$x''=\frac{f(t,x,x')}{m}\tag{5}$$
 Se $f$ não depender explicitamente de $t$; ou seja, $f=f(x,v)$, podemos assumir que $v=v(x)$ e $x=x(t)$. Então da regra da cadeia, $\frac{dv}{dt}=\frac{dv}{dx}\frac{dx}{dt}=\frac{dv}{dx}$ e $(5)$ pode ser re-escrita como
 $$v\frac{dv}{dx}=\frac{f(x,v)}{m}\tag{6}$$
 que é uma equação diferencia de primeira ordem em $v$.
+
+---
+[[Funções|]][[Derivadas|]]

@@ -590,7 +590,7 @@
       "links": 10
     },
     "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md": {
-      "size": 2159,
+      "size": 2779,
       "tags": 0,
       "links": 3
     }
@@ -600,7 +600,7 @@
       "Refactor": 6,
       "Create": 2,
       "Link": 2,
-      "Expand": 3
+      "Expand": 4
     }
   },
   "dailyCommits": {
@@ -617,7 +617,7 @@
       "9": 0,
       "10": 0,
       "11": 0,
-      "12": 0,
+      "12": 1,
       "13": 0,
       "14": 0,
       "15": 0,
@@ -637,7 +637,7 @@
       "Tue": 0,
       "Wed": 0,
       "Thu": 2,
-      "Fri": 6,
+      "Fri": 7,
       "Sat": 0,
       "Sun": 0
     }
@@ -647,7 +647,8 @@
       "Expanded": [
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
-        "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>"
+        "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md\"> RISC x CISC </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",

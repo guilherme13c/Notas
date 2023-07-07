@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
-                "mode": "preview",
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md"
+                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md"
               }
             }
           },
