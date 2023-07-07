@@ -11,13 +11,8 @@
             "id": "8f9151edad0564b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,6 +148,7 @@
   },
   "active": "8f9151edad0564b8",
   "lastOpenFiles": [
+    "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
     "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
     "Notas/arquivos/Pasted image 20230616165546.png",
     "Notas/Matemática/Cálculo/Derivadas.md",
@@ -178,7 +170,6 @@
     "Notas/Matemática/Cálculo/Séries.md",
     "Notas/Matemática/Cálculo/Sequências Infinitas.md",
     "Notas/Matemática/Cálculo/Funções.md",
-    "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
     "conflict-files-obsidian-git.md",
     "Notas/Matemática/Algebra Abstrata/Teorema Chinês do Resto.md",
     "Notas/Matemática/Algebra Abstrata/Teorema Fundamental da Aritmética.md",
