@@ -10,10 +10,7 @@
   "showUnsupportedFiles": true,
   "showFrontmatter": true,
   "promptDelete": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "newFileLocation": "root",
   "strictLineBreaks": false,
   "rightToLeft": false,
