@@ -212,7 +212,7 @@
     "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md": {
       "size": 2733,
       "tags": 0,
-      "links": 0
+      "links": 2
     },
     "Notas/Matemática/Cálculo/Derivadas.md": {
       "size": 3530,
@@ -593,13 +593,18 @@
       "size": 2779,
       "tags": 0,
       "links": 3
+    },
+    "Notas/Computação/Sistemas/Sistemas Operacionais.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 6,
-      "Create": 2,
-      "Link": 2,
+      "Refactor": 9,
+      "Create": 4,
+      "Link": 4,
       "Expand": 4
     }
   },
@@ -623,7 +628,7 @@
       "15": 0,
       "16": 6,
       "17": 2,
-      "18": 5,
+      "18": 12,
       "19": 0,
       "20": 0,
       "21": 0,
@@ -634,7 +639,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 5,
-      "Tue": 0,
+      "Tue": 7,
       "Wed": 0,
       "Thu": 2,
       "Fri": 7,
@@ -652,6 +657,8 @@
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
@@ -660,14 +667,20 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md\"> Inteiros </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md\"> Reais </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md\"> RISC x CISC </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md\"> RISC x CISC </a>",
+        "<a class=\"internal-link\" href=\"Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>"
       ],
       "Tagged": [],
       "Refactored": [],
-      "Deleted": [],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>"
+      ],
       "Linked": [
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>",
-        "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>"
+        "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>",
+        "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []

@@ -23,7 +23,7 @@ $R$ é **irreflexiva** sse, $\forall x \in A, x\not Rx$.
 $R$ é **assimétrica** se, e somente se, $\forall x, y \in A$, se $xRy$ então $y\not Rx$.
 -> Se um primeiro elemento está relacionado com um segundo, então o segundo não está relacionado com o primeiro, ou ainda, para cada aresta de “ida” não há uma aresta de “volta” nem aresta laço no grafo dirigido da relação. Uma relação assimétrica é anti-simétrica e irreflexiva.
 
-***Obs.:*** os elementos $x, y$ e $z$ não precisam ser distintos!
+***Obs.:*** os elementos $x, y$ e $z$ não precisam set distintos!
 
 > Se uma relação é simétrica, transitiva e reflexiva simultaneamente, dizemos que esta é uma [[Relações de Equivalência|Relação de Equivalência]].
 

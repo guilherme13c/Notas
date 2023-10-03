@@ -14,7 +14,7 @@ Um autômatos finito (determinístico) é uma 5-tupla $(Q, \Sigma, \delta, q_0, 
 
 ---
 
-Autômatos finitos podem ser representados como [[Introdução a Grafos|grafos]], onde cada nó representa um estado e cada aresta representa uma transição. Um nó com borda dupla representa um estado de aceitação.
+Autômatos finitos podem set representados como [[Introdução a Grafos|grafos]], onde cada nó representa um estado e cada aresta representa uma transição. Um nó com borda dupla representa um estado de aceitação.
 
 ##### Exemplo
 ![[Pasted image 20220917151300.png]]
@@ -43,13 +43,13 @@ Dois estados $e$ e $e^\prime$ são equivalentes se o resultado final (aceitaçã
 
 Mais formalmente, dois estados $e$ e $e^\prime$ são equivalentes se $∀w ∈ Σ^∗ : w$ é aceita a partir de $e ⇔ w$ é aceita a partir de $e^\prime$.
 
-O algoritmo de minimização funciona ao unir todos os estados equivalentes entre si (o que não altera o funcionamento do autômato, uma vez que estados equivalentes se comportam de maneira idêntica para toda cadeia). Já estados não-equivalentes não podem ser unidos e permanecem separados.
+O algoritmo de minimização funciona ao unir todos os estados equivalentes entre si (o que não altera o funcionamento do autômato, uma vez que estados equivalentes se comportam de maneira idêntica para toda cadeia). Já estados não-equivalentes não podem set unidos e permanecem separados.
 A questão central do algoritmo de minimização é, então, determinar quais estados de um AFD são equivalentes.
 
 Para determinar quais estados não são equivalentes, o algoritmo:
 1. Inicialmente assume que todos os estados são equivalentes entre si e os agrupa.
 2. Iterativamente identifica cadeias $w ∈ Σ^∗$ que atestam que alguns estados não são equivalentes e separa estes estados.
-3. Quando nenhum estado mais pode ser separado, sabe-se que somente os estados equivalentes permanecem juntos e com eles se constrói o autômato equivalente minimizado.
+3. Quando nenhum estado mais pode set separado, sabe-se que somente os estados equivalentes permanecem juntos e com else se constrói o autômato equivalente minimizado.
 
 ---
 
@@ -64,16 +64,16 @@ Sejam $A$ e $B$ linguagens. Definimos as operações regulares **união**, **con
 - Estrela (ou fecho de Kleene): $A^* = \set{x_1x_2 \ldots x_k | k ≥ 0 \text{ e cada } x_i ∈ A}$.\
 
 ###### Teorema
-A classe de linguagens regulares  é fechada sob a operação de união.
+A classe de linguagens regulares é fechada sob a operação de união.
 
 ###### Teorema
-A classe de linguagens regulares  é fechada sob a operação de concatenação.
+A classe de linguagens regulares é fechada sob a operação de concatenação.
 
 ###### Teorema
-A classe de linguagens regulares  é fechada sob a operação de fecho de Kleene.
+A classe de linguagens regulares é fechada sob a operação de fecho de Kleene.
 
 # Expressões Regulares
-Expressões regulares são geradores para as linguagens regulares. Uma expressão regular pode ser descrita com uma cadeia de símbolos e operações.
+Expressões regulares são geradores para as linguagens regulares. Uma expressão regular pode set descrita com uma cadeia de símbolos e operações.
 #### Definição
 $R$ é uma expressão regular se $R$ for
 1. $a$, para algum $a$ no alfabeto $\Sigma$,
@@ -90,7 +90,7 @@ Não-determinismo é um conceito extremamente útil que tem grande impacto sobre
 
 Até agora lidamos com computação determinística: quando a máquina está em um estado e lê um símbolo, existe exatamente uma única opção para o próximo estado.
 
-Em uma computação não-determinística, quando a máquina está em um estado e lê um símbolo, podem existir várias $(0, 1, 2, 3, . . .)$ escolhas para o próximo estado.
+Em uma computação não-determinística, quando a máquina está em um estado e lê um símbolo, podem existir várias $(0, 1, 2, 3, …)$ escolhas para o próximo estado.
 
 Note que o não-determinismo é uma generalização do determinismo. Todo autômato finito determinístico (AFD) é automaticamente um autômato finito não-determinístico (AFN) também.
 

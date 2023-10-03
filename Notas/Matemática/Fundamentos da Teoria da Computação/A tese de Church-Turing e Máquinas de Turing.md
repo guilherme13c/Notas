@@ -1,12 +1,12 @@
 Vimos que as [[Linguagens Livres-do-Contexto e Autômatos com Pilha|liguagens livre-do-contexto]] são mais gerais que as [[Autômatos Finitos e Linguagens Regulares#Linguagens Regulares|linguagens regulares]], e que muitas [[Linguagens Formais|linguagens]] de interesse (como linguagens de programação) são linguagens livres-do-contexto. Porém, vimos que nem toda linguagemé livre-do-contexto, como, por exemplo, $L = \{ww | w \in \{0, 1\}^* \}.$ Por essa razão, autômatos com pilha são ainda muito restritos para servirem como um modelo de computação geral. Aqui vamos estudar um modelo ainda mais poderoso que os autômatos com pilha, as **máquinas de Turing**.
 
 # Máquina de Turing (MT)
-Lembre-se de que o [[Linguagens Não-Livres-do-Contexto#Lema do Bombeamento para linguagens livres-do-contexto|lema do bombeamento para linguagens livres-do-contexto]] diz, essencialmente, que gramáticas livres-do-contexto não têm controle sobre quantas vezes uma regra recursiva pode ser usada. Isto se reflete no reconhecedor para linguagens livres-do-contexto: os autômatos com pilha até conseguem “se lembrar” do que já viram, mas apenas “da última coisa que já viram”. Isto sugere que para aumentar o poder de computação de APs, podemos melhorar o tipo de **memória** que eles utilizam. Vamos adicionar à máquina uma memória de acesso irrestrito, uma **fita**, que pode ser lida e escrita em qualquer posição.
+Lembre-se de que o [[Linguagens Não-Livres-do-Contexto#Lema do Bombeamento para linguagens livres-do-contexto|lema do bombeamento para linguagens livres-do-contexto]] diz, essencialmente, que gramáticas livres-do-contexto não têm controle sobre quantas vezes uma regra recursiva pode set usada. Isto se reflete no reconhecedor para linguagens livres-do-contexto: os autômatos com pilha até conseguem “se lembrar” do que já viram, mas apenas “da última coisa que já viram”. Isto sugere que para aumentar o poder de computação de APs, podemos melhorar o tipo de **memória** que else utilizam. Vamos adicionar à máquina uma memória de acesso irrestrito, uma **fita**, que pode set lida e escrita em qualquer posição.
 
 Assim, chegamos à máquina de Turing (MT):
 ![[Pasted image 20221027080230.png]]
 
-## Principais diferenças entre autˆomatos finitos e máquinas de Turing: 
+## Principais diferenças entre autˆomatos finitos e máquinas de Turing
 1. MTs podem tanto **ler** quanto **escrever** na fita. 
 2. A **cabeça de leitura** pode se mover tanto para a esquerda quanto para a direita. 
 3. A fita é infinita. 
@@ -25,7 +25,7 @@ Uma máquina de Turing é uma 7-tupla $(Q, \Sigma, \Gamma, \delta, q_0, q_{aceit
 Note que, pela definição da função transição $\delta$, estamos considerando MTs determinísticas.
 
 ### Configuração da Máquina de Turing
-A medida em que uma MT computa, ela altera sua **configuração** (ou **configuração instantˆanea**), que é a combinação de três itens: 
+A medida em que uma MT computa, ela altera sua **configuração** (ou **configuração instantˆanea**), que é a combinação de três items: 
 1. seu estado atual, 
 2. o conteúdo atual da fita, e 
 3. a posição do cabeçote de leitura/escrita. A configuração de uma MT contém toda a informação necessária para ela continuar sua computação.
@@ -42,8 +42,8 @@ Formalmente, sejam $a, b, c \in \Gamma,\space u, v \in \Gamma^*$ , e $q_i , q_j 
 A configuração $uaq_ibv$ **origina** $uq_jacv$ se na função de transição $\delta(q_i, b) = (q_j, c, E)$;
 A configuração $uaq_ibv$ **origina** $uacq_jv$ se na função de transição $\delta(q_i, b) = (q_j, c, D)$.
 
-##### Casos especiais de mudança de configuração: 
-- Quando a cabeça está na _extremidade esquerda da fita_, a configuração $q_ibv$ origina $q_jcv$ se na função de transição temos o comando $\delta(q_i, b) = (q_j, c, E)$ para a cabeça se mover para a esquerda (pois a MT não pode ir para a esquerda do início da fita). 
+##### Casos especiais de mudança de configuração
+- Quando a cabeça está na _extremidade esquerda da fita_, a configuração $q_ibv$ origina $q_jcv$ se na função de transição temos o commando $\delta(q_i, b) = (q_j, c, E)$ para a cabeça se mover para a esquerda (pois a MT não pode ir para a esquerda do início da fita). 
 - Quando a cabeça está na _extremidade direita da fita_, note que a configuração $uaq_i$ equivale a $uaq_i\sqcup$, pois à direita do último símbolo da fita têm apenas espaços em branco, e podemos realizar a mudança de configuração normalmente (seja a instrução para a cabeça se mover para a esquerda ou para a direita).
 
 A configuração inicial de $M$ sobre a entrada $w$ é $$q_0w,$$pois a máquina está no estado inicial $q_0$ com a cabeça no início da fita. 
@@ -110,7 +110,7 @@ Uma formulação alternativa, mas equivalente, da tese é:
 #### Definição
 “ _Computação efetiva_ (e *algoritmos*) é nada mais, nada menos, do que exatamente aquilo que as Máquinas de Turing são capazes de fazer.”
 
-A Tese de Church-Turing dificilmente pode ser demonstrada verdadeira, porém é amplamente aceita, uma vez que existem fortes evidências a seu favor.
+A Tese de Church-Turing dificilmente pode set demonstrada verdadeira, porém é amplamente aceita, uma vez que existem fortes evidências a seu favor.
 
 # Gramáticas Irrestritas (GI)
 #### Definição

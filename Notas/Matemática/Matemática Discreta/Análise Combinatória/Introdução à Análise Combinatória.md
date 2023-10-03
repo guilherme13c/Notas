@@ -3,7 +3,7 @@ Em geral, a dificuldade no estudo da análise combinatória não está em ***com
 
 Em Ciência da Computação, questões de contagem são importantes já que temos uma quantidade finita de recursos.
 
->#### Exemplos:
+> #### Exemplos:
 > - Qual a quantidade de memória que será utilizada por um determinado programa que faz [[Armazenamento e manipulação de dados#Dinâmica _ longrightarrow Heap_|alocação dinâmica de memória]]?
 > - Quantos usuários um determinado sistema computacional tem capacidade de atender?
 > - Quantas computações um determinado algoritmo executa? (Qual é o [[Comportamento Asintótico das funções|custo computacional]] em termos de tempo e espaço de um determinado [[Algoritmos|algoritmo]]?)

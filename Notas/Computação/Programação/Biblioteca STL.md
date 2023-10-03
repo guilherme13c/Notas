@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-Também podemos fazer a importação de todos os componentes do namespace:
+Também podemos fazer a importação de todos os components do namespace:
 
 ```Cpp
 #include <iostream>
@@ -41,7 +41,7 @@ int main() {
 
 - ***[[Biblioteca STL#Containers|Container]]:*** representa como os dados são armazenados;
 - ***[[Biblioteca STL#Iteradores|Iterador]]:*** auxilia no acesso e manipulação ("[[Ponteiros em C e Cpp|ponteiros]]");
-- ***[[Biblioteca STL#Algorithms|Algorithm]]:*** procedimento que pode ser aplicado aos dados.
+- ***[[Biblioteca STL#Algorithms|Algorithm]]:*** procedimento que pode set aplicado aos dados.
 
 #### Programação Genérica
 
@@ -65,7 +65,7 @@ template <typename T> class NodeG {
 São estruturas de dados que armazenam coleções nas quais todos os elementos são do mesmo tipo, sendo esse primitivo ou definido pelo programador.
 
 Praticamente todos os [[Tipos Abstratos de Dados|TADs]] são containers.
-O uso de tipos específicos na definição desses [[Tipos Abstratos de Dados|TADs]], a estrutúra fica muito rígida. Dessa forma, é comum utilizar tipos genéricos, para que possam ser reutilizados com mais facilidade.
+O uso de tipos específicos na definição desses [[Tipos Abstratos de Dados|TADs]], a estrutúra fica muito rígida. Dessa forma, é comum utilizar tipos genéricos, para que possam set reutilizados com mais facilidade.
 
 Os containers possibilitam o acesso uniforme aos dados (contrato). Assim, a utilização dos [[Tipos Abstratos de Dados|TADs]] fica padronizada, indepente do tipo do elemento e de como está [[Armazenamento e manipulação de dados|armazenado]]. A recuperação dos dados fica, também, baseada em regras bem definidas, usando índice, valor ou propriedades do elemento, por exemplo.
 
@@ -75,7 +75,7 @@ Os containers possibilitam o acesso uniforme aos dados (contrato). Assim, a util
 Os containers sequenciais são aqueles que mantém a ordem dos elementos de acordo com a ordem em que foram inseridos.
 
 ###### Vector
-É um array genérico e dinamicamente redimensionável. Possiblita o acesso individual aos elementos a partir de índices e a adição e remoção de itens ao final de forma eficiente, além de poder ser percorrido em uma ordem específica.
+É um array genérico e dinamicamente redimensionável. Possiblita o acesso individual aos elementos a partir de índices e a adição e remoção de items ao final de forma eficiente, além de poder set percorrido em uma ordem específica.
 
 ```Cpp
 #include <vector>
@@ -121,7 +121,7 @@ int main() {
 Os containers associativos mantém uma organização interna, que independe da sequencia de insersão.
 
 ###### Set
-Semelhante ao conceito matemático, guarda uma coleção de elementos distintos. Esses elementos devem ser comparáveis de acordo com algum critério.
+Semelhante ao conceito matemático, guarda uma coleção de elementos distintos. Esses elementos devem set comparáveis de acordo com algum critério.
 
 ```Cpp
 #include <iostream>
@@ -194,7 +194,7 @@ int main() {
 
 ### Iteradores
 
-São semelhantes aos ponteiros, sendo usados para acessar os elementos armazenados. Iteradores apontam para itens que estão em um container. Podemos iterar sobre os elementos, isto é, percorrê-los.
+São semelhantes aos ponteiros, sendo usados para acessar os elementos armazenados. Iteradores apontam para items que estão em um container. Podemos iterar sobre os elementos, isto é, percorrê-los.
 
 ```Cpp
 #include <iostream>
@@ -219,7 +219,7 @@ int main() {
 ### Algorithms
 São [[Algoritmos|algoritmos]] a serem usados em intervalos (Range) de elementos.
 
-***Range***: qualquer sequência que pode ser acessada por meio de iteradores ou ponteiros, como matrizes ou alguns containers. O range define o intervalo semi-aberto: `[first, last)`.
+***Range***: qualquer sequência que pode set acessada por meio de iteradores ou ponteiros, como matrizes ou alguns containers. O range define o intervalo semi-aberto: `[first, last)`.
 
 ***Atenção:*** em containers, o `begin()` aponta para o primeiro elemento, e o `end()` para a posição após o último. 
 

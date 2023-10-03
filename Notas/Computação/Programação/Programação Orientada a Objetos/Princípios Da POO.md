@@ -1,7 +1,7 @@
 [[Introdução a POO|]][[Objetos e Classes|]]
 
 # Abstração
->#### Elimine o irrelevante, enfatize o essencial.
+> #### Elimine o irrelevante, enfatize o essential.
 
 A representação computacional do objeto real deve se concentrar nas características que são relevantes para o problema.
 
@@ -9,13 +9,13 @@ São criados somente os atributos e métodos necessários para o problema em mã
 
 ---
 # [[Encapsulamento]]
->#### Esconda o desnecessário.
+> #### Esconda o desnecessário.
 
 O objeto deve esconder seus dados e os detalhes de sua implementação.
 
-## [[Classes e seus Atributos|Atributos]] e [[Classes e seus Métodos|Métodos]]
-+ Atributos não devem ser manipulados diretamente.
-+ Os atributos somente devem ser alterados ou consultados através dos métodos do objeto.
+## [[Classes e seus Atributos|Atributos]] E [[Classes e seus Métodos|Métodos]]
++ Atributos não devem set manipulados diretamente.
++ Os atributos somente devem set alterados ou consultados através dos métodos do objeto.
 
 Um sistema orientado a objetos baseia-se no **contrato** e não na implementação interna.
 
@@ -27,9 +27,9 @@ Proteção da estrutura interna (integridade)
 
 ---
 # [[Herança]]
->#### Modele a semelhança.
+> #### Modele a semelhança.
 
-Objetos devem ser organizados de forma hierárquica no sistema, o que facilita a implementação de herança.
+Objetos devem set organizados de forma hierárquica no sistema, o que facilita a implementação de herança.
 
 Objetos herdam atributos e métodos de seus antecedentes na hierarquia.
 
@@ -41,7 +41,7 @@ Objetos herdam atributos e métodos de seus antecedentes na hierarquia.
 
 ---
 # [[Polimorfismo]]
->#### Mesma função, comportamentos diferentes.
+> #### Mesma função, comportamentos diferentes.
 
 Capacidade da linguagem de tratar tipos diferentes de forma homogênea.
 
@@ -49,10 +49,10 @@ Um método pode assumir "diferentes formas", apresentar diferentes comportamento
 
 ---
 # Modularidade
-O sistema deve ser composto de objetos altamente coesos e fracamente acoplados.
+O sistema deve set composto de objetos altamente coesos e fracamente acoplados.
 
 Separação de responsabilidades
-+ Limites lógicos entre os componentes
++ Limites lógicos entre os components
 + Melhora a manutenibilidade
 + Aumenta a estabilidade, reduz efeitos colaterais
 

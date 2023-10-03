@@ -13,8 +13,8 @@
 > #### Definição
 > $a^n$ denota $n$ ocorrências do símbolo $a$ em sequência.
 
->#### Definição
->$\Sigma^*$ denota o conjunto de todas as cadeias que podem ser formadas com o alfabeto $\Sigma$.
+> #### Definição
+> $\Sigma^*$ denota o conjunto de todas as cadeias que podem set formadas com o alfabeto $\Sigma$.
 
 #### Definição
 Uma **linguagem** sobre um alfabeto $\Sigma$ é um subconjunto de $\Sigma^*$.

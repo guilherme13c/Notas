@@ -9,7 +9,7 @@
 ---
 
 ## Polimorfismo Universal/Verdadeiro
-Capacidade de uma única função (único código) poder ser usado com mais do que um tipo.
+Capacidade de uma única função (único código) poder set usado com mais do que um tipo.
 
 Os tipos nesse caso tem uma estrutura comum, por isso essas funções operam sobre uma quantidade potencialmente infinita de tipos.
 
@@ -31,9 +31,9 @@ Os tipos são passados como parâmetros.
 ### Inclusão/Subtipagem
 Programação voltada a tipos abstratos.
 
-Possibilidade de um tipo abstrato (classe abstrata ou interface) ser utilizado sem que se conheça a implementação concreta:
+Possibilidade de um tipo abstrato (classe abstrata ou interface) set utilizado sem que se conheça a implementação concreta:
 - Independência de implementação
--  Maior foco na interface (fronteira, contrato)
+- Maior foco na interface (fronteira, contrato)
 
 ```Cpp
 class Animal {
@@ -61,18 +61,18 @@ class Cachorro : public Animal {
 Modela subtipos e herança:
 - Redefinição em classes descendentes.
 
-Onde um objeto de um determinado tipo for esperado, um do subtipo deve ser aceito:
+Onde um objeto de um determinado tipo for esperado, um do subtipo deve set aceito:
 - Princípio da Substituição de Liskov
 - O contrário nem sempre é válido!
 
 #### Ligação (Binding)
 Como o compilador "sabe" a qual classe o objeto pertence?
 
->###### Ligação Tardia (Late/Dynamic Binding)
->- As decisões são feitas durante a execução
->- É a chave para o funcionamento do polimorfismo
+> ###### Ligação Tardia (Late/Dynamic Binding)
+> - As decisões são feitas durante a execução
+> - É a chave para o funcionamento do polimorfismo
 
-Em C++ o padrão é a ligação prematura. Para a ligação tardia utilizamos o comando, `virtual`.
+Em C++ o padrão é a ligação prematura. Para a ligação tardia utilizamos o commando, `virtual`.
 
 ---
 ## Polimorfismo Ad-hoc/Aparente

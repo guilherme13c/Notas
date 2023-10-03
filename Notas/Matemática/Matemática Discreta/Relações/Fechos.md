@@ -7,7 +7,7 @@ Estender significa que a nova relação $R^*$ em $A$:
 ---
 #### Definição
 Seja $A$ um conjunto, $R$ uma relação binária em $A$ e $p$ uma propriedade. O fecho de $R$ é a relação binária $R^*$ em $A$ que possui a propriedade $p$ e satisfaz as três condições abaixo:
-1. $R^*$ tem a propriedade $p$; caso contrário não pode ser o fecho $p$ de $R$.
+1. $R^*$ tem a propriedade $p$; caso contrário não pode set o fecho $p$ de $R$.
 2. $R\subseteq R^*$; todos os pares da relação $R$ devem estar presentes em $R^*$.
 3. Se $S$ é uma outra relação qualquer que contém $R$ e satisfaz a propriedade $p$, então $R^*\subseteq S$; a relação $R^*$ é a "menor" relação que satisfaz a propriedade $p$.
 ---

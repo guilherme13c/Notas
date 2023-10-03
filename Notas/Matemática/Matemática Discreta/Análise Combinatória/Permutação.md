@@ -22,6 +22,6 @@ $$P(n,r)={n!\over(n-r)!}$$
 
 ## Permutação com repetição
 $$P^{n_1,n_2,\ldots, n_k}_n={n!\over n_1!n_2!\cdot\ldots\cdot n_k!}$$
-onde $n$ é o número de elementos do conjunto e $n_1,n_2,\ldots,n_k$ são os números de vezes que cada elemento se repete.
+onde $n$ é o número de elementos do conjunto e $n_1,n_2,\ldots,n_k$ são os números de vezes que cada elemento se repeat.
 
 [[Princípio da Casa de Pombo|]][[Tipos Abstratos de Dados|]][[Introdução à Análise Combinatória|]]

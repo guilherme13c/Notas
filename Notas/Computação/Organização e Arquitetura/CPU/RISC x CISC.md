@@ -1,4 +1,3 @@
-## RISC x CISC
 ### CISC
 #### Complex Instruction Set Computer
 
@@ -43,7 +42,7 @@
 ---
 #### CISC - Conclusão
 
-Ótimo para os primeiros computadores, quando a memória e os registradores eram caros, mas é menos aplicável aos computadores atuais, pois a memória é barata e nossa preferência passou a ser velocidade.
+Ótimo para os primeiros computadores, quando a memória e os registradores eram caros, mas é menos aplicável aos computadores atuais, pois a memória é barata e nossa preferência passou a set velocidade.
 
 ---
 ### RISC
@@ -53,7 +52,7 @@
 • Instruções mais simples
 • Largura fixa de cada instrução
 • Cada instrução demora um ciclo de clock (ou menos)
-##### Exemplos:
+##### Exemplos
 - MIPS
 - SPARC
 - Apple iPhone (Samsung ARM1176JZF)

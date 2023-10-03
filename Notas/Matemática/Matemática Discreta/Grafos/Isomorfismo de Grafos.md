@@ -18,23 +18,23 @@ Existe um [[Algoritmos|algoritmo]] que aceita como entrada os grafos $G$ e $G^`$
 
 ---
 ## Invariantes para Isomorfismo de Grafos
->###### Teorema
->Cada uma das seguintes propriedades é uma invariante para isomorfismo de dois grafos $G$ e $G^`$, onde $n,m$ e $k$ são inteiros não negativos:
->1. Tem $n$ vértices;
->2. Tem $m$ arestas;
->3. Tem um vértice de [[Introdução a Grafos#Grau de um Vértice|grau]] $k$;
->4. Tem $m$ vértices de [[Introdução a Grafos#Grau de um Vértice|grau]] $k$;
->5. Tem um [[Caminhamentos em Grafos#Circuito|circuito]] de tamanho $k$;
->6. Tem um [[Caminhamentos em Grafos#Circuito Simples Ciclo Simples|circuito simples]] de tamanho $k$;
->7. Tem $m$ [[Caminhamentos em Grafos#Circuito Simples Ciclo Simples|circuitos simples]] de tamanho $k$;
->8. É [[Conectividade#Definição|conexo]];
->9. Tem um [[Circuitos Euleriano & Hamiltoniano#Caminhamentos em Grafos Circuito Euleriano|circuito Euleriano]];
->10. Tem um [[Circuitos Euleriano & Hamiltoniano#Caminhamentos em Grafos Circuito Circuito Hamiltoniano|circuito Hamiltoniano]].
->
->Isto significa que se $G$ é isomorfo a $G^`$ então se $G$ tem uma destas propriedades $G^`$ também tem.
+> ###### Teorema
+> Cada uma das seguintes propriedades é uma invariante para isomorfismo de dois grafos $G$ e $G^`$, onde $n,m$ e $k$ são inteiros não negativos:
+> 1. Tem $n$ vértices;
+> 2. Tem $m$ arestas;
+> 3. Tem um vértice de [[Introdução a Grafos#Grau de um Vértice|grau]] $k$;
+> 4. Tem $m$ vértices de [[Introdução a Grafos#Grau de um Vértice|grau]] $k$;
+> 5. Tem um [[Caminhamentos em Grafos#Circuito|circuito]] de tamanho $k$;
+> 6. Tem um [[Caminhamentos em Grafos#Circuito Simples Ciclo Simples|circuito simples]] de tamanho $k$;
+> 7. Tem $m$ [[Caminhamentos em Grafos#Circuito Simples Ciclo Simples|circuitos simples]] de tamanho $k$;
+> 8. É [[Conectividade#Definição|conexo]];
+> 9. Tem um [[Circuitos Euleriano & Hamiltoniano#Caminhamentos em Grafos Circuito Euleriano|circuito Euleriano]];
+> 10. Tem um [[Circuitos Euleriano & Hamiltoniano#Caminhamentos em Grafos Circuito Circuito Hamiltoniano|circuito Hamiltoniano]].
+> 
+> Isto significa que se $G$ é isomorfo a $G^`$ então se $G$ tem uma destas propriedades $G^`$ também tem.
 
 ---
-# [[#Isomorfismo|Isomorfismo]] de [[Introdução a Grafos#Grafo Simples|Grafo Simples]]
+# [[#Isomorfismo|Isomorfismo]] De [[Introdução a Grafos#Grafo Simples|Grafo Simples]]
 #### Definição
 Se $G$ e $G^`$ são grafos simples (sem arestas paralelas e sem laços) então $G$ é isomorfo a $G^`$ se e somente se existe uma correspondência $g$ um-para-um do conjunto de vértices $V (G)$ de $G$ para o conjunto de vértices $V (G^`)$ de $G^`$ que preserva a função aresta–vértice de $G$ e de $G^`$ no sentido que
 $$\forall \mbox{ vértices } u,v\in G$$ $uv$ é uma aresta de $G\iff\{g(u),g(v)\}$ é uma aresta de $G^`$ .

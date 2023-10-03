@@ -3,14 +3,14 @@
 #### Definição
 Seja $G$ um grafo. Um circuito Euleriano é um circuito que contém cada aresta e cada vértice de $G$. É uma sequência de vértices e arestas adjacentes que começa e termina no mesmo vértice de $G$, passando pelo menos uma vez por cada vértice e exatamente uma única vez por cada aresta de $G$.
 
->###### Teorema
->Se um grafo possui um circuito Euleriano, então cada vértice do grafo tem [[Introdução a Grafos#Grau de um Vértice|grau]] par.
+> ###### Teorema
+> Se um grafo possui um circuito Euleriano, então cada vértice do grafo tem [[Introdução a Grafos#Grau de um Vértice|grau]] par.
 
 O contrapositivo desse teorema é equivalente ao original:
 > Se algum vértice de um grafo tem grau ímpar, então o grafo não possui um circuito Euleriano.
 
->###### Teorema
->Se cada vértice de um grafo não vazio tem grau par e o grafo é conexo, então o grafo tem um circuito Euleriano.
+> ###### Teorema
+> Se cada vértice de um grafo não vazio tem grau par e o grafo é conexo, então o grafo tem um circuito Euleriano.
 
 ---
 ## [[Caminhamentos em Grafos#Trajeto|Trajeto]] Euleriano

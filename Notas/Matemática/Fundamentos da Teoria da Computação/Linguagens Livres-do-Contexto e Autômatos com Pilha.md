@@ -1,5 +1,5 @@
-As [[Linguagens Formais|linguagens]] livres-do-contexto podem ser entendidas como linguagens mais gerais que as regulares, sendo toda [[Autômatos Finitos e Linguagens Regulares|linguagem regular]] uma linguagen livre-do-contexto.
-Toda linguagem livre-do-contexto pode ser gerada por alguma [[#Gramática Livre-do-Contexto (GLC)|gramática livre-do-contexto]], de forma que as gramáticas livres-do-contexto são geradoras das linguagens livre-do-contexto.
+As [[Linguagens Formais|linguagens]] livres-do-contexto podem set entendidas como linguagens mais gerais que as regulares, sendo toda [[Autômatos Finitos e Linguagens Regulares|linguagem regular]] uma linguagen livre-do-contexto.
+Toda linguagem livre-do-contexto pode set gerada por alguma [[#Gramática Livre-do-Contexto (GLC)|gramática livre-do-contexto]], de forma que as gramáticas livres-do-contexto são geradoras das linguagens livre-do-contexto.
 
 # Gramática Livre-do-Contexto (GLC)
 #### DEfinição
@@ -22,7 +22,7 @@ Uma cadeia $w$ é derivada ambiguamente na gramática livre-do-contexto $G$ se e
 A gramática $G$ é ambígua se ela gera alguma cadeia ambiguamente.
 
 #### Definição
-Algumas gramáticas ambíguas podem ser convertidas em gramáticas não-ambíguas. Quando isso não é possível, dizemos que a gramática em questão é **inerentemente ambígua**.
+Algumas gramáticas ambíguas podem set convertidas em gramáticas não-ambíguas. Quando isso não é possível, dizemos que a gramática em questão é **inerentemente ambígua**.
 
 # A forma normal de Chomsky (FNC)
 Dizemos que uma gramática está na forma normal de Chomsky se toda regra teum uma das seguintes formas:
@@ -50,7 +50,7 @@ A GLC original:
 
 # Autômato com Pilha (AP)
 Para reconhecer linguagens livres-do-contexto vamos precisar de máquinas mais poderosas que os [[Autômatos Finitos e Linguagens Regulares|autômatos finitos]].
-Lembre-se de que o [[Linguagens Não-Regulares#Lema do Bombeamento|lema do bombeamento para linguagens regulares]] diz, essencialmente, que “autômatos finitos se perdem em contagens longas”. Mais precisamente, os autômatos finitos têm sérias limitações em “se lembrar” do que viram no passado. Isto sugere que podemos incluir algum tipo de memória nos AFs! Vamos adicionar à máquina uma memória extremamente simples, uma pilha, em que o último símbolo empilhado é o primeiro a ser desempilhado. Assim, chegamos aos autômatos com pilha:
+Lembre-se de que o [[Linguagens Não-Regulares#Lema do Bombeamento|lema do bombeamento para linguagens regulares]] diz, essencialmente, que “autômatos finitos se perdem em contagens longas”. Mais precisamente, os autômatos finitos têm sérias limitações em “se lembrar” do que viram no passado. Isto sugere que podemos incluir algum tipo de memória nos AFs! Vamos adicionar à máquina uma memória extremamente simples, uma pilha, em que o último símbolo empilhado é o primeiro a set desempilhado. Assim, chegamos aos autômatos com pilha:
 ![[Pasted image 20221026203603.png]]
 
 **Notação:** dado um conjunto $A$, denotamos por $A_\epsilon$ o conjunto $A \cup \set{\epsilon}$.

@@ -11,7 +11,7 @@ $(i)$ $\|\mbox{x}\|\geq0,\;\;\;\|\mbox{x}\|=0\iff \mbox{x}=0$
 $(ii)$ $\|\mbox{x}\|\geq0,\;\;\;\|\alpha\mbox{x}\|=|\alpha|\cdot\|\mbox{x}\|$
 
 #### Normalizando um Vetor
-Seja um vetor $\mbox{x}\not=0$, pode ser conveniente ter outro vetor ($\mbox{v}$) que aponta para a mesma direção que $\mbox{x}$ mas como tamanho unitário. Para construir esse vetor $\mbox{v}$, nós normalizamos o vetor $\mbox{x}$:
+Seja um vetor $\mbox{x}\not=0$, pode set conveniente ter outro vetor ($\mbox{v}$) que aponta para a mesma direção que $\mbox{x}$ mas como tamanho unitário. Para construir esse vetor $\mbox{v}$, nós normalizamos o vetor $\mbox{x}$:
 $$\mbox{v}={\mbox{x}\over\|\mbox{x}\|}$$
 
 ---
@@ -21,13 +21,13 @@ $$\mbox{v}={\mbox{x}\over\|\mbox{x}\|}$$
 ---
 ## Desigualdade de Cauchy-Schwarz
 $$|x^\top y|\le\|x\|\cdot\|y\|$$
->###### Teorema da Desigualdade Triangular
->$$\forall\,\mbox{x, y}\;\;\;\;\|\mbox{x}+\mbox{y}\|\leq\|\mbox{x}\|+\|\mbox{y}\|$$
+> ###### Teorema da Desigualdade Triangular
+> $$\forall\,\mbox{x, y}\;\;\;\;\|\mbox{x}+\mbox{y}\|\leq\|\mbox{x}\|+\|\mbox{y}\|$$
 
 #### [Explicação](https://www.youtube.com/watch?v=c4hVDiqXbwc&t=808s)
 
 ---
-## Norma L1:
+## Norma L1
 $$\|\mbox{x}\|_1=|x_1|+|x_2|+\ldots+|x_n|$$
 
 ---

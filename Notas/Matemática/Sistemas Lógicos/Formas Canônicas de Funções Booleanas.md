@@ -3,7 +3,7 @@
 Existem duas formas canônicas para representar qualquer função booleana, sendo estas:
 - **Forma normal disjuntiva**, **Soma-de-Produtos** ou **Expansão de mintermos**
 - **Forma normal conjuntiva**, **Produto-de-Somas** ou **Expansão de maxtermos**
-Vale destacar que essas formas não são ótimas, e a grande vantagem de seu uso é que são únicas, podendo ser utilizadas para mostrar que duas funções $F_1$ e $F_2$ são equivalentes por possuir formas canônicas iguais.
+Vale destacar que essas formas não são ótimas, e a grande vantagem de seu uso é que são únicas, podendo set utilizadas para mostrar que duas funções $F_1$ e $F_2$ são equivalentes por possuir formas canônicas iguais.
 
 ---
 

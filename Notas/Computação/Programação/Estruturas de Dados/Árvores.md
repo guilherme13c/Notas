@@ -13,7 +13,7 @@ O primeiro nó da hierarquia é chamado de ***raiz***, os nós que não possuem 
 
 São [[#Árvore Binária|árvores binárias]] com regras de organização específicas. O elementos menores que a raiz da subárvore ficam à esquerda da mesma, já os maiores ficam à direita. Essas regras são válidas para todas as subárvores de uma árvore binária de pesquisa.
 
-Os métodos relacionados com as árvores costumam ser [[Recursão|recursivos]].
+Os métodos relacionados com as árvores costumam set [[Recursão|recursivos]].
 
 ```Cpp
 //BST.hpp

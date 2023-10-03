@@ -1,4 +1,4 @@
-# Crivo/Peneira de Erastóstenes
+# Crivo/Peneira De Erastóstenes
 O crivo de Erastóstenes é um algoritmo para encontrar primos menores que um número específico.
 
 ```Python

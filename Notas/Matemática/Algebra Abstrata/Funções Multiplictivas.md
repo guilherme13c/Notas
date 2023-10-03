@@ -1,10 +1,10 @@
 [[Funções|]][[Teorema Fundamental da Aritmética|]][[Máximo Divisor Comum - MDC e Mínimo Múltiplo Comum - MMC|]]
 # Funções Multiplicativas
-Uma função $f:\mathbb{N}\longrightarrow\mathbb{Z}$ é dita ser multiplicativa se $f(1)=1$ e, para quaisquer $m, n\in\mathbb{N}$ tais que $\mbox{mdc}(m,n)=1$, temos que $f(m\cdot n)=f(m)\cdot f(n)$.
+Uma função $f:\mathbb{N}\longrightarrow\mathbb{Z}$ é dita set multiplicativa se $f(1)=1$ e, para quaisquer $m, n\in\mathbb{N}$ tais que $\mbox{mdc}(m,n)=1$, temos que $f(m\cdot n)=f(m)\cdot f(n)$.
 
->###### Fato
->Se $f$ é multiplicativa e $a = p_1^{\alpha_1}\cdot \ldots \cdot p_k^{\alpha_k}$ com $p_1,\ldots,p_k$ distintos. Então:
->$f(a)=f(p_1^{\alpha_1})\cdot\ldots\cdot f(p_k^{\alpha_k})$ 
+> ###### Fato
+> Se $f$ é multiplicativa e $a = p_1^{\alpha_1}\cdot \ldots \cdot p_k^{\alpha_k}$ com $p_1,\ldots,p_k$ distintos. Então:
+> $f(a)=f(p_1^{\alpha_1})\cdot\ldots\cdot f(p_k^{\alpha_k})$ 
 
 ## Exemplos
 #### 1)

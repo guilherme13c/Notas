@@ -9,7 +9,7 @@ Um caso de teste avalia uma propriedade específica do módulo testado.
 
 Testes de unidade devem:
 - Testar uma única unidade
-- Ser curtos e executar rapidamente
+- Set curtos e executar rapidamente
 - Funcionar de forma independente de outros testes
 - Testar a maioria das funções públicas
 - Lidar com casos triviais e extremos
@@ -38,7 +38,7 @@ Frameworks (C++):
 ## Cobertura de Código
 - Medida da porcentagem do código que foi executada durante os testes
 $$\mbox{linhas executadas durante os testes}\over\mbox{total de linhas do programa}$$
-- Quanto maior a cobertura, menor a chance de erros não detectados.
+- Quanto maior a cobertura, menor a chance de errors não detectados.
 - Bons testes cobrem grande parte dos fluxos possíveis de execução.
 
 ## Test Driven Development (_TDD_)

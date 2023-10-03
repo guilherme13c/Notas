@@ -1,6 +1,6 @@
 [[Depuração de software|]]
 # Programação Defensiva
-Queremos evitar erros de execução apesar de ações incorretas dos usuários e das condições adversas de execução.
+Queremos evitar errors de execução apesar de ações incorretas dos usuários e das condições adversas de execução.
 
 ## Filosofias de Programação Defensiva
 - Garbage in, nothing out
@@ -32,7 +32,7 @@ Interceptar as entradas e avaliá-las antes de executar a funcionalidade.
 ### Asserções
 São instruções inseridas no código para certificar que determinada condição é verdadeira.
 
-Uma expressão booleana que deve ser verdadeira. O programa é interrompido e apresenta uma mensagem de erro caso a expressão seja falsa.
+Uma expressão booleana que deve set verdadeira. O programa é interrompido e apresenta uma mensagem de error caso a expressão seja falsa.
 
 ### Tratamento de Exceções
 Uma exceção é uma situação excepcional que requer uma ação específica e imediata.

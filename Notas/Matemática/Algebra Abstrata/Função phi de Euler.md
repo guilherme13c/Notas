@@ -14,17 +14,17 @@ Iremos provar que se $m,n\in\mathbb{N}$ tem $\mbox{mdc}(m,n)=1$, e $a,b,c\in\mat
 
 Assim, podemos concluir que $\phi(mn)=\phi(n)\cdot\phi(m)$, ou seja, que $\phi$ é multiplicativa.
 
->###### Prova
->$(i)\Rightarrow$ Existem $a^\prime, b^\prime\in\mathbb{Z}$ tais que $a\cdot a^\prime\equiv 1;\;(\mbox{mod }m)$  e $ab\cdot b^\prime\equiv 1;\;(\mbox{mod }n)$.
->Seja $c^\prime\in\mathbb{Z}$ tais que $\begin{cases}c^\prime\equiv a^\prime\;\;(\mbox{mod }m)\\c^\prime\equiv b^\prime\;\;(\mbox{mod }n)\end{cases}$ Então $\begin{cases}c\cdot c^\prime\equiv 1\;\;(\mbox{mod }m)\\ c\cdot c^\prime\equiv 1\;\;(\mbox{mod }n)\end{cases}$ 
->
->Assim, $m\vert c\cdot c^\prime-1$ e $n\vert c\cdot c^\prime-1$. Commo $\mbox{mdc}(m,n)=1, m\cdot n\vert c\cdot c^\prime-1\implies c\cdot c^\prime\equiv1\;\;(\mbox{mod }m\cdot n)\implies c$ é invertivel módulo $mn$.
+> ###### Prova
+> $(i)\Rightarrow$ Existem $a^\prime, b^\prime\in\mathbb{Z}$ tais que $a\cdot a^\prime\equiv 1;\;(\mbox{mod }m)$ e $ab\cdot b^\prime\equiv 1;\;(\mbox{mod }n)$.
+> Seja $c^\prime\in\mathbb{Z}$ tais que $\begin{cases}c^\prime\equiv a^\prime\;\;(\mbox{mod }m)\\c^\prime\equiv b^\prime\;\;(\mbox{mod }n)\end{cases}$ Então $\begin{cases}c\cdot c^\prime\equiv 1\;\;(\mbox{mod }m)\\ c\cdot c^\prime\equiv 1\;\;(\mbox{mod }n)\end{cases}$ 
 > 
->$(ii)\Rightarrow$ Existe $c^\prime\in\mathbb{Z}$ tal que $c\cdot c^\prime\equiv\;\;(\mbox{mod }m\cdot n)$ 
->
->$\begin{align}c\cdot c^\prime\equiv1\;\;(\mbox{mod }m)\\ a\cdot c^\prime\equiv1\;\;(\mbox{mod }m)\end{align}\implies a$ é invertível módulo $m$ 
->
->$\begin{align}c\cdot c^\prime\equiv1\;\;(\mbox{mod }n)\\ b\cdot c^\prime\equiv1\;\;(\mbox{mod }n)\end{align}\implies b$ é invertível módulo $n$.
+> Assim, $m\vert c\cdot c^\prime-1$ e $n\vert c\cdot c^\prime-1$. Commo $\mbox{mdc}(m,n)=1, m\cdot n\vert c\cdot c^\prime-1\implies c\cdot c^\prime\equiv1\;\;(\mbox{mod }m\cdot n)\implies c$ é invertivel módulo $mn$.
+> 
+> $(ii)\Rightarrow$ Existe $c^\prime\in\mathbb{Z}$ tal que $c\cdot c^\prime\equiv\;\;(\mbox{mod }m\cdot n)$ 
+> 
+> $\begin{align}c\cdot c^\prime\equiv1\;\;(\mbox{mod }m)\\ a\cdot c^\prime\equiv1\;\;(\mbox{mod }m)\end{align}\implies a$ é invertível módulo $m$ 
+> 
+> $\begin{align}c\cdot c^\prime\equiv1\;\;(\mbox{mod }n)\\ b\cdot c^\prime\equiv1\;\;(\mbox{mod }n)\end{align}\implies b$ é invertível módulo $n$.
 
 ---
 ## Calculando $\phi$

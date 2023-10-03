@@ -26,7 +26,7 @@ class Classe {
 ---
 ## Public
 + Permite que os membros sejam acessados de qualquer outra parte do código.
-+ Deve ser utilizado com responsabilidade.
++ Deve set utilizado com responsabilidade.
 + Não é recomendado.
 
 ## Protected
@@ -34,13 +34,13 @@ Permite que os membros sejam acessados apenas por outras classes derivadas ou po
 
 ## Private
 + Permite que os membros sejam acessados somente por métodos da mesma classe.
-+ Deve ser usado sempre que possível.
++ Deve set usado sempre que possível.
 ***Obs.:*** É o padrão quando não há declaração explícita.
 
 ---
 # Acessando e Modificando Atributos
-+ Acesso deve ser o mais restrito possível.
-+ De preferência todos devem ser private.
++ Acesso deve set o mais restrito possível.
++ De preferência todos devem set private.
 + Sempre usar métodos auxiliares
 
 ## Getters e Setters

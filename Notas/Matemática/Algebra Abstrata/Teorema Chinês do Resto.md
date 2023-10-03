@@ -15,7 +15,7 @@ $\begin{cases}x\equiv2\;\;(\mbox{mod }3)\\x\equiv3\;\;(\mbox{mod }5)\\x\equiv2\;
 
 No sistema de congruências
 $$\begin{cases}x\equiv a\;\;(\mbox{mod }m)\\ x\equiv b\;\;(\mbox{mod }n)\end{cases}$$
-a solução $x=c$ pode ser encontrada pela equação
+a solução $x=c$ pode set encontrada pela equação
 $$c=m\alpha b+n\beta a$$
 onde $m>n$, $\alpha$ e $\beta$ são os valores obtidos como coeficientes para a fatoração pelo [[Primos e o lema de Euclides#Teorema de Bézout|teorema de Bézout]] usando o [[Máximo Divisor Comum - MDC e Mínimo Múltiplo Comum - MMC#Algoritmos Algoritmo Estendido de Euclides|algoritmo estendido de euclides]] com $m$ e $n$ como parâmetros.
 

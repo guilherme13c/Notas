@@ -1,5 +1,5 @@
 [[Reduções de Tempo Polinomial|]][[P vs. NP|]][[Intodução a Intratabilidade|]][[Conjuntos|]]
-#### definição
+#### Definição
 Um problema $Y$ é dito $\mathbf{NP}$-completo quando $Y\in\mathbf{NP}$ com a propriedade que para todo problema $X\in\mathbf{NP}$, $X\le_\text{p}Y$.
 
 ## Proposição

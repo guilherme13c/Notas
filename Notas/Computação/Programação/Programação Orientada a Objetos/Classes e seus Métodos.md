@@ -13,14 +13,14 @@ Controle de visibilidade
 # Construtores
 Método chamado durante a instanciação
 + Classe declara zero ou mais construtores
-+ Possui o construtor padrão (sem parâmetros)
++ Possui o constructor padrão (sem parâmetros)
 
 Métodos construtores devem sempre possuir o mesmo nome da Classe, sendo diferenciaveis pela lista de parâmetros.
 
 Métodos nunca declaram o tipo de retorno.
 
 ## Overloading (sobrecarga)
-Dois ou mais métodos podem possuir o mesmo nome ([[Princípios Da POO#Polimorfismo|Polimorfismo]]). Para isso, eles devem possuir listas de parâmetros diferentes (a ordem dos parâmetros importa).
+Dois ou mais métodos podem possuir o mesmo nome ([[Princípios Da POO#Polimorfismo|Polimorfismo]]). Para isso, else devem possuir listas de parâmetros diferentes (a ordem dos parâmetros importa).
 
 ---
 # Destrutores
@@ -29,6 +29,6 @@ Método chamado para a finalização
 
 Devem possuir o mesmo nome da Classe
 + Semelhante aos construtores
-+ Devem ser precedidos por `~`
++ Devem set precedidos por `~`
 
 ---

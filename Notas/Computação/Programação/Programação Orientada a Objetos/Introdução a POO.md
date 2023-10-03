@@ -1,11 +1,11 @@
 # Paradigmas de Programação
-São modelos de como programas de computador devem ser construídos. Cada paradigma se traduz em técnicas, estuturas e conceitos utilizados para o desenvolvimento de software.
+São modelos de como programas de computador devem set construídos. Cada paradigma se traduz em técnicas, estuturas e conceitos utilizados para o desenvolvimento de software.
 ![[paradigmas de programacao.png]]
 
 ---
 # Paradigma Imperativo
 É o mais antigo e popular dos paradigmas de programação.
-Define sequências de comandos que mudam o estado de um programa, sendo esse estado representado por um conjunto de variáveis.
+Define sequências de commandos que mudam o estado de um programa, sendo esse estado representado por um conjunto de variáveis.
 
 ---
 ## Paradigma Procedural
@@ -17,7 +17,7 @@ Deu origem à Programação Estruturada/Procedural, permitindo resolver problema
 ## Paradigma Orientado a Objetos
 Imperativo no estilo, mas adiciona características que dão suporte a objetos. Dessa forma, "simula" o mundo real no computador, aproximando o mundo virtual do real.
 
-O programador é responsável por definir o mundo dos objetos e como eles interagem entre si.
+O programador é responsável por definir o mundo dos objetos e como else interagem entre si.
 
 Facilita muito a reutilização de códigos.
 

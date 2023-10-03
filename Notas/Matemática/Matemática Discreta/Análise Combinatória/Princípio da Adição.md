@@ -1,10 +1,10 @@
 # Princípio da Adição
 
 Se uma operação consiste em $k$ passos distintos, onde os passos são mutuamente disjuntos, sendo que
-- o primeiro passo pode ser executado de $n_1$ formas diferentes, ou seja, existem $n_1$ possibilidades para o passo 1,
-- o segundo passo pode ser executado de $n_2$ formas diferentes, e assim sucessivamente até
-- o $k$-ésimo passo que pode ser executado de $n_k$ formas diferentes
-então toda a operação pode ser executada de $$n_1+n_2+\ldots+n_k=\sum_{i=1}^k n_i$$
+- o primeiro passo pode set executado de $n_1$ formas diferentes, ou seja, existem $n_1$ possibilidades para o passo 1,
+- o segundo passo pode set executado de $n_2$ formas diferentes, e assim sucessivamente até
+- o $k$-ésimo passo que pode set executado de $n_k$ formas diferentes
+então toda a operação pode set executada de $$n_1+n_2+\ldots+n_k=\sum_{i=1}^k n_i$$
 formas diferentes.
 
 ## Consequências

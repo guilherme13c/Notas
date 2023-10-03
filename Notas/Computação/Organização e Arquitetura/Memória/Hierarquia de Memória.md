@@ -1,20 +1,20 @@
 # Hierarquia de memória
-A [[CPU]] só é capaz de buscar instruções e dados da [[Memória Cache|memória cache]] (SRAM), localizada diretamente no chip do processador. A memória cache deve ser preenchida com dados da memória principal do sistema (DRAM). Entretanto, a memória RAM só retém seu conteúdo enquanto a energia está ligada (memória **volátil**), então precisa ser armazenada de forma mais permanente em outro componente.
+A [[CPU]] só é capaz de buscar instruções e dados da [[Memória Cache|memória cache]] (SRAM), localizada diretamente no chip do processador. A memória cache deve set preenchida com dados da memória principal do sistema (DRAM). Entretanto, a memória RAM só retém seu conteúdo enquanto a energia está ligada (memória **volátil**), então precisa set armazenada de forma mais permanente em outro componente.
 
 | Velocidade  | Tipo  | Descrição                                                                                                                                                                                                                                                                                                                                        |
 | ----------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Mais rápida | Cache | Memória cache é a memória que é realmente embarcada na CPU, sendo muito rápida, demorando, normalmente, um único ciclo para ser acessada. Contudo, ela é muito pequena pois deve caber dentro da CPU, além de ser muito mais cara por utilizar a tecnologia SRAM.                                                                                |
+| Mais rápida | Cache | Memória cache é a memória que é realmente embarcada na CPU, sendo muito rápida, demorando, normalmente, um único ciclo para set acessada. Contudo, ela é muito pequena pois deve caber dentro da CPU, além de set muito mais cara por utilizar a tecnologia SRAM.                                                                                |
 |             | RAM   | Todas as instruções e endereços de armazenamento que vão para o processador devem vir da memória RAM. Mesmo que a DRAM seja muito veloz, ainda demora um tempo considerável para a CPU acessá-la (esse tempo é chamado **latência**). A RAM é armazenada separadamente, em chips dedicados acoplados à placa-mãe, sendo muito maior que a cache. |
 | Mais lenta  | Disco | Estamos familiarizados com os CDROMs e com salvar arquivos em discos rigidos. Sabemos que esses dispositivos têm o acesso muito mais demorado, mas também um preço muito menor, além de uma capacidade maior. Vale ressaltar que mesmo após desligar a energia, os dados se preservam (memória **não-volátil**).                                                                                                                                                                                                                                                                                                                                               |
 
 ---
- ### Princípio da localidade
+### Princípio da localidade
 > ###### Temporal
 > + Dados ascessados recentemente têm mais chance de serem usados novamente do que dados usados há mais tempo.
 > + Manter os dados e instruções usados recentemente no topo da Hirarquia, onde o ascesso é mais veloz.
 
 >  ###### Espacial
-> + Probabilidade de ascesso maior para dados e instruções em ***endereços próximos***  àqueles acessados recentemente.
+> + Probabilidade de ascesso maior para dados e instruções em ***endereços próximos*** àqueles acessados recentemente.
 > + Variáveis são armazenadas próximas umas às outras
 > + Vetores e matrizes armazenados em sequência
 

@@ -7,7 +7,7 @@ Nessa forma de representar reais, os bits à esquerda do ponto representam as po
 
 ![[Pasted image 20220402161411.png]]
 
-A representação de ponto fixo simplifica o processamento de números reais, mas impõe limitações no tamanho (range) e na precisão do números que podem ser armazenados.
+A representação de ponto fixo simplifica o processamento de números reais, mas impõe limitações no tamanho (range) e na precisão do números que podem set armazenados.
 
 # Floating Point Representation
 A representação de ponto flutuante se inspira na notação científica, mas em base 2. Nesse método, o número é separado em duas partes, chamadas **mantissa** e **expoente**. O número de bits do expoente determina as limitações de tamanho do número (range), enquanto o número de bits da mantissa define a precisão.
@@ -28,7 +28,7 @@ $$\begin{cases}M\cdot 2^{E-b}\mbox{, se }B = 0\\ -M\cdot 2^{E-b}\mbox{, se }B = 
 onde $B$ é o bit de sinal, $M$ é a mantissa, $E$ é o expoente e $b$ é o _viés_ (_bias_) do expoente. 
 
 O viés do expoente é um número que sempre subtraímos dele na hora de realizar processamento usando números representados por ponto flutuante. Fazemos isso para que também possamos utilizar números negativos no expoente.
-O padrão IEEE 754 determina que o viés deve ser:$$2^{n-1}-1$$
+O padrão IEEE 754 determina que o viés deve set:$$2^{n-1}-1$$
 onde $n$ é o número de bits do expoente.
 
 **_Obs._**: o víes também é o número de possíveis expoentes negativos, ou o valor absoluto do expoente negativo de maior magnitude.
@@ -39,7 +39,7 @@ Para converter um número que contém um parte fracionária, devemos multiplicar
 
 ---
 ## Overflow e Underflow
-Assim como na aritmética de números inteiros, pode ser que o resultado de uma operação possua mais bits do que o disponível para representá-lo. A novidade da aritmética de ponto flutuante é que isso também pode ocorrer quando o valor absoluto do número é pequeno demais. Quando isso ocorre, chamamos de **underflow**.
+Assim como na aritmética de números inteiros, pode set que o resultado de uma operação possua mais bits do que o disponível para representá-lo. A novidade da aritmética de ponto flutuante é que isso também pode ocorrer quando o valor absoluto do número é pequeno demais. Quando isso ocorre, chamamos de **underflow**.
 
 Para conferir se houve overflow ou underflow em uma operação, podemos verificar se o expoente do resultado está dentro do intervalo válido, ou seja:
 $$b > E > -b+1$$ onde $b$ é o viés.

@@ -9,7 +9,7 @@
   "trashOption": "none",
   "showUnsupportedFiles": true,
   "showFrontmatter": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "spellcheckLanguages": null,
   "newFileLocation": "root",
   "strictLineBreaks": false,

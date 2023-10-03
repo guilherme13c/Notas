@@ -1,6 +1,6 @@
 # Ponteiros e alocação
 Ponteiros são variáveis que armazenam endereços de [[Armazenamento e manipulação de dados|memória]], ou seja, _"apontam"_ para outras variáveis.
->***Obs.:*** Endereços de [[Armazenamento e manipulação de dados|memória]] normalmente são descritos por números em [[Bases Numéricas|hexadecimal(base 16)]]
+> ***Obs.:*** Endereços de [[Armazenamento e manipulação de dados|memória]] normalmente são descritos por números em [[Bases Numéricas|hexadecimal(base 16)]]
 
 Ponteiros são armazenados na [[Armazenamento e manipulação de dados#Stack|Pilha]] e normalmente apontam para endereços na [[Armazenamento e manipulação de dados#Heap|Heap]], mas podem também apontar para endereços na [[Armazenamento e manipulação de dados#Stack|Pilha]].
 
@@ -9,11 +9,11 @@ $$\text{ou}$$
 $$\text{Pilha} \longrightarrow \text{Pilha}$$
 ---
 # Operadores em C/C++ [[Armazenamento e manipulação de dados#Dinâmica _ longrightarrow Heap_|(Link)]]
->#### Referência ***&***
+> #### Referência ***&***
 > & `var` $\longrightarrow$ Endereço de memória da variável `var`.
 
->#### Deferência ***\* ***
->\* `var` $\longrightarrow$ Conteúdo do endereço apontado por `var`.
+> #### Deferência ***\* ***
+> \* `var` $\longrightarrow$ Conteúdo do endereço apontado por `var`.
 
 ---
 ## Ponteiro para Ponteiro
@@ -34,9 +34,9 @@ Enquanto `p2` aponta para o endereço de `p1`, `p1` aponta para o endereço de `
 
 ---
 ## C
->Alocação: **malloc**
->Realocação: **realloc**
->Liberação: **free**
+> Alocação: **malloc**
+> Realocação: **realloc**
+> Liberação: **free**
 
 ~~~C
 int main() {
@@ -59,8 +59,8 @@ int main() {
 ~~~
 ---
 ## C++
->Alocação: **new**
->Liberação: **delete**
+> Alocação: **new**
+> Liberação: **delete**
 
 Exemplo em C++:
 ~~~Cpp
@@ -115,10 +115,10 @@ int main() {
 ```
 ---
 ## Passagem de parâmetros
->#### Valor
->+ ***Parâmetro formal*** (recebido na função) é uma ***cópia*** do ***parâmetro real*** (passado na chamada).
->+ Variáveis são completamente independentes.
+> #### Valor
+> + ***Parâmetro formal*** (recebido na função) é uma ***cópia*** do ***parâmetro real*** (passado na chamada).
+> + Variáveis são completamente independentes.
 
->#### Referência
->***Parâmetro formal*** (recebido na função) é uma ***referência*** ao ***parâmetro real*** (passado na chamada).
->+ Modificações refletem no parâmetro real.
+> #### Referência
+> ***Parâmetro formal*** (recebido na função) é uma ***referência*** ao ***parâmetro real*** (passado na chamada).
+> + Modificações refletem no parâmetro real.

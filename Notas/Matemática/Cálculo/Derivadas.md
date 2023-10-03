@@ -2,7 +2,7 @@
 # Definição
 $$f^`(x) = \lim_{h\to0}{f(x+h)-f(x)\over h}$$
 
-A derivada de uma função $f$ pode ser entendida como a função que descreve a taxa de variação (inclinação) de $f$.
+A derivada de uma função $f$ pode set entendida como a função que descreve a taxa de variação (inclinação) de $f$.
 
 ---
 ## Notações
@@ -13,97 +13,97 @@ $f^`(x)=y^`={\mbox{d}y\over\mbox{d}x}={\mbox{d}f\over\mbox{d}x}={\mbox{d}\over\m
 ${\mbox{d}x\over\mbox{d}y}\Biggm]_{x=a}$ ou ${\mbox{d}x\over\mbox{d}y}\Biggm|_{x=a}$
 
 ---
->###### Teorema
->Se $f$ for diferenciável em $a$, então $f$ é contínua em $a$.
->
+> ###### Teorema
+> Se $f$ for diferenciável em $a$, então $f$ é contínua em $a$.
+> 
 > ---
->***Obs.:*** A reciproca dessa afirmação é falsa.
+> ***Obs.:*** A reciproca dessa afirmação é falsa.
 
 ---
 # Regras de Diferenciação
->###### Função constante
->$${d\over dx}(c)=0$$
+> ###### Função constante
+> $${d\over dx}(c)=0$$
 
->###### Função potência
->$${d\over dx}(x^n)=nx^{n-1}$$ e $${d\over dx}(x)=1$$
+> ###### Função potência
+> $${d\over dx}(x^n)=nx^{n-1}$$ e $${d\over dx}(x)=1$$
 
->###### Múltiplo Constante
->$${d\over dx}[c\cdot f(x)]=c\cdot{d\over dx}f(x)$$
+> ###### Múltiplo Constante
+> $${d\over dx}[c\cdot f(x)]=c\cdot{d\over dx}f(x)$$
 
->###### Soma e Diferença
->$${d\over dx}[f(x)+g(x)]={d\over dx}f(x)+{d\over dx}g(x)$$
->
->$${d\over dx}[f(x)-g(x)]={d\over dx}f(x)-{d\over dx}g(x)$$
+> ###### Soma e Diferença
+> $${d\over dx}[f(x)+g(x)]={d\over dx}f(x)+{d\over dx}g(x)$$
+> 
+> $${d\over dx}[f(x)-g(x)]={d\over dx}f(x)-{d\over dx}g(x)$$
 
->###### Número $e$
->$e$ é um número real tal que $\lim_{h\to0}{e^h-1\over h}=1$ ou $e=\lim_{x\to0}(1+x)^{1\over x}$ ou $e=\lim_{n\to\infty}\bigg(1+{1\over n}\bigg)^n$
+> ###### Número $e$
+> $e$ é um número real tal que $\lim_{h\to0}{e^h-1\over h}=1$ ou $e=\lim_{x\to0}(1+x)^{1\over x}$ ou $e=\lim_{n\to\infty}\bigg(1+{1\over n}\bigg)^n$
 
->###### Função exponencial natural
->$${d\over dx}(e^x)=e^x$$
+> ###### Função exponencial natural
+> $${d\over dx}(e^x)=e^x$$
 
->###### Produto
->$${d\over dx}[f(x)\cdot g(x)]=f(x)\cdot{d\over dx}[g(x)]+g(x)\cdot{d\over dx}[f(x)]$$
+> ###### Produto
+> $${d\over dx}[f(x)\cdot g(x)]=f(x)\cdot{d\over dx}[g(x)]+g(x)\cdot{d\over dx}[f(x)]$$
 
->###### Quociente
->$${d\over dx}\bigg[{f(x)\over g(x)}\bigg]={g(x){d\over dx}[f(x)]-f(x){d\over dx}[g(x)]\over[g(x)]^2}$$
+> ###### Quociente
+> $${d\over dx}\bigg[{f(x)\over g(x)}\bigg]={g(x){d\over dx}[f(x)]-f(x){d\over dx}[g(x)]\over[g(x)]^2}$$
 
 ---
 ## Derivadas de Funções Trigonométricas
->###### Seno
->$${d\over dx}(\sin x)=\cos x$$
+> ###### Seno
+> $${d\over dx}(\sin x)=\cos x$$
 
->###### Cosseno
->$${d\over dx}(\cos x)=-\sin x$$
+> ###### Cosseno
+> $${d\over dx}(\cos x)=-\sin x$$
 
->###### Tangente
->$${d\over dx}(\tan x)=\sec^2 x$$
+> ###### Tangente
+> $${d\over dx}(\tan x)=\sec^2 x$$
 
->###### Cossecante
->$${d\over dx}(\mbox{cossec }x)=-\mbox{cossec }x \mbox{ cotan }x$$
+> ###### Cossecante
+> $${d\over dx}(\mbox{cossec }x)=-\mbox{cossec }x \mbox{ cotan }x$$
 
->###### Secante
->$${d\over dx}(\sec x)=\sec x\; \tan x$$
+> ###### Secante
+> $${d\over dx}(\sec x)=\sec x\; \tan x$$
 
->###### Cotangente
->$${d\over dx}(\mbox{cotan }x)=-\mbox{cossec}^2\,x$$
+> ###### Cotangente
+> $${d\over dx}(\mbox{cotan }x)=-\mbox{cossec}^2\,x$$
 
 ---
 ## Regra da Cadeia
->$${d\over dx}f(g(x))=f^`(g(x))\cdot g^`(x)$$
+> $${d\over dx}f(g(x))=f^`(g(x))\cdot g^`(x)$$
 
 ---
->$${d\over dx}(a^x)=a^x\ln a$$
+> $${d\over dx}(a^x)=a^x\ln a$$
 
 ---
 ## Derivadas de Funções Trigonométricas Inversas
->$${d\over dx}(\sin^{-1}x)={1\over\sqrt{1-x^2}}$$
+> $${d\over dx}(\sin^{-1}x)={1\over\sqrt{1-x^2}}$$
 
->$${d\over dx}(\tan^{-1}x)={1\over1+x^2}$$
+> $${d\over dx}(\tan^{-1}x)={1\over1+x^2}$$
 
->$${d\over dx}(\cos^{-1}x)=-{1\over\sqrt{1-x^2}}$$
+> $${d\over dx}(\cos^{-1}x)=-{1\over\sqrt{1-x^2}}$$
 
->$${d\over dx}(\mbox{cossec}^{-1}x)=-{1\over x\sqrt{x^2-1}}$$
+> $${d\over dx}(\mbox{cossec}^{-1}x)=-{1\over x\sqrt{x^2-1}}$$
 
->$${d\over dx}(\sec^{-1})={1\over x\sqrt{x^2-1}}$$
+> $${d\over dx}(\sec^{-1})={1\over x\sqrt{x^2-1}}$$
 
->$${d\over dx}(\mbox{cotan}^{-1}x)=-{1\over 1+x^2}$$
+> $${d\over dx}(\mbox{cotan}^{-1}x)=-{1\over 1+x^2}$$
 
 ---
 ## Funções Logaritmicas
->###### Diferenciação Logaritmica
->1. Tome o logaritmo natural em ambos os lados de uma equação $y=f(x)$ e use as Leis dos Logaritmos para simplificar.
->2. Diferencie implicitamente em relação a $x$.
->3. Resolva a equação resultante para $y^`$
+> ###### Diferenciação Logaritmica
+> 1. Tome o logaritmo natural em ambos os lados de uma equação $y=f(x)$ e use as Leis dos Logaritmos para simplificar.
+> 2. Diferencie implicitamente em relação a $x$.
+> 3. Resolva a equação resultante para $y^`$
 
->$${d\over dx}(\log_ax)={1\over x\ln a}$$
+> $${d\over dx}(\log_ax)={1\over x\ln a}$$
 
->$${d\over dx}(\ln x)={1\over x}$$
+> $${d\over dx}(\ln x)={1\over x}$$
 
->$${d\over dx}(\ln u)={1\over u}{du\over dx}$$
+> $${d\over dx}(\ln u)={1\over u}{du\over dx}$$
 
->$${d\over dx}[\ln g(x)]={g^`(x)\over g(x)}$$
+> $${d\over dx}[\ln g(x)]={g^`(x)\over g(x)}$$
 
->$${d\over dx}\ln\lvert x\rvert={1\over x}$$
+> $${d\over dx}\ln\lvert x\rvert={1\over x}$$
 
 ---
 # Diferenciação Implícita

@@ -22,8 +22,8 @@ Se um número $k$ é composto, então seu menor fator primo $p$ satisfaz $p\leq\
 Assim, se a penúltima linha é executada, $n$ não possui fatores menores ou iguais a $\sqrt{n}$, e portanto $n$ é primo.
 
 ## Número de Operações Aritméticas
->#### $O(\sqrt{n})\Longrightarrow$ [[Comportamento Asintótico das funções|Algoritmo Pseudopolinomial]]
+> #### $O(\sqrt{n})\Longrightarrow$ [[Comportamento Asintótico das funções|Algoritmo Pseudopolinomial]]
 
 
-### Obs.
+### Obs
 Ao invés de comparar $i$ com $\lfloor\sqrt{n}\rfloor$, podemos comparar $i\cdot i$ com $n$. Isso evitaria o uso de números de ponto flutuante, aumentando a precisão e simplificando a aritmética do algoritmo.

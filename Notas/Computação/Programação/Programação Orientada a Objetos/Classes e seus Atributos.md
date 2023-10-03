@@ -6,7 +6,7 @@ Suportam os [[Princípios Da POO|conceitos]] de:
 + Polimorfismo
 
 ---
-# Tipos de Componentes
+# Tipos de Components
 + Membros de instância
 + Membros de classe (estáticos)
 + Procedimentos de inicialização
@@ -18,7 +18,7 @@ Suportam os [[Princípios Da POO|conceitos]] de:
 
 ## Membros de Classe (estáticos)
 + Espaço de memória único para todos objetos
-+ Podem ser chamados mesmo sem um objeto
++ Podem set chamados mesmo sem um objeto
 
 ---
 # Instanciação de Objetos

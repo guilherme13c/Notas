@@ -5,7 +5,7 @@
 # PCA
 É uma técnica de Análise de Dados para redução de dimensionalidade.
 ![[pca1.png]]
-PCA tranforma um conjunto de variáveis possivelmente correlacionadas (ex. 100 ou 1000) em um conjunto menor de variáveis (ex. 10) chamadas **componentes principais**.
+PCA tranforma um conjunto de variáveis possivelmente correlacionadas (ex. 100 ou 1000) em um conjunto menor de variáveis (ex. 10) chamadas **components principais**.
 
 ---
 ## Para que serve?
@@ -31,25 +31,25 @@ Primeiro ***z-normalizamos*** os dados:
 Passos 3-4: garantem que atributos sejam tratados igualmente
 
 ---
-# Decomposição Ortogonal
-Dizer que o vetor $\mbox{x}_\mbox{w}$ é o vetor mais próximo a $\mbox{x}$ em $\mbox{W}$ equivale a dizer que a diferença $\mbox{x}-\mbox{x}_\mbox{w}$ é ortogonal a $\mbox{W}$.
+# Decomposição Orthogonal
+Dizer que o vetor $\mbox{x}_\mbox{w}$ é o vetor mais próximo a $\mbox{x}$ em $\mbox{W}$ equivale a dizer que a diferença $\mbox{x}-\mbox{x}_\mbox{w}$ é orthogonal a $\mbox{W}$.
 
->###### Teorema
->Seja $\mbox{w}$ um subspaço do $\mathbb{R}^n$ e $\mbox{x}$ um vetor em $\mathbb{R}^n$. Então podemos escrever $\mbox{x}$ de forma única como:
->$$\mbox{x}=\mbox{x}_\mbox{w}+\mbox{x}_{\mbox{w}^\bot}\;\;\;(1)$$
->Onde $\mbox{x}$ é o vetor mais próximo a $\mbox{x}$ em $\mbox{W}$ e $\mbox{x}_{\mbox{w}^\bot}$ está em $\mbox{W}^\bot$.
+> ###### Teorema
+> Seja $\mbox{w}$ um subspaço do $\mathbb{R}^n$ e $\mbox{x}$ um vetor em $\mathbb{R}^n$. Então podemos escrever $\mbox{x}$ de forma única como:
+> $$\mbox{x}=\mbox{x}_\mbox{w}+\mbox{x}_{\mbox{w}^\bot}\;\;\;(1)$$
+> Onde $\mbox{x}$ é o vetor mais próximo a $\mbox{x}$ em $\mbox{W}$ e $\mbox{x}_{\mbox{w}^\bot}$ está em $\mbox{W}^\bot$.
 
->#### Definição
->Equação $(1)$ é chamada decomposição ortogonal de $\mbox{x}$ com relação à $\mbox{W}$; vetor $\mbox{x}_\mbox{w}$ é a projeção ortogonal de $\mbox{x}$ em $\mbox{W}$.
+> #### Definição
+> Equação $(1)$ é chamada decomposição orthogonal de $\mbox{x}$ com relação à $\mbox{W}$; vetor $\mbox{x}_\mbox{w}$ é a projeção orthogonal de $\mbox{x}$ em $\mbox{W}$.
 
 ---
 # Projeção em plano ou hiperplano
-Seja $W$ o espaço gerado por $\{v_1,\ldots,v_m\}$ e $A$ a matriz cujas colunas são $\{v_1,\ldots,v_m\}$. Para calcular a decomposição ortogonal de $\mbox{x}$ em relação a $W$:
+Seja $W$ o espaço gerado por $\{v_1,\ldots,v_m\}$ e $A$ a matriz cujas colunas são $\{v_1,\ldots,v_m\}$. Para calcular a decomposição orthogonal de $\mbox{x}$ em relação a $W$:
 1. Calcule a matriz $A^TA$ e o vetor $b=A^T\mbox{x}$
 2. Resolva $A^TAc=b$ e encontre o vetor desconhecido $c$
 3. O sistema é sempre consistente, escolha uma solução $c$:
 	
-	$\mbox{x}_W=Ac$,  pelo teorema da [[Autovalores e Autovetores#Decomposição Espectral|decomposição espectral]], resulta em $\mbox{x}_{W\bot}=\mbox{x}-\mbox{x}_W$
+	$\mbox{x}_W=Ac$, pelo teorema da [[Autovalores e Autovetores#Decomposição Espectral|decomposição espectral]], resulta em $\mbox{x}_{W\bot}=\mbox{x}-\mbox{x}_W$
 	$\iff x_W=A(A^TA)^{-1}A^Tx$
 	
 ---

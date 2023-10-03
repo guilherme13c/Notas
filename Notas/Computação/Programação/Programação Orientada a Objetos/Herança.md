@@ -43,27 +43,27 @@ Cada subclasse pode possuir:
 
 O modificador de acesso usado para declarar a superclasse determina o nível de acesso aos seus membros pela subclasse. Quando a classe é declarada como:
 
->#### Public
->Mantém os níveis de acesso da classe base
+> #### Public
+> Mantém os níveis de acesso da classe base
 
->#### Protected
->Membros Public e Protected $\implies$Protected
+> #### Protected
+> Membros Public e Protected $\implies$Protected
 
->#### Private
->Membros Public e Protected $\implies$Private
+> #### Private
+> Membros Public e Protected $\implies$Private
 
 ---
 ## Construtores e Destrutores
-A classe derivada executa o construtor da classe base ***antes*** de executar o próprio.
+A classe derivada executa o constructor da classe base ***antes*** de executar o próprio.
 - Chamado mesmo que implicitamente
 - Pode estar explícito na lista de inicialização
 
-A classe derivada executa o destrutor da classe base ***depois*** de executar o próprio.
+A classe derivada executa o destructor da classe base ***depois*** de executar o próprio.
 
 ---
 # Herança Simples
 ## Sobrescrita de [[Classes e seus Métodos|Métodos]]
-Métodos da superclasse podem ser sobrescritos na subclasse (_overriding_). Isso ocorre quando eles possuem a mesma assinatura e tipo de retorno.
+Métodos da superclasse podem set sobrescritos na subclasse (_overriding_). Isso ocorre quando else possuem a mesma assinatura e tipo de retorno.
 Para sobrescrever métodos, devemos declará-los como _[[Herança#Métodos Virtuais|virtuais]]_.
 
 ***Obs.:*** Métodos _private_ não são sobrescritiveis. 
@@ -81,7 +81,7 @@ Membros estáticos não são redefinidos:
 #### Métodos Virtuais
 São resolvidos dinamicamente, isto é, apenas em tempo de execução sabemos exatamente qual função será chamada.
 
-O comportamento base de uma classe pode ser sobrescrito em classes derivadas.
+O comportamento base de uma classe pode set sobrescrito em classes derivadas.
 
 ```Cpp
 class Pessoa {
@@ -133,7 +133,7 @@ Fere o [[Princípios Da POO#Encapsulamento|princípio do encapsulamento]]:
 - Membros fazem parte de várias classes
 
 Cria interdpendência entre classes:
-- Mudanças em superclasses podem ser difíceis
+- Mudanças em superclasses podem set difíceis
 
 Como resolver isso?
 - Composição: técnica para criar um novo tipo não pela derivação, mas pela junção de outras classes de menor complexidade

@@ -13,7 +13,7 @@ $S$ é um conjunto de geradores de $G$ se e somente se $S\subset G$ e todo eleme
 $$s_k*\ldots*s_2*s_1$$
 onde cada $s_k$ é um elemento de $S$ ou inverso de um elemento de $S$.
 
-## Diagramas e Tabelas de Cayley
+## Diagrams e Tabelas de Cayley
 ![[Pasted image 20220221174209.png]]
 
 ![[Pasted image 20220221174236.png]]

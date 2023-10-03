@@ -16,9 +16,9 @@ Um número $n$ é de Carmichael se e somente se
 ---
 
 ## Teste de Miller
->#### Fatos
->1. Se $n$ é primo e $1<a<n$, então $a^{n-1}\equiv1\;(\mbox{mod }n)$.
->2. Se $n$ é primo e $x^2\equiv1\;(\mbox{mod }n)$, então $x\equiv1\;(\mbox{mod }n)$ ou $x\equiv-1\;(\mbox{mod }n)$.
+> #### Fatos
+> 1. Se $n$ é primo e $1<a<n$, então $a^{n-1}\equiv1\;(\mbox{mod }n)$.
+> 2. Se $n$ é primo e $x^2\equiv1\;(\mbox{mod }n)$, então $x\equiv1\;(\mbox{mod }n)$ ou $x\equiv-1\;(\mbox{mod }n)$.
 
 Se $n$ é ímpar e $n-1=2^t\cdot q$ com $q$ ímpar, então:
 - ou $a^q\equiv1\;(\mbox{mod }n)$
@@ -38,8 +38,8 @@ def miller(a, n):
 	return "composto"
 ```
 
->###### Teorema (Rabin)
->Se $n$ é composto, pelo menos 75% dos $1<a<n-1$ são testemunhas de Miller da não-primalidade de $n$.
+> ###### Teorema (Rabin)
+> Se $n$ é composto, pelo menos 75% dos $1<a<n-1$ são testemunhas de Miller da não-primalidade de $n$.
 
 ## Teste de Miller-Rabin
 ```python

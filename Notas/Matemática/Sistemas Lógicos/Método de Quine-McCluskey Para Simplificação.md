@@ -3,7 +3,7 @@
 Exceto em casos especiais ou em tabelas da verdade particularmente esparsas, o uso de Mapas de Karnaugh se torna inviável para mais de 6 variáveis. Por isso, se faz necessário um algoritmo mais sistemático.
 O método de Quine-McCluskey é capaz de encontrar a representação mínimizada de qualquer [[Formas Canônicas de Funções Booleanas|Função Booleana]] através de um procedimento sistemático que produz todos os primos implicantes e então seleciona o conjunto mínimo de primos que cobre a função. O método encontra os primos implicantes ao aplicar o Teorema da Unificação repetidamente.
 
-# [[Algoritmos|Algoritmo]] de Quine-McCluskey
+# [[Algoritmos|Algoritmo]] De Quine-McCluskey
 ## Encontrando Primos Implicantes
 O primeiro passo do algoritmo é listar todos os elementos que compõe o *on-set* e o *don't-care-set* em termos dos índices de seus mintermos, representados como números binários. Então, os elementos são agrupados de acordo com a quantidade de $1$s na sua representação binária. Isso torna mais fácil a comparação de pares.
 
@@ -30,9 +30,9 @@ $\checkmark$ Implicante
 $*$ Primo Implicante
 
 A primeira coluna contém os mintermos do *on-set* e do *don't-care-set*, isto é, pontos no [[Introdução a Grafos#Grafo Cubo- n Q_n|Espaço Booleano]]. Por exemplo, cada um destes representa um produto de 4 variáveis (mintermo). Como resultado da aplicação do método, a segunda coluna vai conter implicantes que formam arestas no Espaço Booleano: produtos de 3 variáveis. Após mais uma iteração do método, a terceira coluna vai conter implicantes que representam planos no Espaço Booleano: produtos de 2 variáveis.
-Lembrando que, para aplicar o Teorema da Unificação, devemos comparar os elementos de grupos vizinhos em pares, e quando eles diferirem de apenas um bit, isso significa que os mintermos que esses números representam são adjacentes no Espaço Booleano $n$-dimensional.
+Lembrando que, para aplicar o Teorema da Unificação, devemos comparar os elementos de grupos vizinhos em pares, e quando else diferirem de apenas um bit, isso significa que os mintermos que esses números representam são adjacentes no Espaço Booleano $n$-dimensional.
 
 ## Encontrando A Cobertura Mínima
-O segundo passo do método é encontrar a menor coleção de primos implicantes que cobre completamente o *on-set*. Isso pode ser obtido através do pontuário de primos implicantes.
+O segundo passo do método é encontrar a menor coleção de primos implicantes que cobre completamente o *on-set*. Isso pode set obtido através do pontuário de primos implicantes.
 
 ![[Pasted image 20220523164028.png]]

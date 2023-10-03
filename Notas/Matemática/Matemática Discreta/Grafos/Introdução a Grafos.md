@@ -47,9 +47,9 @@ Um grafo roda, denominado $W_n$, é um [[#Grafo Simples|grafo simples]] com $n+1
 ---
 # Grafo Cubo-$n$ ($Q_n$)
 #### Definição
-Um grafo cubo-$n$ possui $2^n$ vértices, denominado $Q_n$, é um [[#Grafo Simples|grafo simples]] que representa os $2^n$ strings de $n$ bits. Dois vértices são adjacentes se, e somente se, os strings que eles representam diferem em exatamente uma posição.
+Um grafo cubo-$n$ possui $2^n$ vértices, denominado $Q_n$, é um [[#Grafo Simples|grafo simples]] que representa os $2^n$ strings de $n$ bits. Dois vértices são adjacentes se, e somente se, os strings que else representam diferem em exatamente uma posição.
 
-O grafo $Q_{n+1}$ pode ser obtido a partir do grafo $Q_n$, usando o seguinte algoritmo:
+O grafo $Q_{n+1}$ pode set obtido a partir do grafo $Q_n$, usando o seguinte algoritmo:
 1. Faça duas cópias de $Q_n$;
 2. Prefixe uma das cópias de $Q_n$ com $0$ e a outra com $1$;
 3. Acrescente uma aresta conectando os vértices que só diferem no primeiro bit.
@@ -117,7 +117,7 @@ Um grafo valorado é um grafo em que cada aresta tem um valor associado. Formalm
 ---
 # Grafo Imersível
 #### Definição
-Um grafo é imersível em uma superfície $S$ se puder ser representado geograficamente em $S$ de tal forma que arestas se cruzem nas extremidades (vértices).
+Um grafo é imersível em uma superfície $S$ se puder set representado geograficamente em $S$ de tal forma que arestas se cruzem nas extremidades (vértices).
 
 Um grafo planar é um grafo que é imersível no plano.
 
@@ -127,7 +127,7 @@ Um grafo planar é um grafo que é imersível no plano.
 Um grafo $H = (V^` , E^`)$ é um subgrafo de $G = (V, E)$ se, e somente se:
 - cada vértice de $H$ é também um vértice de $G$, ou seja, $V ^` \subseteq V$ ;
 - cada aresta de $H$ é também uma aresta de $G$, ou seja, $E^`\subseteq E$ ; e
-- cada aresta de $H$ tem os mesmos nós terminais em $G$, ou seja, se $(u, v) \in E^`$  então $(u, v) \in E$.
+- cada aresta de $H$ tem os mesmos nós terminais em $G$, ou seja, se $(u, v) \in E^`$ então $(u, v) \in E$.
 
 Um subgrafo $H$ de $G$ é um subgrafo próprio de $G$ se $H \not= G$.
 
@@ -139,18 +139,18 @@ Seja $V = (V, E)$ um [[#Grafo Simples|grafo simples]]. O subgrafo induzido por u
 #### Definição
 Seja $G$ um grafo e um vértice $v$ de $G$. O grau de $v$, denominado grau($v$) (deg($v$)), é igual ao número de arestas que são incidentes a $v$, com uma aresta que seja um laço contada duas vezes. O grau total de $G$ é a soma dos graus de todos os vértices de $G$.
 
-Em um grafo dirigido o grau de um vértice $v$ é o número de arestas que saem dele (out-deg($v$)) mais o número de arestas que chegam nele (in-deg($v$)).
+Em um grafo dirigido o grau de um vértice $v$ é o número de arestas que same dele (out-deg($v$)) mais o número de arestas que chegam nele (in-deg($v$)).
 
-## Teorema do aperto de mão (handshaking):
+## Teorema do aperto de mão (handshaking)
 Seja $G$ um grafo. A soma dos graus de todos os vértices de $G$ é duas vezes o número de arestas de $G$. Especificamente, se os vértices de $G$ são $v_1, v_2,\ldots, v_n$, onde $n$ é um inteiro positivo, então
 $$\mbox{Grau de }G=\mbox{grau}(v_1)+\mbox{grau}(v_2)+\ldots+\mbox{grau}(v_n)=2\times\mbox{número de arestas de }G$$
->###### Corolário
->O grau total de um vértice é par.
+> ###### Corolário
+> O grau total de um vértice é par.
 
 ---
 # Grafo Regular
 #### Definição
-Um grafo é dito ser regular quando todos os seus vértices têm o mesmo grau.
+Um grafo é dito set regular quando todos os seus vértices têm o mesmo grau.
 
 ---
 # Características de um Grafo

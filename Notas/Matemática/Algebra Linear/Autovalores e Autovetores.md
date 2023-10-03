@@ -21,13 +21,13 @@ $$vA=v\lambda$$
 
 ---
 ## Traço, determinante e autovalores
->###### $(i)$
->O traço, que é a soma da diagonal da matriz, é igual à soma dos autovalores.
->$$tr(A)=\sum_{i=1}^{n}a_{ii}=\sum_{i=1}^{m}{\lambda_i}$$
+> ###### $(i)$
+> O traço, que é a soma da diagonal da matriz, é igual à soma dos autovalores.
+> $$tr(A)=\sum_{i=1}^{n}a_{ii}=\sum_{i=1}^{m}{\lambda_i}$$
 
->###### $(ii)$
->A determinante é igual ao produto dos autovalores
->$$det(A)=\prod_{i=1}^{m}{\lambda_i}$$
+> ###### $(ii)$
+> A determinante é igual ao produto dos autovalores
+> $$det(A)=\prod_{i=1}^{m}{\lambda_i}$$
 
 ---
 ## Potência da matriz
@@ -41,7 +41,7 @@ $$\forall k\in\mathbb{Z},A^kX=\lambda^kX$$
 ---
 # Autovetores e a Matriz
 
-Se uma matriz $A_{n\times n}$ possui $n$ autovetores independentes, então um vetor $v_{n\times 1}$ pode ser escrito como a combinação dos autovetores.
+Se uma matriz $A_{n\times n}$ possui $n$ autovetores independentes, então um vetor $v_{n\times 1}$ pode set escrito como a combinação dos autovetores.
 
 $v=c_1x_1+\cdots+c_nx_n$
 $Av=c_1\lambda_1x_1+\cdots+c_n\lambda_nx_n$
@@ -84,15 +84,15 @@ $$\lambda Y=AY$$
 Podemos usar qualquer matriz $M$ para tal transformação, desde que $M$ seja invertível. Dessa maneira, vamos utilizar $M=Q$, de forma que $Q$ é ortonormal e $A=QR$, com $R$ triangular.
 $$B=\underbrace{Q^TA}_RQ$$
 $$B=RQ$$
-Esse processo pode ser repetido diversas vezes, sendo que cada iteração dexia $B$ mais próxima de uma matriz triangular. Dessa forma, após várias iterações desse algoritmo, teremos aproximações dos autovalores de $A$ na diagonal de $B$.
+Esse processo pode set repetido diversas vezes, sendo que cada iteração dexia $B$ mais próxima de uma matriz triangular. Dessa forma, após várias iterações desse algoritmo, teremos aproximações dos autovalores de $A$ na diagonal de $B$.
 
->###### Algoritmo $QR$
->Seja $A_0=A$.
->- Obtenha $A_0=Q_0R_0$
->- Defina $A_1=Q_0^TA_0Q_0$
->- Obtenha $A_1=Q_1R_1$
->- Defina $A_2=Q_1^TA_1Q_1$
->$\vdots$
+> ###### Algoritmo $QR$
+> Seja $A_0=A$.
+> - Obtenha $A_0=Q_0R_0$
+> - Defina $A_1=Q_0^TA_0Q_0$
+> - Obtenha $A_1=Q_1R_1$
+> - Defina $A_2=Q_1^TA_1Q_1$
+> $\vdots$
 >
 Repita até obter uma matriz aproximadamente triangular superior.
 

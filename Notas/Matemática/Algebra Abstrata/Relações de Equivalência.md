@@ -20,6 +20,6 @@ Dada uma partição de um conjunto $A$, a relação binária $R$ induzida pela p
 $\forall x,y\in A, xRy\iff$ Existe um subconjunto $A_i$ da [[Classes de Equivalência#Partições|partição]] tal que ambos $x$ e $y$ estão em $A_i$.
 
 ---
->###### Observação Importante
->- Para todos elementos $x$ e $y$ em um subconjunto $A_i$, $x$ e $y$ estão relacionados entre si de todas as formas possíveis.
+> ###### Observação Importante
+> - Para todos elementos $x$ e $y$ em um subconjunto $A_i$, $x$ e $y$ estão relacionados entre si de todas as formas possíveis.
 ---

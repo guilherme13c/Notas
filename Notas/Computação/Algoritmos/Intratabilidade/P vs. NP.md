@@ -2,7 +2,7 @@
 #### $\mathbf{P}$
 $\mathbf{P}$ é o [[Conjuntos|conjunto]] de [[Decidibilidade|problemas de decisão]] para os quais existe algum [[Algoritmos|algoritmo]] de [[Comportamento Asintótico das funções|complexidade]] temporal polinomial. 
 
-#### certificador
+#### Certificador
 Um algoritmo $C(s,t)$ é um **certificador** para o problema $X$ se: $\forall s: s\in X \iff \exists t: C(s,t)=\text{sim}$.
 
 #### $\mathbf{NP}$
@@ -27,7 +27,7 @@ Considere qualquer problema $X\in \mathbf{P}$.
 Considere qualquer problema $X\in \mathbf{NP}$.
 - Por definição, existe um certificador polinomial $C(s,t)$ para $X$, onde o certificado $t$ satisfaz $\vert t\vert \le p(\vert s\vert)$ para algum polinomio $p(\cdot)$.
 - Para resolver a instância $s$, rode o algoritmo $C(s,t)$ em todas as strings $t$ com $\vert t\vert\le p(\vert s\vert)$.
-- Retorne $\text{sim}$ se, e só se, $C(s,t)$ retorna $\text{sim}$ para qualquer um desses certificados em potencial.
+- Retorne $\text{sim}$ se, e só se, $C(s,t)$ retorna $\text{sim}$ para qualquer um desses certificados em potential.
 
 ## $\mathbf{P}\neq\mathbf{EXP}$
 $\mathbf{P}\neq\mathbf{EXP}\implies$ ou $\mathbf{P}\neq\mathbf{NP}$, ou $\mathbf{NP}\neq\mathbf{EXP}$, ou ambos.
@@ -38,9 +38,9 @@ Problemas de decisão são tão fáceis quanto problemas de certificação?
 
 ![[Pasted image 20221213170525.png]]
 
-- Se sim, então existem algoritmos eficientes para problemas como o 3-SAT, TSP, Vertex-Cover, Factor, ...
+- Se sim, então existem algoritmos eficientes para problemas como o 3-SAT, TSP, Vertex-Cover, Factor, …
 - Se não, não existem tais algoritmos.
 
-Embora não haja uma resolução formal para essa questão, é consenso dizer que  provavelmente $\mathbf{P}\neq\mathbf{NP}$.
+Embora não haja uma resolução formal para essa questão, é consenso dizer que provavelmente $\mathbf{P}\neq\mathbf{NP}$.
 
 ---

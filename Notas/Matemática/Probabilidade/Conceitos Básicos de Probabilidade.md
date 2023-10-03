@@ -9,7 +9,7 @@ Seja $S$ o espaço amostral de um experimento com um número finito ou contável
 
 Atribuímos uma probabilidade $p(s)$ para cada resultado $s$.
 
-Duas condições devem ser respeitadas:
+Duas condições devem set respeitadas:
 1. $0\le p(s)\le 1$, para cada $s\in S$;
 2. $\sum\limits_{s\in S}p(s)=1$.
 

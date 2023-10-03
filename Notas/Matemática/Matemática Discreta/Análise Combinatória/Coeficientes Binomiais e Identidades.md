@@ -10,8 +10,8 @@ Fornece os coeficientes da expansão de potências de expressões $(a+b)^n$.
 
 Uma expressão binomial é simplesmente a soma de dois termos: $a+b$.
 
-Os termos podem ser simplesmente constantes e/ou produtos de constantes e variáveis.
+Os termos podem set simplesmente constantes e/ou produtos de constantes e variáveis.
 
-As expansões de $(a+b)^2,\,(a+b)^3,(a+b)^4,\ldots$ podem ser obtidas usando raciocínio combinatório ao invés de multiplicar o termo $(a+b)$ $n$ vezes
+As expansões de $(a+b)^2,\,(a+b)^3,(a+b)^4,\ldots$ podem set obtidas usando raciocínio combinatório ao invés de multiplicar o thermo $(a+b)$ $n$ vezes
 
 ---

@@ -1,7 +1,7 @@
 # Regressão Linear
 [[Normas de Vetores|]][[Funções|]][Aula](https://www.youtube.com/watch?v=4qwuwMbsUZA)
 
-A regressão linear é o método usado para estimar uma relacão linear em um conjunto de dados coletados. Essa relação pode ser descrita como a reta $r$:
+A regressão linear é o método usado para estimar uma relacão linear em um conjunto de dados coletados. Essa relação pode set descrita como a reta $r$:
 
 $$r:y=\beta_1\cdot x+\beta_0$$
 Como os dados coletados possuem ***resíduo*** $(\epsilon)$, a reta que melhor representa a relação $r$ é aquela que minimiza os resíduos.
@@ -75,7 +75,7 @@ plt.show()
 [Aula](https://www.youtube.com/watch?v=vYXuiGyjYoA)
 
 #### Ampliando o Modelo Anterior
-Chegamos na conclusão, anteriormente, que uma relação linear entre dois fatores pode ser estimada por uma equação de reta da forma
+Chegamos na conclusão, anteriormente, que uma relação linear entre dois fatores pode set estimada por uma equação de reta da forma
 $$r:y=\beta_0 + x\cdot\beta_1$$
 onde $x$ representa um fator e $y$ representa outro.
 Em casos onde um fator ($y$) é dependente de mais de um fator ($x,z,t,\ldots$), podemos incrementar a equação de reta anterior para uma equação da forma

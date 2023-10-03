@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f9151edad0564b8",
+            "id": "d4d448b694a7f44d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945
+    "width": 281.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md"
+              }
             }
           },
           {
@@ -134,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,18 +157,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f9151edad0564b8",
+  "active": "d4d448b694a7f44d",
   "lastOpenFiles": [
-    "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
+    "Notas/Computação/Sistemas/Sistemas Operacionais.md",
+    "Notas/Computação/Sistemas",
     "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
+    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
+    "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
+    "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
     "Notas/arquivos/Pasted image 20230616165546.png",
     "Notas/Matemática/Cálculo/Derivadas.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
-    "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Hierarquia de Memória.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Armazenamento e manipulação de dados.md",
-    "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Reduções de Tempo Polinomial.md",
     "Notas/Computação/Organização e Arquitetura/GPU",
     "Notas/Computação/Algoritmos/Intratabilidade/P vs. NP.md",
@@ -174,7 +187,6 @@
     "Notas/Matemática/Algebra Abstrata/Teorema Chinês do Resto.md",
     "Notas/Matemática/Algebra Abstrata/Teorema Fundamental da Aritmética.md",
     "Notas/Matemática/Algebra Abstrata/Testes de Primalidade e Números de Carmichael.md",
-    "Notas/Matemática/Algebra Abstrata/Teorema de Euler.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }

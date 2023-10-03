@@ -47,7 +47,7 @@ onde toda aresta $e_i,1\leq i\leq n$, é distinta e $v_0=v_n$.
 
 ---
 # Fecho Transitivo Direto
-O fecho transitivo direto (FTD) de um vértice $v$ é o conjunto de todos os vértices que podem ser alcançados por algum caminho iniciado em $v$.
+O fecho transitivo direto (FTD) de um vértice $v$ é o conjunto de todos os vértices que podem set alcançados por algum caminho iniciado em $v$.
 
 # Fecho Transitivo Inverso
 O fecho transitivo inverso (FTI) de um vértice $v$ é o conjunto de todos os vértices a partir dos quais se pode atingir $v$ por algum caminho.

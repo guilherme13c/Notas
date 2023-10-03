@@ -13,14 +13,14 @@ Em notação de conjuntos: $\{x\in\mathbb{R}\mid a\leq x\leq b\}$.
 ---
 
 # Funções e Modelos
->#### Definição
+> #### Definição
 >  Uma função $f$ é uma lei a qual para cada elemento $x$ em um conjunto $A$ faz corresponder exatamente um elemento chamado $f(x)$, em um conjunto $B$.
 
->###### Diagrama de máquina da função $f$:
->$$x\ \ \ \ \ \ \longrightarrow [\ f\ ] \longrightarrow\ \ \ \ \ \ f(x)$$
+> ###### Diagrama de máquina da função $f$:
+> $$x\ \ \ \ \ \ \longrightarrow [\ f\ ] \longrightarrow\ \ \ \ \ \ f(x)$$
 $$(\mbox{input})\ \ (\mbox{function}) \ \ (\mbox{output})$$
 
-###### Diagrama de flechas para $f$:
+###### Diagrama de flechas para $f$
 $$A \xRightarrow{\;\;f\;\;} B$$
 
 ##### Representações de Funções
@@ -30,7 +30,7 @@ $$A \xRightarrow{\;\;f\;\;} B$$
 + Visualmente
 + Algebricamente
 
-###### Teste da reta vertical:
+###### Teste da reta vertical
 Uma curva no plano $xy$ é o gráfico de uma função de $x$ se e somente se nenhuma reta vertical corta a curva mais de uma vez.
 
 ##### Funções crescentes e decrescentes

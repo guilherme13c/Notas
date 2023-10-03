@@ -12,17 +12,17 @@ Sejam $a,b\in\mathbb{N}$ e $p$ primo. Se $p\mid ab$, então $p\mid a$ ou $p\mid 
 ---
 
 # Números Primos e Compostos
->## Número Composto
->#### Def:
->Um $n\in\mathbb{N}$ é composto se $n>1$ e existem naturais $a,b<n$ com $n = ab$.
+> ## Número Composto
+> #### Def:
+> Um $n\in\mathbb{N}$ é composto se $n> 1$ e existem naturais $a,b<n$ com $n = ab$.
 
->## Número Primo
->#### Def:
->Um $n\in\mathbb{N}$ é primo se $n>1$ e $n$ não é composto.
->###### Fato 1
->Se $p$ é primo, seus únicos divisores são $1$ e $p$.
->###### Fato 2
->Se $p$ é um primo e $p\mid a_1a_2\cdots a_k$ para $k \geq 1$ e $a_1,a_2,\cdots,a_k\in\mathbb{N}$, então $p\mid a_i$ para algum $1\leq i\leq k$.
+> ## Número Primo
+> #### Def:
+> Um $n\in\mathbb{N}$ é primo se $n> 1$ e $n$ não é composto.
+> ###### Fato 1
+> Se $p$ é primo, seus únicos divisores são $1$ e $p$.
+> ###### Fato 2
+> Se $p$ é um primo e $p\mid a_1a_2\cdots a_k$ para $k \geq 1$ e $a_1,a_2,\cdots,a_k\in\mathbb{N}$, então $p\mid a_i$ para algum $1\leq i\leq k$.
 
 ---
 

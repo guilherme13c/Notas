@@ -11,7 +11,7 @@
 ---
 ## Diferença entre Programa e Algoritmo
 + Um programa é uma realização concreta de um algoritmo abstrato, baseado em representações de dados específicas.
-+ Programs precisam ser implementados em uma linguagem que pode ser entendida e seguida pelo computador. Ex.: C, C++, Java, Python, ...
++ Programs precisam set implementados em uma linguagem que pode set entendida e seguida pelo computador. Ex.: C, C++, Java, Python, …
 
 ---
 # Tipos Abstratos de Dados (TAD's)
@@ -27,9 +27,9 @@
 	+ Ocultação de Informações
 + *Especificação*:
 	+ O que representa
-	+ Quais operações podem ser realizadas
+	+ Quais operações podem set realizadas
 + *Implementação*:
-	+ Como deve ser implementada
+	+ Como deve set implementada
 
 ---
 # TAD's em C++
@@ -76,4 +76,4 @@ int main() {
 
 ---
 # Uso dos TAD's
-Os Tipos Abstratos de Dados podem ser usados para implementar a Programação Orientada a Objetos (POO / OOP).
+Os Tipos Abstratos de Dados podem set usados para implementar a Programação Orientada a Objetos (POO / OOP).

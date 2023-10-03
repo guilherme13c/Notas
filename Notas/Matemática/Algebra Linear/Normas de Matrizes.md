@@ -1,7 +1,7 @@
 # [Distância Estatística](https://www.youtube.com/watch?v=CPFej2oVWlg)
 Precisamos de uma distância diferente da euclidiana para detectar anomalias em dados.
 
-Vamos começar vendo matrizes de dados estatísticos: matrizes com $n$ itens e $k$ colunas ou variáveis.
+Vamos começar vendo matrizes de dados estatísticos: matrizes com $n$ items e $k$ colunas ou variáveis.
 
 ---
 # Norma-S
@@ -50,7 +50,7 @@ Máximo dentre as somas dos valores absolutos de coluna.
 $$A=\begin{bmatrix}2&-3&1\\2&0&-1\\1&4&5\end{bmatrix}$$
 $$\|A\|_1=\max((2+2+1),(3+0+4),(1+1+5))=7$$
 
-### Norma-$\infty$ (induzida pela Norma-$\infty$ Vetorial)
+### Norma-$\infty$ (induzida Pela Norma-$\infty$ Vetorial)
 Máximo dentre as somas dos valores absolutos de linha.
 
 $$A=\begin{bmatrix}2&-3&1\\2&0&-1\\1&4&5\end{bmatrix}$$
