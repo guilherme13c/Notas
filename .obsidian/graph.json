@@ -11,14 +11,14 @@
       "query": "path:\"Notas/Matemática/Fundamentos da Teoria da Computação\"",
       "color": {
         "a": 1,
-        "rgb": 10701056
+        "rgb": 2979
       }
     },
     {
       "query": "path:Notas/Matemática",
       "color": {
         "a": 1,
-        "rgb": 12618026
+        "rgb": 15202050
       }
     },
     {
@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "path:\"Notas/Computação\"",
+      "query": "path:\"Notas/Computação/Sistemas\"",
       "color": {
         "a": 1,
         "rgb": 7266926
+      }
+    },
+    {
+      "query": "path:Notas/Computação  ",
+      "color": {
+        "a": 1,
+        "rgb": 15429888
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10.0549450549451,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3438020391262444,
+  "scale": 1.1603318820510746,
   "close": true
 }

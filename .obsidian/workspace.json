@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38ac0cf197e6a205",
+        "id": "c69751db538aa3dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d4d448b694a7f44d",
+            "id": "2762b863068e6721",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945,
-    "collapsed": true
+    "width": 281.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Computação/Sistemas/Sistemas Operacionais.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,9 +146,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4d448b694a7f44d",
+  "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
     "Notas/Computação/Sistemas/Sistemas Operacionais.md",
+    "Notas/arquivos/Pasted image 20231003193444.png",
+    "Notas/arquivos/Pasted image 20231003193412.png",
+    "Notas/arquivos/Pasted image 20231003193322.png",
+    "Notas/arquivos/Pasted image 20231003192914.png",
+    "Notas/arquivos/Pasted image 20231003192837.png",
+    "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
+    "Notas/Computação/Corretude de Programas/Introdução ao Teste de Software.md",
+    "Notas/Computação/Corretude de Programas/Introdução à Programação Defensiva.md",
+    "Notas/Computação/Corretude de Programas/Depuração de software.md",
     "Notas/Computação/Sistemas",
     "Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
@@ -183,10 +181,6 @@
     "Notas/Matemática/Cálculo/Séries.md",
     "Notas/Matemática/Cálculo/Sequências Infinitas.md",
     "Notas/Matemática/Cálculo/Funções.md",
-    "conflict-files-obsidian-git.md",
-    "Notas/Matemática/Algebra Abstrata/Teorema Chinês do Resto.md",
-    "Notas/Matemática/Algebra Abstrata/Teorema Fundamental da Aritmética.md",
-    "Notas/Matemática/Algebra Abstrata/Testes de Primalidade e Números de Carmichael.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }
