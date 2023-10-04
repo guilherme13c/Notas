@@ -104,3 +104,104 @@ Processos podem ser descritos como:
 - CPU bound (intensivos em processamento):
 	- Passa mais tempo em processamento;
 	- Períodos longos de processamento, na CPU.
+
+---
+
+## Troca/chaveamento de contexto (context switch)
+
+- Mudança do processo em execução;
+- O S.O. deve salvar o estado do processo atual e carregar o estado do novo;
+- É um overhead;
+- Tempo gasto depende da estrutura do hardware e do processo no S.O.
+
+![[Pasted image 20231004093642.png]]
+
+---
+
+# Cooperação entre processos
+
+- Processos independentes não podem afetar ou ser afetados pela execução de outros;
+- Vantagens da cooperação entre processos:
+	- Compartilhamento de informações;
+	- Aumento da velocidade de processamento;
+	- Modularidade
+	- Conveniência
+
+---
+
+## Comunicação entre processos (IPC)
+
+A troca de informações entre dois fluxos de execução (duas regiões de memória) pode ocorrer por meio de:
+- Memória compartilhada (**shmem**):
+	- Dois fluxos "enxergam" a mesma memória;
+	- Primitivas são dependentes do tipo de S.O.
+	- Princípios são os mesmos aplicados às *[[|threads]]*
+- Troca de mensagens (**send/receive**):
+	- Toda informação tem que fluir de um processo para outro;
+	- Canais de comunicação podem ter diversas semânticas;
+	- Exemplo mais importante: *sockets* (Redes)
+
+![[Pasted image 20231004095234.png]]
+
+### Decisões de implementação
+
+- Como os canais são criados/estabelecidos?
+- Quem é o destinatário: um processo ou um buffer?
+- Um canal pode ligar mais de dois processos?
+- Quantos canais podem ligar um mesmo par?
+- Qual a capacidade do canal?
+- As mensagens são de tamanho fixo ou variável?
+- Cada canal é uni- ou bi-direcional?
+- Qual o comportamento de send/receive se:
+	- o canal está cheio, ou
+	- as chamadas não ocorrem ao mesmo tempo?
+
+---
+
+#### Comunicação direta
+
+- Processos identificam o outro explicitamente:
+	- *send(P, msg)*: envia mensagem para o processo *P*;
+	- *receive(Q, msg)*: recebe mensagem do processo *Q*.
+		- recepção pode usar máscara (e.g.: *Q=any*).
+- Propriedades de canal de comunicação direta:
+	- Estabelecimento é automático;
+	- Cada canal liga exatamente um par de processos;
+	- Existe apenas um canal entre cada par;
+	- Canais são usualmente bi-direcionais.
+
+---
+
+#### Comunicação indireta
+
+- Mensagens são originadas e direcionadas para caixas de correio (ports = portas/portos)
+	- Cada caixa tem um identificador único;
+	- Processos só se comunicam se compartilharem uma caixa de correio;
+	- Caixas de correio são recursos independentes que precisam ser criados e destruídos.
+- Propriedades dos canais:
+	- Estabelecimento vinculado ao compartilhamento;
+	- Um canal pode ligar vários processos;
+	- Cada par de processos pode ter vários canais;
+	- Canais podem ser uni- ou bi-direcionais.
+
+---
+
+#### Sincronização de primitivas
+
+- Troca de mensagens:
+	- Bloqueante (síncrona)
+	- Não bloqueante (assíncrona)
+- Cada primitiva (*send*/*receive*) pode se comportar de uma forma. O mais comum é:
+	- *send* assíncrono (retorna imediatamente);
+	- *receive* síncrono (bloqueia até a mensagem chegar).
+
+---
+
+#### Controle de espaço no canal
+
+- Implementação da fila de mensagens associadas a um canal enquanto em transito:
+	- Capacidade zero: o canal não guarda mensagens, o transmissor deve fazê-lo, esperando pelo receptor (*rendezvous*);
+	- Capacidade limitada: *send* é assíncrono enquanto a capacidade não é alcançada;
+	- Capacidade ilimitada: *send* nunca espera.
+
+---

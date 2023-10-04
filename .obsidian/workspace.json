@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +158,8 @@
   },
   "active": "c678fcae2a78f1dc",
   "lastOpenFiles": [
+    "Notas/arquivos/Pasted image 20231004095234.png",
+    "Notas/arquivos/Pasted image 20231004093642.png",
     "Notas/arquivos/Pasted image 20231004085336.png",
     "Notas/arquivos/Pasted image 20231004084239.png",
     "Notas/arquivos/Pasted image 20231004083708.png",
@@ -173,7 +174,6 @@
     "Notas/arquivos/Pasted image 20231003193412.png",
     "Notas/arquivos/Pasted image 20231003193322.png",
     "Notas/arquivos/Pasted image 20231003192914.png",
-    "Notas/arquivos/Pasted image 20231003192837.png",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Corretude de Programas/Introdução ao Teste de Software.md",
     "Notas/Computação/Corretude de Programas/Introdução à Programação Defensiva.md",
@@ -183,7 +183,6 @@
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Inteiros.md",
     "Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md",
     "Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md",
-    "Notas/arquivos/Pasted image 20230616165546.png",
     "Notas/Matemática/Cálculo/Derivadas.md",
     "Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md",
     "Notas/Computação/Organização e Arquitetura/Memória/Memória Cache.md",
