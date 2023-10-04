@@ -597,14 +597,14 @@
     "Notas/Computação/Sistemas/Sistemas Operacionais.md": {
       "size": 2814,
       "tags": 0,
-      "links": 10
+      "links": 13
     }
   },
   "commitTypes": {
     "/": {
       "Refactor": 10,
       "Create": 4,
-      "Link": 10,
+      "Link": 11,
       "Expand": 6
     }
   },
@@ -629,7 +629,7 @@
       "16": 6,
       "17": 2,
       "18": 14,
-      "19": 7,
+      "19": 8,
       "20": 0,
       "21": 0,
       "22": 0,
@@ -639,7 +639,7 @@
   "weeklyCommits": {
     "/": {
       "Mon": 5,
-      "Tue": 16,
+      "Tue": 17,
       "Wed": 0,
       "Thu": 2,
       "Fri": 7,
@@ -682,6 +682,7 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/GPU/GPU x CPU.md\"> GPU x CPU </a>",
         "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>",
         "<a class=\"internal-link\" href=\"Notas/Matemática/Cálculo/Equações Diferencias Ordinárias.md\"> Equações Diferencias Ordinárias </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
