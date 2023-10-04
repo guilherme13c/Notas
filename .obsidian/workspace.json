@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2762b863068e6721",
+            "id": "c678fcae2a78f1dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Computação/Sistemas/Processos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945
+    "width": 281.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Computação/Sistemas/Processos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Computação/Sistemas/Processos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Computação/Sistemas/Processos.md"
+              }
             }
           },
           {
@@ -134,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1c15f0373cb9644",
+  "active": "c678fcae2a78f1dc",
   "lastOpenFiles": [
+    "Notas/arquivos/Pasted image 20231004085336.png",
+    "Notas/arquivos/Pasted image 20231004084239.png",
+    "Notas/arquivos/Pasted image 20231004083708.png",
+    "Notas/arquivos/Pasted image 20231004082918.png",
+    "Notas/arquivos/Pasted image 20231004082254.png",
+    "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md",
+    "Notas/Matemática/Algebra Abstrata/Gerando Números Primos.md",
+    "Notas/Matemática/Algebra Abstrata/Exponenciação Binária.md",
+    "Notas/Computação/Sistemas/Processos.md",
     "Notas/Computação/Sistemas/Sistemas Operacionais.md",
     "Notas/arquivos/Pasted image 20231003193444.png",
     "Notas/arquivos/Pasted image 20231003193412.png",
@@ -177,10 +197,6 @@
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
     "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
     "Notas/Matemática/Algebra Linear/Normas de Matrizes.md",
-    "Notas/Matemática/Algebra Linear/Matrizes Simétricas.md",
-    "Notas/Matemática/Cálculo/Séries.md",
-    "Notas/Matemática/Cálculo/Sequências Infinitas.md",
-    "Notas/Matemática/Cálculo/Funções.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }

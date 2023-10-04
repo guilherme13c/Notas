@@ -598,14 +598,19 @@
       "size": 2814,
       "tags": 0,
       "links": 13
+    },
+    "Notas/Computação/Sistemas/Processos.md": {
+      "size": 3284,
+      "tags": 0,
+      "links": 11
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 10,
-      "Create": 4,
-      "Link": 11,
-      "Expand": 6
+      "Refactor": 11,
+      "Create": 5,
+      "Link": 18,
+      "Expand": 9
     }
   },
   "dailyCommits": {
@@ -618,8 +623,8 @@
       "5": 0,
       "6": 0,
       "7": 0,
-      "8": 0,
-      "9": 0,
+      "8": 11,
+      "9": 1,
       "10": 0,
       "11": 0,
       "12": 1,
@@ -640,7 +645,7 @@
     "/": {
       "Mon": 5,
       "Tue": 17,
-      "Wed": 0,
+      "Wed": 12,
       "Thu": 2,
       "Fri": 7,
       "Sat": 0,
@@ -655,9 +660,13 @@
         "<a class=\"internal-link\" href=\"RISC x CISC.md\"> RISC x CISC </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md\"> RISC x CISC </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
@@ -671,7 +680,8 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/Representação de Dados/Reais.md\"> Reais </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Organização e Arquitetura/CPU/RISC x CISC.md\"> RISC x CISC </a>",
         "<a class=\"internal-link\" href=\"Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>"
       ],
       "Tagged": [],
       "Refactored": [],
@@ -689,7 +699,14 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Sistemas Operacionais.md\"> Sistemas Operacionais </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
