@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c69751db538aa3dc",
+        "id": "9f70debe35f503cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c678fcae2a78f1dc",
+            "id": "969d69837ef1dc65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
-                "mode": "preview",
+                "file": "Notas/Computação/Sistemas/Threads.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
+                "file": "Notas/Computação/Sistemas/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
+                "file": "Notas/Computação/Sistemas/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
+                "file": "Notas/Computação/Sistemas/Threads.md"
               }
             }
           },
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1c15f0373cb9644",
+  "active": "969d69837ef1dc65",
   "lastOpenFiles": [
+    "Notas/Computação/Sistemas/Sistemas Operacionais.md",
+    "Notas/Computação/Sistemas/Threads.md",
+    "Notas/arquivos/Pasted image 20231006093201.png",
+    "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
     "Notas/Computação/Sistemas/Processos.md",
     "Notas/arquivos/Pasted image 20231004095234.png",
     "Notas/arquivos/Pasted image 20231004093642.png",
@@ -168,10 +173,8 @@
     "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md",
     "Notas/Matemática/Algebra Abstrata/Gerando Números Primos.md",
     "Notas/Matemática/Algebra Abstrata/Exponenciação Binária.md",
-    "Notas/Computação/Sistemas/Sistemas Operacionais.md",
     "Notas/arquivos/Pasted image 20231003193444.png",
     "Notas/arquivos/Pasted image 20231003193412.png",
-    "Notas/arquivos/Pasted image 20231003193322.png",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Corretude de Programas/Introdução ao Teste de Software.md",
     "Notas/Computação/Corretude de Programas/Introdução à Programação Defensiva.md",
@@ -192,8 +195,6 @@
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Hard.md",
     "Notas/Computação/Algoritmos/Intratabilidade/NP-Completude.md",
     "Notas/Computação/Algoritmos/Intratabilidade/Intodução a Intratabilidade.md",
-    "Notas/Matemática/Algebra Linear/Normas de Vetores.md",
-    "Notas/Matemática/Algebra Linear/Normas de Matrizes.md",
     "Notas/Matemática/Algebra Abstrata"
   ]
 }

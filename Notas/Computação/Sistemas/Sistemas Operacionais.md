@@ -1,5 +1,5 @@
 Um sistema operacional é um programa que realiza a interface entre o hardware e o usuário, fazendo a gestão dos recursos e apresentando eles de forma mais simples e compreensível para os usuários.
-Entre as responsabilidades do sistema operacional, estão o gerenciamento de [[Hierarquia de Memória|memória]][[Memória Cache|]], de privilégios, dos dispositivos (mouse, teclado, monitor, etc.), o sistema de arquivos e o sistema de processos.
+Entre as responsabilidades do sistema operacional, estão o gerenciamento de [[Hierarquia de Memória|memória]], de privilégios, dos dispositivos (mouse, teclado, monitor, etc.), o sistema de arquivos e o sistema de processos.
 
 ---
 
