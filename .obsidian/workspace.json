@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Sistemas/Processos.md",
-                "mode": "source",
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.51103591918945,
-    "collapsed": true
+    "width": 281.51103591918945
   },
   "right": {
     "id": "ea56197e955d855a",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Sistemas/Processos.md",
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Sistemas/Processos.md",
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Sistemas/Processos.md"
+                "file": "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md"
               }
             }
           },
@@ -156,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c678fcae2a78f1dc",
+  "active": "f1c15f0373cb9644",
   "lastOpenFiles": [
+    "Notas/Computação/Sistemas/Processos.md",
     "Notas/arquivos/Pasted image 20231004095234.png",
     "Notas/arquivos/Pasted image 20231004093642.png",
     "Notas/arquivos/Pasted image 20231004085336.png",
@@ -168,12 +168,10 @@
     "Notas/Matemática/Matemática Discreta/Grafos/Introdução a Grafos.md",
     "Notas/Matemática/Algebra Abstrata/Gerando Números Primos.md",
     "Notas/Matemática/Algebra Abstrata/Exponenciação Binária.md",
-    "Notas/Computação/Sistemas/Processos.md",
     "Notas/Computação/Sistemas/Sistemas Operacionais.md",
     "Notas/arquivos/Pasted image 20231003193444.png",
     "Notas/arquivos/Pasted image 20231003193412.png",
     "Notas/arquivos/Pasted image 20231003193322.png",
-    "Notas/arquivos/Pasted image 20231003192914.png",
     "Notas/Computação/Algoritmos/Complexidade Assintótica das Funções/Teorema Mestre.md",
     "Notas/Computação/Corretude de Programas/Introdução ao Teste de Software.md",
     "Notas/Computação/Corretude de Programas/Introdução à Programação Defensiva.md",
