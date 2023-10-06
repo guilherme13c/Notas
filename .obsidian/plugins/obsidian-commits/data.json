@@ -605,7 +605,7 @@
       "links": 14
     },
     "Notas/Computação/Sistemas/Threads.md": {
-      "size": 0,
+      "size": 2123,
       "tags": 0,
       "links": 4
     }
@@ -615,7 +615,7 @@
       "Refactor": 13,
       "Create": 6,
       "Link": 23,
-      "Expand": 12
+      "Expand": 13
     }
   },
   "dailyCommits": {
@@ -630,7 +630,7 @@
       "7": 0,
       "8": 11,
       "9": 11,
-      "10": 1,
+      "10": 2,
       "11": 0,
       "12": 1,
       "13": 0,
@@ -652,7 +652,7 @@
       "Tue": 17,
       "Wed": 18,
       "Thu": 2,
-      "Fri": 12,
+      "Fri": 13,
       "Sat": 0,
       "Sun": 0
     }
@@ -671,7 +671,8 @@
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
         "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
-        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>"
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Processos.md\"> Processos </a>",
+        "<a class=\"internal-link\" href=\"Notas/Computação/Sistemas/Threads.md\"> Threads </a>"
       ],
       "Created": [
         "<a class=\"internal-link\" href=\"Untitled.md\"> Untitled </a>",
