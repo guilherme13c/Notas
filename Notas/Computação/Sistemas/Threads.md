@@ -58,9 +58,7 @@
 - O S.O. cria um número “suficiente” de threads
 - Bibliotecas de threads de usuário fazem mapeamento como preferirem
 	- Threads Solaris 2 (threads x light-weight process)
-	- Windows NT/2000 com pacote ThreadFiber
-	- Linux com bibliotecas Pthreads
+	- Windows NT/2000 com pacote *ThreadFiber*
+	- Linux com bibliotecas *Pthreads*
 
 ---
-
-
