@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Computação/Sistemas/Threads.md",
+                "file": "Notas/Computação/Sistemas/Processos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Computação/Sistemas/Threads.md",
+                "file": "Notas/Computação/Sistemas/Processos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Computação/Sistemas/Threads.md",
+                "file": "Notas/Computação/Sistemas/Processos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Computação/Sistemas/Threads.md"
+                "file": "Notas/Computação/Sistemas/Processos.md"
               }
             }
           },
@@ -158,11 +158,11 @@
   },
   "active": "969d69837ef1dc65",
   "lastOpenFiles": [
-    "Notas/Computação/Sistemas/Sistemas Operacionais.md",
     "Notas/Computação/Sistemas/Threads.md",
+    "Notas/Computação/Sistemas/Sistemas Operacionais.md",
+    "Notas/Computação/Sistemas/Processos.md",
     "Notas/arquivos/Pasted image 20231006093201.png",
     "Notas/Computação/Algoritmos/Classes de Algoritmos/Algoritmos Gulosos/Optimal Caching.md",
-    "Notas/Computação/Sistemas/Processos.md",
     "Notas/arquivos/Pasted image 20231004095234.png",
     "Notas/arquivos/Pasted image 20231004093642.png",
     "Notas/arquivos/Pasted image 20231004085336.png",
